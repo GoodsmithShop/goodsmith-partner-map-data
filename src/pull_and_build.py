@@ -19,21 +19,6 @@ GOOGLE_KEY = os.environ["GOOGLE_GEOCODING_KEY"]
 PUBLIC_PARTNERS_PATH = "partners.json"
 PUBLIC_GEOCACHE_PATH = "geocache.json"
 
-# Metafields (namespace fixed)
-NS = "customer_fields"
-
-MF_KEYS = {
-    "listung": ("customer_fields", "listung"),
-    "gs_hufschuh": ("customer_fields", "gs_hufschuh"),
-    "gs_klebebeschlag": ("customer_fields", "gs_klebebeschlag"),
-    "land_listung": ("customer_fields", "land_listung"),
-    "stadt_listung": ("customer_fields", "stadt_listung"),
-    "plz_listug": ("customer_fields", "plz_listug"),  # IMPORTANT: key is plz_listug (as in your Shopify)
-    "anzeigename": ("customer_fields", "anzeigename"),
-    "bevorzugte_kontaktaufnahme_1": ("customer_fields", "bevorzugte_kontaktaufnahme_1"),
-    "ausbildung": ("customer_fields", "ausbildung"),  # NEW
-}
-
 
 # -----------------------------
 # Helpers
@@ -46,14 +31,11 @@ def safe_json_load(path: str, default: Any) -> Any:
     try:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
-    except FileNotFoundError:
-        return default
-    except json.JSONDecodeError:
+    except (FileNotFoundError, json.JSONDecodeError):
         return default
 
 
 def safe_json_write(path: str, data: Any) -> None:
-    # FIX: if path is in repo root, dirname is "" -> os.makedirs("") would crash
     dirpath = os.path.dirname(path)
     if dirpath:
         os.makedirs(dirpath, exist_ok=True)
@@ -67,15 +49,10 @@ def safe_json_write(path: str, data: Any) -> None:
 def parse_bool(val: Optional[str]) -> bool:
     if val is None:
         return False
-    v = str(val).strip().lower()
-    return v in ("true", "1", "yes", "y", "on")
+    return str(val).strip().lower() in ("true", "1", "yes", "y", "on")
 
 
 def parse_list(val: Optional[str]) -> List[str]:
-    """
-    Shopify list metafields often come back as a JSON string, e.g. '["Mail","Telefon"]'.
-    Sometimes it can be a single string.
-    """
     if not val:
         return []
     s = str(val).strip()
@@ -86,8 +63,7 @@ def parse_list(val: Optional[str]) -> List[str]:
                 return [str(x) for x in arr if str(x).strip()]
         except Exception:
             pass
-    # fallback: treat as single value
-    return [s] if s else []
+    return [s]
 
 
 def shopify_admin_graphql_url() -> str:
@@ -95,9 +71,6 @@ def shopify_admin_graphql_url() -> str:
 
 
 def get_shopify_access_token() -> str:
-    """
-    Client Credentials Grant per Shopify docs.
-    """
     url = f"https://{SHOP}/admin/oauth/access_token"
     payload = {
         "client_id": CLIENT_ID,
@@ -106,11 +79,7 @@ def get_shopify_access_token() -> str:
     }
     r = requests.post(url, json=payload, timeout=30)
     r.raise_for_status()
-    data = r.json()
-    token = data.get("access_token")
-    if not token:
-        raise RuntimeError(f"No access_token in response: {data}")
-    return token
+    return r.json()["access_token"]
 
 
 def shopify_graphql(token: str, query: str, variables: Dict[str, Any]) -> Dict[str, Any]:
@@ -120,64 +89,49 @@ def shopify_graphql(token: str, query: str, variables: Dict[str, Any]) -> Dict[s
     }
     body = {"query": query, "variables": variables}
 
-    # basic retry for 429/5xx
     for attempt in range(6):
         r = requests.post(shopify_admin_graphql_url(), headers=headers, json=body, timeout=60)
         if r.status_code in (429, 500, 502, 503, 504):
-            wait = min(60, 2 ** attempt)
-            print(f"Shopify GraphQL retry {attempt+1}/6 (status {r.status_code}) waiting {wait}s")
-            time.sleep(wait)
+            time.sleep(min(60, 2 ** attempt))
             continue
         r.raise_for_status()
         data = r.json()
-        if "errors" in data and data["errors"]:
-            raise RuntimeError(f"GraphQL errors: {data['errors']}")
+        if data.get("errors"):
+            raise RuntimeError(data["errors"])
         return data["data"]
+
     raise RuntimeError("Shopify GraphQL failed after retries")
 
 
 def get_metafield_value(node: Dict[str, Any], alias: str) -> Optional[str]:
     mf = node.get(alias)
-    if not mf:
-        return None
-    return mf.get("value")
+    return mf.get("value") if mf else None
 
 
 def geocode_location(address: str) -> Optional[Tuple[float, float, str]]:
-    """
-    Google Geocoding API.
-    Returns (lat, lng, formatted_address) or None.
-    """
     url = "https://maps.googleapis.com/maps/api/geocode/json"
     params = {"address": address, "key": GOOGLE_KEY}
+
     for attempt in range(5):
         r = requests.get(url, params=params, timeout=30)
         if r.status_code in (429, 500, 502, 503, 504):
-            wait = min(60, 2 ** attempt)
-            print(f"Geocoding retry {attempt+1}/5 (status {r.status_code}) waiting {wait}s")
-            time.sleep(wait)
+            time.sleep(min(60, 2 ** attempt))
             continue
+
         r.raise_for_status()
         data = r.json()
-        status = data.get("status")
-        if status == "OK" and data.get("results"):
-            res0 = data["results"][0]
-            loc = res0["geometry"]["location"]
-            lat = float(loc["lat"])
-            lng = float(loc["lng"])
-            fmt = str(res0.get("formatted_address") or "")
-            return lat, lng, fmt
-        if status in ("ZERO_RESULTS", "INVALID_REQUEST"):
+        if data.get("status") == "OK" and data.get("results"):
+            loc = data["results"][0]["geometry"]["location"]
+            return float(loc["lat"]), float(loc["lng"]), data["results"][0]["formatted_address"]
+
+        if data.get("status") in ("ZERO_RESULTS", "INVALID_REQUEST"):
             return None
-        # OVER_QUERY_LIMIT or unknown -> retry with backoff
-        wait = min(60, 2 ** attempt)
-        print(f"Geocoding status={status}, retry {attempt+1}/5 waiting {wait}s")
-        time.sleep(wait)
+
     return None
 
 
 # -----------------------------
-# Main build
+# GraphQL Query
 # -----------------------------
 CUSTOMERS_QUERY = """
 query CustomersForPartnerMap($cursor: String) {
@@ -201,7 +155,6 @@ query CustomersForPartnerMap($cursor: String) {
 
         mf_anzeigename: metafield(namespace: "customer_fields", key: "anzeigename") { value }
         mf_preferred: metafield(namespace: "customer_fields", key: "bevorzugte_kontaktaufnahme_1") { value }
-
         mf_ausbildung: metafield(namespace: "customer_fields", key: "ausbildung") { value }
       }
     }
@@ -210,150 +163,89 @@ query CustomersForPartnerMap($cursor: String) {
 """
 
 
+# -----------------------------
+# Main
+# -----------------------------
 def main() -> None:
     token = get_shopify_access_token()
-    print("Got Shopify access token.")
 
     geocache: Dict[str, Any] = safe_json_load(PUBLIC_GEOCACHE_PATH, {})
-    if not isinstance(geocache, dict):
-        geocache = {}
-
     partners: List[Dict[str, Any]] = []
+
     cursor = None
-    total_customers = 0
-    listed_candidates = 0
-    geocoded_new = 0
-    skipped_missing_location = 0
-    skipped_geocode_fail = 0
 
     while True:
         data = shopify_graphql(token, CUSTOMERS_QUERY, {"cursor": cursor})
         customers = data["customers"]
-        edges = customers["edges"]
-        total_customers += len(edges)
 
-        for edge in edges:
+        for edge in customers["edges"]:
             node = edge["node"]
 
-            listung_val = get_metafield_value(node, "mf_listung")
-            if not parse_bool(listung_val):
+            if not parse_bool(get_metafield_value(node, "mf_listung")):
                 continue
-
-            listed_candidates += 1
 
             zip_code = (get_metafield_value(node, "mf_plz") or "").strip()
             city = (get_metafield_value(node, "mf_stadt") or "").strip()
             country = (get_metafield_value(node, "mf_land") or "").strip()
 
             if not zip_code or not city or not country:
-                skipped_missing_location += 1
                 continue
 
-            # display name
-            anzeigename = (get_metafield_value(node, "mf_anzeigename") or "").strip()
-            first = (node.get("firstName") or "").strip()
-            last = (node.get("lastName") or "").strip()
-            fallback_name = (first + " " + last).strip()
-            display_name = anzeigename or fallback_name or "Partner"
+            display_name = (
+                (get_metafield_value(node, "mf_anzeigename") or "").strip()
+                or f"{node.get('firstName','')} {node.get('lastName','')}".strip()
+                or "Partner"
+            )
 
             preferred = parse_list(get_metafield_value(node, "mf_preferred"))
+            ausbildung = (get_metafield_value(node, "mf_ausbildung") or "").strip() or None
 
-            # NEW: ausbildung
-            ausbildung = (get_metafield_value(node, "mf_ausbildung") or "").strip()
-            if not ausbildung:
-                ausbildung = None
-
-            # services
-            hufschuh = parse_bool(get_metafield_value(node, "mf_hufschuh"))
-            klebebeschlag = parse_bool(get_metafield_value(node, "mf_klebebeschlag"))
-
-            # geocode (PLZ/Ort/Land)
             cache_key = f"{zip_code}|{city}|{country}".lower()
             cached = geocache.get(cache_key)
 
-            lat = lng = None
-            if isinstance(cached, dict) and "lat" in cached and "lng" in cached:
-                lat = float(cached["lat"])
-                lng = float(cached["lng"])
+            if cached:
+                lat, lng = cached["lat"], cached["lng"]
             else:
-                query_addr = f"{zip_code} {city}, {country}"
-                res = geocode_location(query_addr)
-                if not res:
-                    skipped_geocode_fail += 1
+                geo = geocode_location(f"{zip_code} {city}, {country}")
+                if not geo:
                     continue
-                lat, lng, formatted = res
+                lat, lng, formatted = geo
                 geocache[cache_key] = {"lat": lat, "lng": lng, "formatted": formatted}
-                geocoded_new += 1
-                # small delay to be gentle with API quotas
                 time.sleep(0.02)
 
-            partner = {
-                "partner_id": node["id"],  # Shopify GID
+            partners.append({
+                "partner_id": node["id"],
                 "display_name": display_name,
                 "zip": zip_code,
                 "city": city,
-                "country": country,  # your fixed label (Germany, Austria, ...)
+                "country": country,
                 "lat": lat,
                 "lng": lng,
-                "ausbildung": ausbildung,  # NEW
+                "ausbildung": ausbildung,
                 "services": {
-                    "hufschuh": hufschuh,
-                    "klebebeschlag": klebebeschlag,
+                    "hufschuh": parse_bool(get_metafield_value(node, "mf_hufschuh")),
+                    "klebebeschlag": parse_bool(get_metafield_value(node, "mf_klebebeschlag")),
                 },
                 "contact": {
                     "email": node.get("email"),
                     "phone": node.get("phone"),
                     "preferred": preferred,
                 },
-            }
-            partners.append(partner)
+            })
 
-        page_info = customers["pageInfo"]
-        if page_info["hasNextPage"]:
-            cursor = page_info["endCursor"]
-            # short pause to reduce risk of rate limiting
+        if customers["pageInfo"]["hasNextPage"]:
+            cursor = customers["pageInfo"]["endCursor"]
             time.sleep(0.2)
         else:
             break
 
-    out = {
+    safe_json_write(PUBLIC_PARTNERS_PATH, {
         "schema_version": 1,
         "generated_at": utc_now_iso(),
         "partners": partners,
-    }
-
-    safe_json_write(PUBLIC_PARTNERS_PATH, out)
+    })
     safe_json_write(PUBLIC_GEOCACHE_PATH, geocache)
-
-    print("----- Summary -----")
-    print(f"Total customers scanned: {total_customers}")
-    print(f"Listing enabled candidates: {listed_candidates}")
-    print(f"Partners written: {len(partners)}")
-    print(f"New geocodes performed: {geocoded_new}")
-    print(f"Skipped (missing zip/city/country): {skipped_missing_location}")
-    print(f"Skipped (geocoding failed): {skipped_geocode_fail}")
 
 
 if __name__ == "__main__":
     main()
-      - name: Build partners.json
-        env:
-          SHOPIFY_SHOP: ${{ secrets.SHOPIFY_SHOP }}
-          SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
-          SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
-          SHOPIFY_API_VERSION: ${{ secrets.SHOPIFY_API_VERSION }}
-          GOOGLE_GEOCODING_KEY: ${{ secrets.GOOGLE_GEOCODING_KEY }}
-        run: |
-          set -e
-          echo "Branch in runner:"
-          git branch --show-current
-          echo "Before build generated_at:"
-          if [ -f partners.json ]; then python -c "import json; print(json.load(open('partners.json'))['generated_at'])"; else echo "no partners.json"; fi
-
-          python src/pull_and_build.py
-
-          echo "After build generated_at:"
-          python -c "import json; print(json.load(open('partners.json'))['generated_at'])"
-          grep -q '"ausbildung"' partners.json && echo "ausbildung present" || echo "ausbildung missing"
-          git status
-          git diff --stat
