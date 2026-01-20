@@ -12,8 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout data branch
         uses: actions/checkout@v4
+        with:
+          ref: data
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,8 +36,10 @@ jobs:
           GOOGLE_GEOCODING_KEY: ${{ secrets.GOOGLE_GEOCODING_KEY }}
         run: |
           python src/pull_and_build.py
+          echo "generated_at after build:"
+          python -c "import json; print(json.load(open('partners.json'))['generated_at'])"
 
-      - name: Commit and push if changed
+      - name: Commit and push to data if changed
         run: |
           git config user.name "goodsmith-map-bot"
           git config user.email "actions@github.com"
@@ -44,5 +48,5 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Daily build partners.json"
-          git push
+          git commit -m "Update partner map data"
+          git push origin data
