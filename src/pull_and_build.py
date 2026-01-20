@@ -336,3 +336,24 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+      - name: Build partners.json
+        env:
+          SHOPIFY_SHOP: ${{ secrets.SHOPIFY_SHOP }}
+          SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+          SHOPIFY_API_VERSION: ${{ secrets.SHOPIFY_API_VERSION }}
+          GOOGLE_GEOCODING_KEY: ${{ secrets.GOOGLE_GEOCODING_KEY }}
+        run: |
+          set -e
+          echo "Branch in runner:"
+          git branch --show-current
+          echo "Before build generated_at:"
+          if [ -f partners.json ]; then python -c "import json; print(json.load(open('partners.json'))['generated_at'])"; else echo "no partners.json"; fi
+
+          python src/pull_and_build.py
+
+          echo "After build generated_at:"
+          python -c "import json; print(json.load(open('partners.json'))['generated_at'])"
+          grep -q '"ausbildung"' partners.json && echo "ausbildung present" || echo "ausbildung missing"
+          git status
+          git diff --stat
