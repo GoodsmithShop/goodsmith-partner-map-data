@@ -17,8 +17,8 @@ CLIENT_SECRET = os.environ["SHOPIFY_CLIENT_SECRET"]
 API_VERSION = os.environ.get("SHOPIFY_API_VERSION", "2026-01")
 GOOGLE_KEY = os.environ["GOOGLE_GEOCODING_KEY"]
 
-PUBLIC_PARTNERS_PATH = "public/partners.json"
-PUBLIC_GEOCACHE_PATH = "public/geocache.json"
+PUBLIC_PARTNERS_PATH = "partners.json"
+PUBLIC_GEOCACHE_PATH = "geocache.json"
 
 # Metafields (namespace fixed)
 NS = "customer_fields"
