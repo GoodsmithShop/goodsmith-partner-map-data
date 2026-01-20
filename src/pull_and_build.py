@@ -1,7 +1,6 @@
 import os
 import json
 import time
-import math
 import datetime
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -32,6 +31,7 @@ MF_KEYS = {
     "plz_listug": ("customer_fields", "plz_listug"),  # IMPORTANT: key is plz_listug (as in your Shopify)
     "anzeigename": ("customer_fields", "anzeigename"),
     "bevorzugte_kontaktaufnahme_1": ("customer_fields", "bevorzugte_kontaktaufnahme_1"),
+    "ausbildung": ("customer_fields", "ausbildung"),  # NEW
 }
 
 
@@ -53,7 +53,11 @@ def safe_json_load(path: str, default: Any) -> Any:
 
 
 def safe_json_write(path: str, data: Any) -> None:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    # FIX: if path is in repo root, dirname is "" -> os.makedirs("") would crash
+    dirpath = os.path.dirname(path)
+    if dirpath:
+        os.makedirs(dirpath, exist_ok=True)
+
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -197,6 +201,8 @@ query CustomersForPartnerMap($cursor: String) {
 
         mf_anzeigename: metafield(namespace: "customer_fields", key: "anzeigename") { value }
         mf_preferred: metafield(namespace: "customer_fields", key: "bevorzugte_kontaktaufnahme_1") { value }
+
+        mf_ausbildung: metafield(namespace: "customer_fields", key: "ausbildung") { value }
       }
     }
   }
@@ -252,6 +258,11 @@ def main() -> None:
 
             preferred = parse_list(get_metafield_value(node, "mf_preferred"))
 
+            # NEW: ausbildung
+            ausbildung = (get_metafield_value(node, "mf_ausbildung") or "").strip()
+            if not ausbildung:
+                ausbildung = None
+
             # services
             hufschuh = parse_bool(get_metafield_value(node, "mf_hufschuh"))
             klebebeschlag = parse_bool(get_metafield_value(node, "mf_klebebeschlag"))
@@ -284,6 +295,7 @@ def main() -> None:
                 "country": country,  # your fixed label (Germany, Austria, ...)
                 "lat": lat,
                 "lng": lng,
+                "ausbildung": ausbildung,  # NEW
                 "services": {
                     "hufschuh": hufschuh,
                     "klebebeschlag": klebebeschlag,
