@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "goodsmith-map-bot"
           git config user.email "actions@github.com"
-          git add public/partners.json public/geocache.json
+          git add partners.json geocache.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
