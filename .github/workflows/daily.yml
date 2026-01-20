@@ -12,10 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout data branch
+      - name: Checkout main (source)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: src_repo
+
+      - name: Checkout data (publish)
         uses: actions/checkout@v4
         with:
           ref: data
+          path: data_repo
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,7 +34,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Build partners.json
+      - name: Build partners.json into data branch folder
         env:
           SHOPIFY_SHOP: ${{ secrets.SHOPIFY_SHOP }}
           SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
@@ -35,12 +42,15 @@ jobs:
           SHOPIFY_API_VERSION: ${{ secrets.SHOPIFY_API_VERSION }}
           GOOGLE_GEOCODING_KEY: ${{ secrets.GOOGLE_GEOCODING_KEY }}
         run: |
+          cd src_repo
           python src/pull_and_build.py
-          echo "generated_at after build:"
-          python -c "import json; print(json.load(open('partners.json'))['generated_at'])"
+          # move outputs into data branch working tree
+          mv partners.json ../data_repo/partners.json
+          mv geocache.json ../data_repo/geocache.json
 
-      - name: Commit and push to data if changed
+      - name: Commit and push data branch if changed
         run: |
+          cd data_repo
           git config user.name "goodsmith-map-bot"
           git config user.email "actions@github.com"
           git add partners.json geocache.json
