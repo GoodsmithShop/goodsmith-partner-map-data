@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-01-20T06:46:19+00:00",
+  "generated_at": "2026-01-20T10:24:32+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -10,6 +10,7 @@
       "country": "Germany",
       "lat": 53.6476751,
       "lng": 10.1645331,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -31,6 +32,7 @@
       "country": "Germany",
       "lat": 48.8777333,
       "lng": 12.5801538,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -53,6 +55,7 @@
       "country": "Austria",
       "lat": 47.4891434,
       "lng": 9.5797283,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -73,6 +76,7 @@
       "country": "Germany",
       "lat": 53.3574436,
       "lng": 10.2127204,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -94,6 +98,7 @@
       "country": "Germany",
       "lat": 48.1693033,
       "lng": 10.8975732,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -115,6 +120,7 @@
       "country": "Germany",
       "lat": 48.4579893,
       "lng": 10.1956764,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -136,6 +142,7 @@
       "country": "Austria",
       "lat": 48.0173952,
       "lng": 14.4485631,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -157,6 +164,7 @@
       "country": "Germany",
       "lat": 50.9930323,
       "lng": 6.786287799999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -178,6 +186,7 @@
       "country": "Germany",
       "lat": 53.8177595,
       "lng": 9.5124148,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -199,6 +208,7 @@
       "country": "Germany",
       "lat": 50.52679860000001,
       "lng": 6.5448019,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -220,6 +230,7 @@
       "country": "Germany",
       "lat": 51.4360422,
       "lng": 7.3717166,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -241,6 +252,7 @@
       "country": "Germany",
       "lat": 52.4908312,
       "lng": 13.8966739,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -262,6 +274,7 @@
       "country": "Germany",
       "lat": 48.9679004,
       "lng": 13.0000655,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -283,6 +296,7 @@
       "country": "Germany",
       "lat": 47.7878785,
       "lng": 10.9268827,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -304,6 +318,7 @@
       "country": "Germany",
       "lat": 48.19489919999999,
       "lng": 8.47701,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -325,6 +340,7 @@
       "country": "Austria",
       "lat": 47.0528942,
       "lng": 16.1222821,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -347,6 +363,7 @@
       "country": "Germany",
       "lat": 48.7624931,
       "lng": 9.599446,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -368,6 +385,7 @@
       "country": "France",
       "lat": 48.340111,
       "lng": 7.0138737,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -389,6 +407,7 @@
       "country": "Germany",
       "lat": 49.5885454,
       "lng": 12.4089718,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -410,6 +429,7 @@
       "country": "Germany",
       "lat": 53.581361,
       "lng": 8.5915275,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -432,6 +452,7 @@
       "country": "Germany",
       "lat": 48.8800511,
       "lng": 9.2807956,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -453,6 +474,7 @@
       "country": "Germany",
       "lat": 51.5797202,
       "lng": 10.538447,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -474,6 +496,7 @@
       "country": "Germany",
       "lat": 50.4127451,
       "lng": 9.007875799999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -495,6 +518,7 @@
       "country": "Germany",
       "lat": 47.6022963,
       "lng": 12.9844511,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -517,6 +541,7 @@
       "country": "Germany",
       "lat": 47.77337439999999,
       "lng": 8.2582602,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -538,6 +563,7 @@
       "country": "Germany",
       "lat": 50.92112849999999,
       "lng": 13.9294286,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -559,6 +585,7 @@
       "country": "Slovenia",
       "lat": 46.0363798,
       "lng": 14.4896074,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -580,6 +607,7 @@
       "country": "Switzerland",
       "lat": 47.1758438,
       "lng": 8.5919634,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -601,6 +629,7 @@
       "country": "Germany",
       "lat": 47.6247779,
       "lng": 8.117694799999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -622,6 +651,7 @@
       "country": "Germany",
       "lat": 54.3763991,
       "lng": 9.3149327,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -643,6 +673,7 @@
       "country": "Germany",
       "lat": 50.8192028,
       "lng": 9.808753399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -664,6 +695,7 @@
       "country": "Germany",
       "lat": 51.1803587,
       "lng": 7.498275100000001,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -685,6 +717,7 @@
       "country": "Slovenia",
       "lat": 46.3789875,
       "lng": 14.0683139,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -706,6 +739,7 @@
       "country": "Germany",
       "lat": 50.287682,
       "lng": 7.9218546,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -727,6 +761,7 @@
       "country": "Germany",
       "lat": 50.135243,
       "lng": 8.3014158,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -748,6 +783,7 @@
       "country": "Germany",
       "lat": 54.2116791,
       "lng": 9.9298234,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -769,6 +805,7 @@
       "country": "Germany",
       "lat": 50.1620049,
       "lng": 9.2974301,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -790,6 +827,7 @@
       "country": "Germany",
       "lat": 51.20890379999999,
       "lng": 8.0182899,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -811,6 +849,7 @@
       "country": "Germany",
       "lat": 47.8306596,
       "lng": 7.9454669,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -832,6 +871,7 @@
       "country": "Germany",
       "lat": 51.28028399999999,
       "lng": 7.034960799999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -853,6 +893,7 @@
       "country": "Austria",
       "lat": 48.5625696,
       "lng": 16.0787228,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -874,6 +915,7 @@
       "country": "Germany",
       "lat": 51.0759242,
       "lng": 13.1732341,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -895,6 +937,7 @@
       "country": "Germany",
       "lat": 53.1721481,
       "lng": 13.752424,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -916,6 +959,7 @@
       "country": "Germany",
       "lat": 52.2794628,
       "lng": 13.0051422,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -937,6 +981,7 @@
       "country": "Germany",
       "lat": 48.4082185,
       "lng": 7.7758965,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -958,6 +1003,7 @@
       "country": "Germany",
       "lat": 48.3846109,
       "lng": 11.048474,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -979,6 +1025,7 @@
       "country": "Austria",
       "lat": 48.0870325,
       "lng": 16.3428558,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -1000,6 +1047,7 @@
       "country": "Switzerland",
       "lat": 47.1819903,
       "lng": 8.0009062,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1021,6 +1069,7 @@
       "country": "Germany",
       "lat": 51.0334817,
       "lng": 13.8952564,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1042,6 +1091,7 @@
       "country": "Germany",
       "lat": 47.736042,
       "lng": 10.381426,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -1062,6 +1112,7 @@
       "country": "Germany",
       "lat": 48.338844,
       "lng": 9.9464176,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1083,6 +1134,7 @@
       "country": "Germany",
       "lat": 54.2007669,
       "lng": 13.1984435,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1104,6 +1156,7 @@
       "country": "Austria",
       "lat": 47.0663339,
       "lng": 10.8472905,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1125,6 +1178,7 @@
       "country": "Germany",
       "lat": 52.6207928,
       "lng": 14.1282684,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1146,6 +1200,7 @@
       "country": "Austria",
       "lat": 48.0948678,
       "lng": 16.2363179,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1167,6 +1222,7 @@
       "country": "Germany",
       "lat": 51.1803587,
       "lng": 7.498275100000001,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -1188,6 +1244,7 @@
       "country": "Germany",
       "lat": 49.3778962,
       "lng": 6.782782000000001,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1209,6 +1266,7 @@
       "country": "Germany",
       "lat": 51.4564907,
       "lng": 10.6425106,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1230,6 +1288,7 @@
       "country": "Germany",
       "lat": 51.10792679999999,
       "lng": 7.059227,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1251,6 +1310,7 @@
       "country": "Austria",
       "lat": 48.22506,
       "lng": 15.56761,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1272,6 +1332,7 @@
       "country": "Germany",
       "lat": 51.1457172,
       "lng": 9.8772053,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1293,6 +1354,7 @@
       "country": "Austria",
       "lat": 46.7008859,
       "lng": 14.1639282,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1314,6 +1376,7 @@
       "country": "Germany",
       "lat": 52.07366529999999,
       "lng": 9.1035118,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -1335,6 +1398,7 @@
       "country": "Austria",
       "lat": 47.9968343,
       "lng": 16.0462739,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1356,6 +1420,7 @@
       "country": "Germany",
       "lat": 52.6510938,
       "lng": 11.7461414,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1377,6 +1442,7 @@
       "country": "Germany",
       "lat": 53.47282670000001,
       "lng": 7.485800999999999,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1398,6 +1464,7 @@
       "country": "Austria",
       "lat": 46.64450919999999,
       "lng": 14.3271202,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1419,6 +1486,7 @@
       "country": "Austria",
       "lat": 48.117113,
       "lng": 16.3462431,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1440,6 +1508,7 @@
       "country": "Austria",
       "lat": 47.9341352,
       "lng": 16.4778275,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1461,6 +1530,7 @@
       "country": "Germany",
       "lat": 51.20890379999999,
       "lng": 8.0182899,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1482,6 +1552,7 @@
       "country": "Germany",
       "lat": 48.9180518,
       "lng": 13.0816748,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1503,6 +1574,7 @@
       "country": "Germany",
       "lat": 50.6645368,
       "lng": 7.7671685,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -1524,6 +1596,7 @@
       "country": "Austria",
       "lat": 48.0870325,
       "lng": 16.3428558,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1545,6 +1618,7 @@
       "country": "Germany",
       "lat": 50.4323597,
       "lng": 12.6966658,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1566,6 +1640,7 @@
       "country": "Germany",
       "lat": 51.4929572,
       "lng": 6.7986944,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1587,6 +1662,7 @@
       "country": "Germany",
       "lat": 53.136959,
       "lng": 9.818976,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1608,6 +1684,7 @@
       "country": "Germany",
       "lat": 51.3331676,
       "lng": 6.339554499999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1629,6 +1706,7 @@
       "country": "Germany",
       "lat": 52.5237007,
       "lng": 10.0178867,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1650,6 +1728,7 @@
       "country": "Austria",
       "lat": 48.60749999999999,
       "lng": 15.99358,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1671,6 +1750,7 @@
       "country": "Germany",
       "lat": 51.077714,
       "lng": 7.124521,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1692,6 +1772,7 @@
       "country": "Germany",
       "lat": 54.21287479999999,
       "lng": 10.7739592,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1713,6 +1794,7 @@
       "country": "Germany",
       "lat": 47.5928591,
       "lng": 10.003323,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1734,6 +1816,7 @@
       "country": "Germany",
       "lat": 49.2450528,
       "lng": 7.3634022,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1755,6 +1838,7 @@
       "country": "Germany",
       "lat": 50.8037183,
       "lng": 6.4793683,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -1777,6 +1861,7 @@
       "country": "Switzerland",
       "lat": 47.0136232,
       "lng": 9.637891699999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -1798,6 +1883,7 @@
       "country": "Germany",
       "lat": 48.1406439,
       "lng": 8.4158069,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1819,6 +1905,7 @@
       "country": "Germany",
       "lat": 48.0074245,
       "lng": 10.9728947,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1840,6 +1927,7 @@
       "country": "Germany",
       "lat": 50.342192,
       "lng": 6.7434933,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1861,6 +1949,7 @@
       "country": "Germany",
       "lat": 47.835518,
       "lng": 7.5755135,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -1882,6 +1971,7 @@
       "country": "Austria",
       "lat": 48.19413,
       "lng": 15.95838,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1903,6 +1993,7 @@
       "country": "Germany",
       "lat": 51.9286432,
       "lng": 7.3736495,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1925,6 +2016,7 @@
       "country": "Germany",
       "lat": 49.793574,
       "lng": 10.341334,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1946,6 +2038,7 @@
       "country": "Germany",
       "lat": 48.0735675,
       "lng": 7.8842175,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -1966,6 +2059,7 @@
       "country": "Germany",
       "lat": 49.4946803,
       "lng": 7.293779,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -1988,6 +2082,7 @@
       "country": "Germany",
       "lat": 49.5782854,
       "lng": 8.8433733,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2009,6 +2104,7 @@
       "country": "Germany",
       "lat": 49.2065883,
       "lng": 9.5802385,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2030,6 +2126,7 @@
       "country": "Germany",
       "lat": 51.8331306,
       "lng": 6.4641478,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2051,6 +2148,7 @@
       "country": "Germany",
       "lat": 50.7395791,
       "lng": 6.8293338,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2072,6 +2170,7 @@
       "country": "Switzerland",
       "lat": 47.29295,
       "lng": 8.77705,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2093,6 +2192,7 @@
       "country": "Switzerland",
       "lat": 47.181225,
       "lng": 8.4592089,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2114,6 +2214,7 @@
       "country": "Germany",
       "lat": 54.1736324,
       "lng": 10.5589233,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2135,6 +2236,7 @@
       "country": "Switzerland",
       "lat": 46.7792265,
       "lng": 7.6381387,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2156,6 +2258,7 @@
       "country": "Germany",
       "lat": 50.248192,
       "lng": 7.764679699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2177,6 +2280,7 @@
       "country": "Germany",
       "lat": 49.9412634,
       "lng": 11.7227422,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2198,6 +2302,7 @@
       "country": "Germany",
       "lat": 50.6247591,
       "lng": 7.602615600000001,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2219,6 +2324,7 @@
       "country": "Sweden",
       "lat": 57.1784903,
       "lng": 14.508583,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2241,6 +2347,7 @@
       "country": "Germany",
       "lat": 48.7285526,
       "lng": 10.1112206,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2262,6 +2369,7 @@
       "country": "Switzerland",
       "lat": 47.0925191,
       "lng": 9.3390396,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2283,6 +2391,7 @@
       "country": "Germany",
       "lat": 50.9364022,
       "lng": 8.5868134,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2304,6 +2413,7 @@
       "country": "Germany",
       "lat": 48.48212849999999,
       "lng": 8.8828582,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2325,6 +2435,7 @@
       "country": "Germany",
       "lat": 47.7878785,
       "lng": 10.9268827,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2346,6 +2457,7 @@
       "country": "Germany",
       "lat": 50.6826354,
       "lng": 7.4182818,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2367,6 +2479,7 @@
       "country": "Austria",
       "lat": 47.7272183,
       "lng": 16.2144358,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2388,6 +2501,7 @@
       "country": "Germany",
       "lat": 49.7294135,
       "lng": 8.9503604,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2409,6 +2523,7 @@
       "country": "Germany",
       "lat": 48.9780878,
       "lng": 8.5414949,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2430,6 +2545,7 @@
       "country": "Switzerland",
       "lat": 46.9712377,
       "lng": 7.5365043,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2451,6 +2567,7 @@
       "country": "Switzerland",
       "lat": 47.2003879,
       "lng": 8.526752799999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2473,6 +2590,7 @@
       "country": "Germany",
       "lat": 50.9927163,
       "lng": 5.997431,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2494,6 +2612,7 @@
       "country": "Germany",
       "lat": 50.439471,
       "lng": 6.4344607,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2515,6 +2634,7 @@
       "country": "Austria",
       "lat": 47.79163579999999,
       "lng": 13.1751524,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2536,6 +2656,7 @@
       "country": "Switzerland",
       "lat": 47.60986680000001,
       "lng": 8.9155559,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2557,6 +2678,7 @@
       "country": "Austria",
       "lat": 47.7272183,
       "lng": 16.2144358,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2578,6 +2700,7 @@
       "country": "Netherland",
       "lat": 50.9433119,
       "lng": 5.983791099999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -2599,6 +2722,7 @@
       "country": "Austria",
       "lat": 46.7056397,
       "lng": 14.8673959,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2620,6 +2744,7 @@
       "country": "Germany",
       "lat": 51.58688,
       "lng": 7.1548905,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2641,6 +2766,7 @@
       "country": "Switzerland",
       "lat": 46.8967053,
       "lng": 7.469295400000001,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2662,6 +2788,7 @@
       "country": "Germany",
       "lat": 49.877961,
       "lng": 12.3187354,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2683,6 +2810,7 @@
       "country": "Germany",
       "lat": 52.87542879999999,
       "lng": 8.7339691,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2704,6 +2832,7 @@
       "country": "Austria",
       "lat": 47.0109564,
       "lng": 15.3989988,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -2725,6 +2854,7 @@
       "country": "Germany",
       "lat": 47.8619987,
       "lng": 12.7060824,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2746,6 +2876,7 @@
       "country": "Germany",
       "lat": 47.9436562,
       "lng": 10.7432697,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2767,6 +2898,7 @@
       "country": "Germany",
       "lat": 51.262393,
       "lng": 7.1552397,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2788,6 +2920,7 @@
       "country": "Switzerland",
       "lat": 47.125834,
       "lng": 7.5657815,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2809,6 +2942,7 @@
       "country": "Switzerland",
       "lat": 47.2522495,
       "lng": 9.1275795,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2830,6 +2964,7 @@
       "country": "Germany",
       "lat": 49.92498140000001,
       "lng": 7.3833144,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -2851,6 +2986,7 @@
       "country": "Switzerland",
       "lat": 47.31647460000001,
       "lng": 7.939797599999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2872,6 +3008,7 @@
       "country": "Austria",
       "lat": 46.6232529,
       "lng": 13.9384029,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2893,6 +3030,7 @@
       "country": "Austria",
       "lat": 47.188946,
       "lng": 14.7513432,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2914,6 +3052,7 @@
       "country": "Germany",
       "lat": 51.0618662,
       "lng": 13.854772,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2935,6 +3074,7 @@
       "country": "Switzerland",
       "lat": 47.23066009999999,
       "lng": 7.463138900000001,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2956,6 +3096,7 @@
       "country": "Germany",
       "lat": 48.8426674,
       "lng": 10.8536544,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2977,6 +3118,7 @@
       "country": "Germany",
       "lat": 51.3647405,
       "lng": 9.3936175,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -2998,6 +3140,7 @@
       "country": "Germany",
       "lat": 53.1555884,
       "lng": 8.8970748,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3019,6 +3162,7 @@
       "country": "Germany",
       "lat": 51.449009,
       "lng": 7.8221146,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3040,6 +3184,7 @@
       "country": "Germany",
       "lat": 48.9050182,
       "lng": 8.5002662,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3061,6 +3206,7 @@
       "country": "Germany",
       "lat": 49.536595,
       "lng": 8.7845628,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3083,6 +3229,7 @@
       "country": "Germany",
       "lat": 52.4334138,
       "lng": 13.390674,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3104,6 +3251,7 @@
       "country": "Germany",
       "lat": 50.7780476,
       "lng": 6.0887682,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3125,6 +3273,7 @@
       "country": "Switzerland",
       "lat": 47.4967895,
       "lng": 9.3536283,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3146,6 +3295,7 @@
       "country": "Germany",
       "lat": 49.6240554,
       "lng": 8.7600582,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3167,6 +3317,7 @@
       "country": "Germany",
       "lat": 51.1030829,
       "lng": 7.2240777,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3188,6 +3339,7 @@
       "country": "Germany",
       "lat": 50.440517,
       "lng": 12.9526705,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3208,6 +3360,7 @@
       "country": "Switzerland",
       "lat": 47.31647460000001,
       "lng": 7.939797599999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3229,6 +3382,7 @@
       "country": "Germany",
       "lat": 51.05255469999999,
       "lng": 10.2478185,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3250,6 +3404,7 @@
       "country": "Germany",
       "lat": 51.4551847,
       "lng": 8.846507899999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3271,6 +3426,7 @@
       "country": "Germany",
       "lat": 51.4761823,
       "lng": 7.4465564,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3292,6 +3448,7 @@
       "country": "Germany",
       "lat": 54.7849139,
       "lng": 9.430704,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3313,6 +3470,7 @@
       "country": "Germany",
       "lat": 50.692446,
       "lng": 7.2629186,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3334,6 +3492,7 @@
       "country": "Germany",
       "lat": 50.2171726,
       "lng": 8.265894,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3355,6 +3514,7 @@
       "country": "Germany",
       "lat": 50.3468223,
       "lng": 7.7505558,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3376,6 +3536,7 @@
       "country": "Austria",
       "lat": 47.56242779999999,
       "lng": 16.4236607,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -3397,6 +3558,7 @@
       "country": "Switzerland",
       "lat": 47.114231,
       "lng": 8.0923935,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3418,6 +3580,7 @@
       "country": "Germany",
       "lat": 47.5749447,
       "lng": 7.982216900000001,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3439,6 +3602,7 @@
       "country": "Germany",
       "lat": 51.27898889999999,
       "lng": 12.2965373,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3460,6 +3624,7 @@
       "country": "Switzerland",
       "lat": 46.8075487,
       "lng": 7.542155699999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3481,6 +3646,7 @@
       "country": "Germany",
       "lat": 48.3209976,
       "lng": 13.0691741,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3502,6 +3668,7 @@
       "country": "Austria",
       "lat": 47.2943645,
       "lng": 16.1971424,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3523,6 +3690,7 @@
       "country": "Germany",
       "lat": 51.0489965,
       "lng": 7.249921199999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3544,6 +3712,7 @@
       "country": "Germany",
       "lat": 47.67961,
       "lng": 13.0399083,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3565,6 +3734,7 @@
       "country": "Austria",
       "lat": 47.90415,
       "lng": 16.35774,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -3586,6 +3756,7 @@
       "country": "Germany",
       "lat": 47.9907869,
       "lng": 7.7085265,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3607,6 +3778,7 @@
       "country": "Germany",
       "lat": 47.7446496,
       "lng": 8.0664535,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3628,6 +3800,7 @@
       "country": "Austria",
       "lat": 47.1973908,
       "lng": 9.7595117,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3649,6 +3822,7 @@
       "country": "Germany",
       "lat": 52.988761,
       "lng": 10.0888477,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3670,6 +3844,7 @@
       "country": "Germany",
       "lat": 51.421991,
       "lng": 7.67204,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3691,6 +3866,7 @@
       "country": "Germany",
       "lat": 53.7562918,
       "lng": 9.3056321,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3712,6 +3888,7 @@
       "country": "Germany",
       "lat": 53.1190688,
       "lng": 8.8778703,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3733,6 +3910,7 @@
       "country": "Germany",
       "lat": 50.905378,
       "lng": 7.530899,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3754,6 +3932,7 @@
       "country": "Germany",
       "lat": 52.8795489,
       "lng": 13.817101,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -3775,6 +3954,7 @@
       "country": "Denmark",
       "lat": 54.8453289,
       "lng": 9.331412,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3796,6 +3976,7 @@
       "country": "Germany",
       "lat": 48.8035508,
       "lng": 8.3212584,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3817,6 +3998,7 @@
       "country": "Switzerland",
       "lat": 47.5649361,
       "lng": 8.8244568,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3838,6 +4020,7 @@
       "country": "Germany",
       "lat": 51.0488464,
       "lng": 14.0790883,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3859,6 +4042,7 @@
       "country": "Germany",
       "lat": 47.5934368,
       "lng": 7.6198121,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3880,6 +4064,7 @@
       "country": "Switzerland",
       "lat": 46.8262854,
       "lng": 7.300612099999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3901,6 +4086,7 @@
       "country": "Germany",
       "lat": 51.66222759999999,
       "lng": 10.1744846,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3921,6 +4107,7 @@
       "country": "Germany",
       "lat": 48.0423901,
       "lng": 7.8669573,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3942,6 +4129,7 @@
       "country": "Germany",
       "lat": 51.04724,
       "lng": 14.827079,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3963,6 +4151,7 @@
       "country": "Germany",
       "lat": 54.1572664,
       "lng": 9.0120781,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -3984,6 +4173,7 @@
       "country": "Austria",
       "lat": 48.4741115,
       "lng": 16.4162746,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4005,6 +4195,7 @@
       "country": "Switzerland",
       "lat": 47.5261481,
       "lng": 7.902059299999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4026,6 +4217,7 @@
       "country": "Switzerland",
       "lat": 46.92848,
       "lng": 7.1384139,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4047,6 +4239,7 @@
       "country": "Germany",
       "lat": 50.171311,
       "lng": 12.1339323,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4068,6 +4261,7 @@
       "country": "Germany",
       "lat": 51.6144782,
       "lng": 10.3137425,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4089,6 +4283,7 @@
       "country": "Germany",
       "lat": 48.4338998,
       "lng": 9.448907,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4111,6 +4306,7 @@
       "country": "Germany",
       "lat": 48.4867688,
       "lng": 11.5017437,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4132,6 +4328,7 @@
       "country": "Germany",
       "lat": 51.0697197,
       "lng": 6.9965788,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4153,6 +4350,7 @@
       "country": "Germany",
       "lat": 51.6201495,
       "lng": 10.3247943,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4174,6 +4372,7 @@
       "country": "Austria",
       "lat": 48.6058353,
       "lng": 15.1662692,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4195,6 +4394,7 @@
       "country": "Germany",
       "lat": 51.0489965,
       "lng": 7.249921199999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4216,6 +4416,7 @@
       "country": "Austria",
       "lat": 48.2962096,
       "lng": 16.4690073,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4237,6 +4438,7 @@
       "country": "Germany",
       "lat": 49.4289992,
       "lng": 11.5440384,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4258,6 +4460,7 @@
       "country": "Germany",
       "lat": 54.0932616,
       "lng": 10.219915,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -4280,6 +4483,7 @@
       "country": "Austria",
       "lat": 48.5388606,
       "lng": 16.1538082,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4301,6 +4505,7 @@
       "country": "Austria",
       "lat": 47.7929637,
       "lng": 16.2343567,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4322,6 +4527,7 @@
       "country": "Germany",
       "lat": 48.3650475,
       "lng": 8.6333682,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4343,6 +4549,7 @@
       "country": "Switzerland",
       "lat": 47.2901615,
       "lng": 9.0845857,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -4365,6 +4572,7 @@
       "country": "Germany",
       "lat": 50.24072899999999,
       "lng": 10.5623094,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -4387,6 +4595,7 @@
       "country": "Germany",
       "lat": 53.9527673,
       "lng": 9.7128465,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4408,6 +4617,7 @@
       "country": "Germany",
       "lat": 54.6741545,
       "lng": 9.6049696,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -4430,6 +4640,7 @@
       "country": "Germany",
       "lat": 52.0818855,
       "lng": 13.177061,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4451,6 +4662,7 @@
       "country": "Germany",
       "lat": 48.3650475,
       "lng": 8.6333682,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4472,6 +4684,7 @@
       "country": "Germany",
       "lat": 48.1486177,
       "lng": 9.3778475,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4493,6 +4706,7 @@
       "country": "Germany",
       "lat": 49.0972167,
       "lng": 12.4864772,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4514,6 +4728,7 @@
       "country": "Germany",
       "lat": 47.616536,
       "lng": 8.465213,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4535,6 +4750,7 @@
       "country": "Germany",
       "lat": 48.1892389,
       "lng": 11.4842864,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4556,6 +4772,7 @@
       "country": "Germany",
       "lat": 49.0375197,
       "lng": 9.447125999999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4577,6 +4794,7 @@
       "country": "Germany",
       "lat": 48.3012826,
       "lng": 8.9406305,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4598,6 +4816,7 @@
       "country": "Switzerland",
       "lat": 47.0243717,
       "lng": 9.451234099999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4619,6 +4838,7 @@
       "country": "Germany",
       "lat": 48.0588233,
       "lng": 12.1573085,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4640,6 +4860,7 @@
       "country": "Germany",
       "lat": 49.1865107,
       "lng": 7.3652243,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -4661,6 +4882,7 @@
       "country": "Germany",
       "lat": 50.8800407,
       "lng": 7.0149269,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4682,6 +4904,7 @@
       "country": "Austria",
       "lat": 47.32351999999999,
       "lng": 12.79685,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4703,6 +4926,7 @@
       "country": "Germany",
       "lat": 49.5478594,
       "lng": 9.729432100000002,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4724,6 +4948,7 @@
       "country": "Germany",
       "lat": 48.3992844,
       "lng": 9.3911727,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4745,6 +4970,7 @@
       "country": "Germany",
       "lat": 53.136959,
       "lng": 9.818976,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -4766,6 +4992,7 @@
       "country": "Germany",
       "lat": 48.5020853,
       "lng": 13.1486134,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4787,6 +5014,7 @@
       "country": "Germany",
       "lat": 51.30010919999999,
       "lng": 7.361342899999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4808,6 +5036,7 @@
       "country": "Germany",
       "lat": 50.0558088,
       "lng": 9.7051863,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4829,6 +5058,7 @@
       "country": "Germany",
       "lat": 49.7399771,
       "lng": 9.0130248,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4850,6 +5080,7 @@
       "country": "Germany",
       "lat": 51.6053457,
       "lng": 11.9269999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4871,6 +5102,7 @@
       "country": "Deutschland",
       "lat": 48.0748176,
       "lng": 11.2475528,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4892,6 +5124,7 @@
       "country": "Austria",
       "lat": 46.73716750000001,
       "lng": 14.2876932,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -4912,6 +5145,7 @@
       "country": "Germany",
       "lat": 47.9776295,
       "lng": 12.3899899,
+      "ausbildung": "Hufschuhberater",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -4932,6 +5166,7 @@
       "country": "Austria",
       "lat": 48.39489,
       "lng": 14.2334901,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4953,6 +5188,7 @@
       "country": "Austria",
       "lat": 47.1801789,
       "lng": 13.5962739,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4974,6 +5210,7 @@
       "country": "Germany",
       "lat": 51.7891354,
       "lng": 7.8843043,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -4995,6 +5232,7 @@
       "country": "Germany",
       "lat": 52.5581031,
       "lng": 9.120050599999999,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5017,6 +5255,7 @@
       "country": "Germany",
       "lat": 51.336667,
       "lng": 12.4287949,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5038,6 +5277,7 @@
       "country": "Germany",
       "lat": 54.3089413,
       "lng": 9.3176703,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5059,6 +5299,7 @@
       "country": "Germany",
       "lat": 52.1685907,
       "lng": 9.1207187,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5080,6 +5321,7 @@
       "country": "Austria",
       "lat": 47.134432,
       "lng": 13.6839228,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -5102,6 +5344,7 @@
       "country": "Austria",
       "lat": 47.1281515,
       "lng": 15.4984269,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5123,6 +5366,7 @@
       "country": "Germany",
       "lat": 51.01371,
       "lng": 9.9364101,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -5144,6 +5388,7 @@
       "country": "Austria",
       "lat": 48.23106569999999,
       "lng": 16.1485434,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5165,6 +5410,7 @@
       "country": "Germany",
       "lat": 48.6843423,
       "lng": 8.1945598,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5186,6 +5432,7 @@
       "country": "Austria",
       "lat": 47.217257,
       "lng": 15.6225734,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5207,6 +5454,7 @@
       "country": "Germany",
       "lat": 50.9028644,
       "lng": 9.5617735,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5228,6 +5476,7 @@
       "country": "Germany",
       "lat": 48.5517419,
       "lng": 13.2256373,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5250,6 +5499,7 @@
       "country": "Germany",
       "lat": 47.6968535,
       "lng": 8.7550533,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5271,6 +5521,7 @@
       "country": "Germany",
       "lat": 51.4237748,
       "lng": 6.698690000000001,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -5293,6 +5544,7 @@
       "country": "Germany",
       "lat": 47.8317424,
       "lng": 8.5459812,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5314,6 +5566,7 @@
       "country": "Germany",
       "lat": 52.4956904,
       "lng": 13.4272009,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5335,6 +5588,7 @@
       "country": "Germany",
       "lat": 50.1541817,
       "lng": 8.1659665,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5356,6 +5610,7 @@
       "country": "Germany",
       "lat": 50.7399531,
       "lng": 12.7466648,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5377,6 +5632,7 @@
       "country": "Germany",
       "lat": 49.2693739,
       "lng": 8.3294503,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5398,6 +5654,7 @@
       "country": "Germany",
       "lat": 53.6409848,
       "lng": 9.2375372,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -5419,6 +5676,7 @@
       "country": "Germany",
       "lat": 48.93752509999999,
       "lng": 9.5001312,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5440,6 +5698,7 @@
       "country": "Germany",
       "lat": 49.5589896,
       "lng": 9.9596263,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5461,6 +5720,7 @@
       "country": "Germany",
       "lat": 51.77197169999999,
       "lng": 12.073529,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5482,6 +5742,7 @@
       "country": "Germany",
       "lat": 51.7305339,
       "lng": 6.5916139,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5504,6 +5765,7 @@
       "country": "Austria",
       "lat": 47.44556439999999,
       "lng": 16.0664641,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5525,6 +5787,7 @@
       "country": "Germany",
       "lat": 47.9479298,
       "lng": 11.1032858,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5546,6 +5809,7 @@
       "country": "Germany",
       "lat": 49.44054999999999,
       "lng": 9.415154,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5567,6 +5831,7 @@
       "country": "Austria",
       "lat": 47.14774999999999,
       "lng": 16.12299,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5588,6 +5853,7 @@
       "country": "Germany",
       "lat": 52.4159725,
       "lng": 13.2587942,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5608,6 +5874,7 @@
       "country": "Austria",
       "lat": 48.2073031,
       "lng": 14.3823282,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5629,6 +5896,7 @@
       "country": "Germany",
       "lat": 53.7562918,
       "lng": 9.3056321,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5650,6 +5918,7 @@
       "country": "Germany",
       "lat": 47.92728049999999,
       "lng": 8.192580099999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5671,6 +5940,7 @@
       "country": "Germany",
       "lat": 53.83061319999999,
       "lng": 9.958594999999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5692,6 +5962,7 @@
       "country": "Germany",
       "lat": 48.26782679999999,
       "lng": 8.8545505,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5713,6 +5984,7 @@
       "country": "Germany",
       "lat": 47.6969454,
       "lng": 9.496915,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5734,6 +6006,7 @@
       "country": "Germany",
       "lat": 52.9729762,
       "lng": 8.4324845,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -5756,6 +6029,7 @@
       "country": "Germany",
       "lat": 48.6996899,
       "lng": 12.6510907,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5777,6 +6051,7 @@
       "country": "Germany",
       "lat": 48.2649704,
       "lng": 11.1211265,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5798,6 +6073,7 @@
       "country": "Germany",
       "lat": 48.18883150000001,
       "lng": 10.8223549,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5819,6 +6095,7 @@
       "country": "Austria",
       "lat": 47.3484102,
       "lng": 11.707729,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5840,6 +6117,7 @@
       "country": "Germany",
       "lat": 47.7564747,
       "lng": 11.3709765,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5861,6 +6139,7 @@
       "country": "Germany",
       "lat": 53.18076989999999,
       "lng": 13.1442839,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5882,6 +6161,7 @@
       "country": "Germany",
       "lat": 50.3240694,
       "lng": 8.4011696,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -5902,6 +6182,7 @@
       "country": "Germany",
       "lat": 48.8086346,
       "lng": 11.6877672,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5923,6 +6204,7 @@
       "country": "Austria",
       "lat": 47.22735,
       "lng": 11.3768058,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5945,6 +6227,7 @@
       "country": "Germany",
       "lat": 48.6325613,
       "lng": 10.0507541,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5966,6 +6249,7 @@
       "country": "Germany",
       "lat": 48.96641,
       "lng": 12.1655159,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -5987,6 +6271,7 @@
       "country": "Germany",
       "lat": 47.9999615,
       "lng": 11.3390089,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6008,6 +6293,7 @@
       "country": "Germany",
       "lat": 53.0791242,
       "lng": 9.0474256,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6029,6 +6315,7 @@
       "country": "Germany",
       "lat": 50.7941641,
       "lng": 8.8145397,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6050,6 +6337,7 @@
       "country": "Germany",
       "lat": 47.5824064,
       "lng": 9.9090586,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6072,6 +6360,7 @@
       "country": "Germany",
       "lat": 51.6555326,
       "lng": 7.3284165,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6093,6 +6382,7 @@
       "country": "Germany",
       "lat": 50.692446,
       "lng": 7.2629186,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6114,6 +6404,7 @@
       "country": "Germany",
       "lat": 52.5348604,
       "lng": 13.1431864,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6134,6 +6425,7 @@
       "country": "Germany",
       "lat": 48.0266756,
       "lng": 12.5550271,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6154,6 +6446,7 @@
       "country": "Germany",
       "lat": 50.7680669,
       "lng": 6.080150000000001,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6174,6 +6467,7 @@
       "country": "Germany",
       "lat": 53.8310338,
       "lng": 10.4916224,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6196,6 +6490,7 @@
       "country": "Germany",
       "lat": 49.358965,
       "lng": 8.1361817,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6218,6 +6513,7 @@
       "country": "Germany",
       "lat": 48.89103050000001,
       "lng": 11.2037016,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6238,6 +6534,7 @@
       "country": "Austria",
       "lat": 47.9249036,
       "lng": 14.4341909,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6260,6 +6557,7 @@
       "country": "Switzerland",
       "lat": 47.5500718,
       "lng": 9.292343299999999,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6280,6 +6578,7 @@
       "country": "Germany",
       "lat": 47.8927777,
       "lng": 12.0657836,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6301,6 +6600,7 @@
       "country": "Germany",
       "lat": 53.4789819,
       "lng": 7.7246035,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6323,6 +6623,7 @@
       "country": "Germany",
       "lat": 52.188896,
       "lng": 7.637348299999998,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6343,6 +6644,7 @@
       "country": "Germany",
       "lat": 50.6120728,
       "lng": 6.3194228,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6364,6 +6666,7 @@
       "country": "Germany",
       "lat": 50.9418933,
       "lng": 6.394430799999999,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6385,6 +6688,7 @@
       "country": "Germany",
       "lat": 49.4765982,
       "lng": 8.3508367,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6406,6 +6710,7 @@
       "country": "Italy",
       "lat": 46.8746474,
       "lng": 11.4867461,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6426,6 +6731,7 @@
       "country": "Germany",
       "lat": 47.6763387,
       "lng": 11.4516168,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6446,6 +6752,7 @@
       "country": "Germany",
       "lat": 53.0311034,
       "lng": 10.4202572,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6468,6 +6775,7 @@
       "country": "Germany",
       "lat": 50.8045114,
       "lng": 11.6180787,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6490,6 +6798,7 @@
       "country": "Germany",
       "lat": 53.122449,
       "lng": 9.9920811,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6510,6 +6819,7 @@
       "country": "Germany",
       "lat": 48.5629444,
       "lng": 11.2322974,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -6531,6 +6841,7 @@
       "country": "Germany",
       "lat": 47.8732462,
       "lng": 7.657537299999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6551,6 +6862,7 @@
       "country": "Germany",
       "lat": 48.0905136,
       "lng": 11.4029843,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6572,6 +6884,7 @@
       "country": "Germany",
       "lat": 50.0236568,
       "lng": 6.2283528,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6594,6 +6907,7 @@
       "country": "Germany",
       "lat": 53.23979199999999,
       "lng": 9.7405428,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6614,6 +6928,7 @@
       "country": "Germany",
       "lat": 51.6862883,
       "lng": 7.1738079,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6634,6 +6949,7 @@
       "country": "Switzerland",
       "lat": 47.6064964,
       "lng": 8.767832799999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6655,6 +6971,7 @@
       "country": "Germany",
       "lat": 49.6430169,
       "lng": 8.6675419,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6677,6 +6994,7 @@
       "country": "Germany",
       "lat": 49.5532318,
       "lng": 10.7096599,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6698,6 +7016,7 @@
       "country": "Austria",
       "lat": 47.1281515,
       "lng": 15.4984269,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6718,6 +7037,7 @@
       "country": "Germany",
       "lat": 53.2381881,
       "lng": 8.9534183,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6739,6 +7059,7 @@
       "country": "Germany",
       "lat": 48.64316119999999,
       "lng": 9.6335433,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6760,6 +7081,7 @@
       "country": "Germany",
       "lat": 51.3214185,
       "lng": 12.9791264,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6781,6 +7103,7 @@
       "country": "Austria",
       "lat": 47.281414,
       "lng": 11.1500296,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6803,6 +7126,7 @@
       "country": "Austria",
       "lat": 47.5086191,
       "lng": 9.828040699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6824,6 +7148,7 @@
       "country": "Austria",
       "lat": 47.3002244,
       "lng": 11.63072,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6846,6 +7171,7 @@
       "country": "Germany",
       "lat": 49.02311419999999,
       "lng": 12.0625789,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -6866,6 +7192,7 @@
       "country": "Germany",
       "lat": 47.6022963,
       "lng": 12.9844511,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6887,6 +7214,7 @@
       "country": "Germany",
       "lat": 51.1684016,
       "lng": 7.057952599999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6908,6 +7236,7 @@
       "country": "Germany",
       "lat": 53.1707944,
       "lng": 9.6695483,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6929,6 +7258,7 @@
       "country": "Germany",
       "lat": 47.8579596,
       "lng": 10.1299662,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6950,6 +7280,7 @@
       "country": "Switzerland",
       "lat": 47.2271607,
       "lng": 9.4507613,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6971,6 +7302,7 @@
       "country": "Switzerland",
       "lat": 47.1367735,
       "lng": 8.0509437,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -6992,6 +7324,7 @@
       "country": "Switzerland",
       "lat": 47.19909879999999,
       "lng": 8.3783604,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7013,6 +7346,7 @@
       "country": "Germany",
       "lat": 52.0050893,
       "lng": 7.593563899999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7035,6 +7369,7 @@
       "country": "Germany",
       "lat": 48.1863004,
       "lng": 11.5211002,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7057,6 +7392,7 @@
       "country": "Germany",
       "lat": 49.62522200000001,
       "lng": 10.1439328,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7077,6 +7413,7 @@
       "country": "Spain",
       "lat": 37.39258179999999,
       "lng": -3.5199321,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7097,6 +7434,7 @@
       "country": "Germany",
       "lat": 47.8393784,
       "lng": 12.0494534,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7119,6 +7457,7 @@
       "country": "Germany",
       "lat": 51.6705945,
       "lng": 7.5909062,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7140,6 +7479,7 @@
       "country": "Germany",
       "lat": 49.5480169,
       "lng": 8.1040302,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -7160,6 +7500,7 @@
       "country": "Germany",
       "lat": 48.6363881,
       "lng": 9.5635443,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7180,6 +7521,7 @@
       "country": "Austria",
       "lat": 46.8125536,
       "lng": 15.5083245,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7201,6 +7543,7 @@
       "country": "Germany",
       "lat": 51.4178535,
       "lng": 6.6174545,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7221,6 +7564,7 @@
       "country": "Germany",
       "lat": 47.9653404,
       "lng": 7.8266448,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7242,6 +7586,7 @@
       "country": "Germany",
       "lat": 51.2654601,
       "lng": 6.544265900000001,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7263,6 +7608,7 @@
       "country": "Germany",
       "lat": 50.8281024,
       "lng": 7.4305514,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7284,6 +7630,7 @@
       "country": "Germany",
       "lat": 47.9944211,
       "lng": 9.1156399,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7304,6 +7651,7 @@
       "country": "Germany",
       "lat": 50.1259779,
       "lng": 11.4311357,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7325,6 +7673,7 @@
       "country": "Germany",
       "lat": 51.1632952,
       "lng": 13.4751521,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7345,6 +7694,7 @@
       "country": "Germany",
       "lat": 50.4145706,
       "lng": 10.6311935,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7365,6 +7715,7 @@
       "country": "Germany",
       "lat": 48.79721019999999,
       "lng": 9.6086365,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -7386,6 +7737,7 @@
       "country": "Austria",
       "lat": 47.0702732,
       "lng": 15.1286573,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7407,6 +7759,7 @@
       "country": "Germany",
       "lat": 50.5111932,
       "lng": 7.6977217,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7427,6 +7780,7 @@
       "country": "Germany",
       "lat": 49.7569111,
       "lng": 8.519522799999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -7449,6 +7803,7 @@
       "country": "Austria",
       "lat": 46.8125536,
       "lng": 15.5083245,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7470,6 +7825,7 @@
       "country": "Germany",
       "lat": 47.7180442,
       "lng": 7.5495374,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7491,6 +7847,7 @@
       "country": "Germany",
       "lat": 49.9313376,
       "lng": 11.2961723,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7512,6 +7869,7 @@
       "country": "Austria",
       "lat": 48.36806,
       "lng": 14.13482,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -7532,6 +7890,7 @@
       "country": "Austria",
       "lat": 46.874154,
       "lng": 14.11855,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7554,6 +7913,7 @@
       "country": "Germany",
       "lat": 50.0094703,
       "lng": 7.0231694,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7575,6 +7935,7 @@
       "country": "Germany",
       "lat": 52.3852067,
       "lng": 10.0164773,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -7596,6 +7957,7 @@
       "country": "Germany",
       "lat": 47.912941,
       "lng": 9.8860321,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7617,6 +7979,7 @@
       "country": "Germany",
       "lat": 50.7533438,
       "lng": 6.1123901,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7639,6 +8002,7 @@
       "country": "Germany",
       "lat": 49.3649753,
       "lng": 6.667968,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7659,6 +8023,7 @@
       "country": "Austria",
       "lat": 47.89509,
       "lng": 14.23109,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7681,6 +8046,7 @@
       "country": "Germany",
       "lat": 51.342288,
       "lng": 7.486979099999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7703,6 +8069,7 @@
       "country": "Germany",
       "lat": 54.3143251,
       "lng": 9.723433499999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7724,6 +8091,7 @@
       "country": "Austria",
       "lat": 48.2874767,
       "lng": 13.8311465,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7744,6 +8112,7 @@
       "country": "Germany",
       "lat": 51.2342147,
       "lng": 9.5769871,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7764,6 +8133,7 @@
       "country": "Germany",
       "lat": 48.4601775,
       "lng": 9.2198241,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -7785,6 +8155,7 @@
       "country": "Switzerland",
       "lat": 46.7757953,
       "lng": 7.5434028,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7807,6 +8178,7 @@
       "country": "Germany",
       "lat": 51.7956602,
       "lng": 7.625261299999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7828,6 +8200,7 @@
       "country": "Germany",
       "lat": 49.5490398,
       "lng": 6.7588688,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7848,6 +8221,7 @@
       "country": "Germany",
       "lat": 50.8247238,
       "lng": 6.0440697,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7869,6 +8243,7 @@
       "country": "Germany",
       "lat": 51.8329063,
       "lng": 13.6423378,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7891,6 +8266,7 @@
       "country": "Germany",
       "lat": 51.6976097,
       "lng": 11.1039905,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7912,6 +8288,7 @@
       "country": "Switzerland",
       "lat": 47.1654711,
       "lng": 8.4015803,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7932,6 +8309,7 @@
       "country": "Germany",
       "lat": 53.3176971,
       "lng": 9.8694845,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -7954,6 +8332,7 @@
       "country": "Germany",
       "lat": 53.6180987,
       "lng": 9.3658974,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7974,6 +8353,7 @@
       "country": "Austria",
       "lat": 47.1481498,
       "lng": 10.3411872,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -7994,6 +8374,7 @@
       "country": "Germany",
       "lat": 49.7440333,
       "lng": 7.9327025,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8015,6 +8396,7 @@
       "country": "Germany",
       "lat": 49.526685,
       "lng": 11.8185218,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8035,6 +8417,7 @@
       "country": "Germany",
       "lat": 51.7855342,
       "lng": 8.3946686,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -8056,6 +8439,7 @@
       "country": "Austria",
       "lat": 48.21107,
       "lng": 15.39176,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8076,6 +8460,7 @@
       "country": "Austria",
       "lat": 47.9598954,
       "lng": 13.0077657,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8096,6 +8481,7 @@
       "country": "Germany",
       "lat": 49.2841494,
       "lng": 9.690929599999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8116,6 +8502,7 @@
       "country": "Germany",
       "lat": 53.02689549999999,
       "lng": 13.7072521,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -8137,6 +8524,7 @@
       "country": "Germany",
       "lat": 48.02530300000001,
       "lng": 10.8506608,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8159,6 +8547,7 @@
       "country": "Germany",
       "lat": 51.8009056,
       "lng": 8.1774995,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8180,6 +8569,7 @@
       "country": "Germany",
       "lat": 50.860909,
       "lng": 12.8362695,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8202,6 +8592,7 @@
       "country": "Germany",
       "lat": 51.3021767,
       "lng": 9.480386099999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8222,6 +8613,7 @@
       "country": "Germany",
       "lat": 47.5840717,
       "lng": 8.0635707,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8244,6 +8636,7 @@
       "country": "Germany",
       "lat": 49.7600118,
       "lng": 7.7837368,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8266,6 +8659,7 @@
       "country": "Switzerland",
       "lat": 47.1811341,
       "lng": 8.3218395,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8288,6 +8682,7 @@
       "country": "Germany",
       "lat": 51.7305339,
       "lng": 6.5916139,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8309,6 +8704,7 @@
       "country": "Germany",
       "lat": 48.4773878,
       "lng": 7.985169,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8331,6 +8727,7 @@
       "country": "Germany",
       "lat": 48.5423324,
       "lng": 9.1382919,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8352,6 +8749,7 @@
       "country": "Austria",
       "lat": 48.7185201,
       "lng": 16.6296,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8374,6 +8772,7 @@
       "country": "Germany",
       "lat": 54.0589095,
       "lng": 13.1623764,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8394,6 +8793,7 @@
       "country": "Germany",
       "lat": 53.39451949999999,
       "lng": 8.1404134,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8415,6 +8815,7 @@
       "country": "Germany",
       "lat": 48.13169389999999,
       "lng": 11.3556855,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8437,6 +8838,7 @@
       "country": "Germany",
       "lat": 51.342288,
       "lng": 7.486979099999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8457,6 +8859,7 @@
       "country": "Germany",
       "lat": 50.95503679999999,
       "lng": 13.3476849,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8479,6 +8882,7 @@
       "country": "Austria",
       "lat": 47.49981349999999,
       "lng": 10.5161374,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8499,6 +8903,7 @@
       "country": "Germany",
       "lat": 48.7110852,
       "lng": 11.3251158,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8519,6 +8924,7 @@
       "country": "Germany",
       "lat": 48.8718853,
       "lng": 12.2815118,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8541,6 +8947,7 @@
       "country": "Germany",
       "lat": 50.6492736,
       "lng": 11.3661502,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8561,6 +8968,7 @@
       "country": "Germany",
       "lat": 48.2086516,
       "lng": 12.4016363,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8581,6 +8989,7 @@
       "country": "Germany",
       "lat": 47.7813276,
       "lng": 12.2127542,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8602,6 +9011,7 @@
       "country": "Germany",
       "lat": 54.0168647,
       "lng": 10.2485102,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8622,6 +9032,7 @@
       "country": "Austria",
       "lat": 48.0775549,
       "lng": 13.5984507,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8644,6 +9055,7 @@
       "country": "Germany",
       "lat": 51.6331323,
       "lng": 9.9307093,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8666,6 +9078,7 @@
       "country": "Germany",
       "lat": 47.8226062,
       "lng": 10.0064024,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8686,6 +9099,7 @@
       "country": "Germany",
       "lat": 53.6243036,
       "lng": 7.6657087,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -8708,6 +9122,7 @@
       "country": "Germany",
       "lat": 50.60886439999999,
       "lng": 13.1846783,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8728,6 +9143,7 @@
       "country": "Germany",
       "lat": 51.20579910000001,
       "lng": 7.0042465,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8748,6 +9164,7 @@
       "country": "Germany",
       "lat": 52.6874845,
       "lng": 13.5672765,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8768,6 +9185,7 @@
       "country": "Switzerland",
       "lat": 46.7185473,
       "lng": 8.1911357,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -8788,6 +9206,7 @@
       "country": "Switzerland",
       "lat": 46.83804929999999,
       "lng": 7.4988722,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8810,6 +9229,7 @@
       "country": "Germany",
       "lat": 49.6256573,
       "lng": 11.2721921,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8832,6 +9252,7 @@
       "country": "Germany",
       "lat": 49.5449973,
       "lng": 10.2338007,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8852,6 +9273,7 @@
       "country": "Switzerland",
       "lat": 47.2170135,
       "lng": 8.368566699999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -8872,6 +9294,7 @@
       "country": "Germany",
       "lat": 50.8524475,
       "lng": 9.115276,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8893,6 +9316,7 @@
       "country": "Germany",
       "lat": 54.1743805,
       "lng": 12.236193,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8914,6 +9338,7 @@
       "country": "Germany",
       "lat": 53.3510916,
       "lng": 13.4106996,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -8934,6 +9359,7 @@
       "country": "Germany",
       "lat": 51.3543213,
       "lng": 6.715193699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8956,6 +9382,7 @@
       "country": "Germany",
       "lat": 52.0818855,
       "lng": 13.177061,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8977,6 +9404,7 @@
       "country": "Germany",
       "lat": 48.4511844,
       "lng": 11.7691599,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -8999,6 +9427,7 @@
       "country": "Germany",
       "lat": 49.193521,
       "lng": 8.0948586,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9020,6 +9449,7 @@
       "country": "Germany",
       "lat": 48.1227429,
       "lng": 11.4340549,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9040,6 +9470,7 @@
       "country": "Germany",
       "lat": 52.19518309999999,
       "lng": 10.8792431,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9061,6 +9492,7 @@
       "country": "Germany",
       "lat": 49.3474363,
       "lng": 8.7126367,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9082,6 +9514,7 @@
       "country": "Germany",
       "lat": 49.5481082,
       "lng": 8.157239600000002,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9102,6 +9535,7 @@
       "country": "Germany",
       "lat": 52.5593051,
       "lng": 13.4761485,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9122,6 +9556,7 @@
       "country": "Austria",
       "lat": 47.44556439999999,
       "lng": 16.0664641,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9143,6 +9578,7 @@
       "country": "Germany",
       "lat": 51.6798375,
       "lng": 6.9289735,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9163,6 +9599,7 @@
       "country": "Germany",
       "lat": 50.3230827,
       "lng": 7.9427537,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9185,6 +9622,7 @@
       "country": "Netherland",
       "lat": 51.0440007,
       "lng": 5.8066982,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9207,6 +9645,7 @@
       "country": "Germany",
       "lat": 49.930712,
       "lng": 8.6778345,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9229,6 +9668,7 @@
       "country": "Germany",
       "lat": 50.5326569,
       "lng": 6.8049148,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9250,6 +9690,7 @@
       "country": "Germany",
       "lat": 52.682,
       "lng": 7.602527699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9271,6 +9712,7 @@
       "country": "Germany",
       "lat": 47.912941,
       "lng": 9.8860321,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9292,6 +9734,7 @@
       "country": "Austria",
       "lat": 46.6882281,
       "lng": 13.7074329,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9312,6 +9755,7 @@
       "country": "Germany",
       "lat": 47.7614488,
       "lng": 10.9939607,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9333,6 +9777,7 @@
       "country": "Germany",
       "lat": 48.13169389999999,
       "lng": 11.3556855,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9354,6 +9799,7 @@
       "country": "Germany",
       "lat": 51.10792679999999,
       "lng": 7.059227,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9374,6 +9820,7 @@
       "country": "Austria",
       "lat": 47.7886502,
       "lng": 15.9099129,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9396,6 +9843,7 @@
       "country": "Germany",
       "lat": 53.39451949999999,
       "lng": 8.1404134,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9417,6 +9865,7 @@
       "country": "Germany",
       "lat": 54.30888849999999,
       "lng": 9.0885251,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9438,6 +9887,7 @@
       "country": "Germany",
       "lat": 52.0320063,
       "lng": 10.8899855,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9458,6 +9908,7 @@
       "country": "Germany",
       "lat": 51.8009056,
       "lng": 8.1774995,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9479,6 +9930,7 @@
       "country": "Germany",
       "lat": 48.9882745,
       "lng": 9.706980999999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9501,6 +9953,7 @@
       "country": "Germany",
       "lat": 53.1371972,
       "lng": 7.4335036,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9523,6 +9976,7 @@
       "country": "Germany",
       "lat": 48.3827885,
       "lng": 11.7631748,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9544,6 +9998,7 @@
       "country": "Germany",
       "lat": 48.0415038,
       "lng": 10.3534815,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9564,6 +10019,7 @@
       "country": "Germany",
       "lat": 52.2621392,
       "lng": 10.0731388,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9586,6 +10042,7 @@
       "country": "Austria",
       "lat": 47.2046769,
       "lng": 10.8485541,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9607,6 +10064,7 @@
       "country": "Austria",
       "lat": 47.8071383,
       "lng": 13.779037,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9628,6 +10086,7 @@
       "country": "Germany",
       "lat": 50.9927163,
       "lng": 5.997431,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9650,6 +10109,7 @@
       "country": "Austria",
       "lat": 48.04884,
       "lng": 15.32564,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9671,6 +10131,7 @@
       "country": "Germany",
       "lat": 52.3647941,
       "lng": 12.8700716,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9693,6 +10154,7 @@
       "country": "Austria",
       "lat": 47.106855,
       "lng": 13.730311,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9714,6 +10176,7 @@
       "country": "Austria",
       "lat": 46.7218262,
       "lng": 14.0989495,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9734,6 +10197,7 @@
       "country": "Austria",
       "lat": 48.240715,
       "lng": 15.3368208,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9755,6 +10219,7 @@
       "country": "Austria",
       "lat": 46.83148,
       "lng": 12.81389,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9775,6 +10240,7 @@
       "country": "Austria",
       "lat": 46.65036,
       "lng": 14.43029,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9795,6 +10261,7 @@
       "country": "Germany",
       "lat": 52.7957134,
       "lng": 8.840676199999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9817,6 +10284,7 @@
       "country": "Germany",
       "lat": 52.2323411,
       "lng": 7.2892253,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9837,6 +10305,7 @@
       "country": "Germany",
       "lat": 48.6049869,
       "lng": 11.6222763,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9857,6 +10326,7 @@
       "country": "Germany",
       "lat": 52.5420864,
       "lng": 13.0590617,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9877,6 +10347,7 @@
       "country": "Germany",
       "lat": 52.98633719999999,
       "lng": 8.8420829,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9898,6 +10369,7 @@
       "country": "Germany",
       "lat": 50.8193814,
       "lng": 6.1462316,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -9918,6 +10390,7 @@
       "country": "Germany",
       "lat": 50.1833116,
       "lng": 10.2760837,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9940,6 +10413,7 @@
       "country": "France",
       "lat": 43.792389,
       "lng": 7.18712,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9960,6 +10434,7 @@
       "country": "Belgium",
       "lat": 50.5535743,
       "lng": 3.6918368,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -9982,6 +10457,7 @@
       "country": "Austria",
       "lat": 47.7904183,
       "lng": 12.9682912,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10003,6 +10479,7 @@
       "country": "Germany",
       "lat": 48.9209847,
       "lng": 9.339577,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10025,6 +10502,7 @@
       "country": "Germany",
       "lat": 52.3088545,
       "lng": 10.5793453,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10045,6 +10523,7 @@
       "country": "Denmark",
       "lat": 55.27613909999999,
       "lng": 9.0073293,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10066,6 +10545,7 @@
       "country": "Germany",
       "lat": 47.78632760000001,
       "lng": 11.0604693,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10087,6 +10567,7 @@
       "country": "Spain",
       "lat": 39.5697165,
       "lng": 3.2095318,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -10108,6 +10589,7 @@
       "country": "Switzerland",
       "lat": 47.4486424,
       "lng": 9.046232999999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10129,6 +10611,7 @@
       "country": "Belgium",
       "lat": 51.2357846,
       "lng": 2.9809796,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10149,6 +10632,7 @@
       "country": "Germany",
       "lat": 47.7147652,
       "lng": 7.662315800000001,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10170,6 +10654,7 @@
       "country": "Austria",
       "lat": 46.64450919999999,
       "lng": 14.3271202,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10190,6 +10675,7 @@
       "country": "Germany",
       "lat": 49.14986,
       "lng": 7.5257188,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10211,6 +10697,7 @@
       "country": "Austria",
       "lat": 48.0837223,
       "lng": 16.5279038,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10231,6 +10718,7 @@
       "country": "Germany",
       "lat": 48.7172018,
       "lng": 11.107863,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10253,6 +10741,7 @@
       "country": "Germany",
       "lat": 49.4118442,
       "lng": 8.9269634,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10273,6 +10762,7 @@
       "country": "Germany",
       "lat": 50.2542422,
       "lng": 7.8122506,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10294,6 +10784,7 @@
       "country": "Germany",
       "lat": 53.136959,
       "lng": 9.818976,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10315,6 +10806,7 @@
       "country": "Germany",
       "lat": 50.5309909,
       "lng": 9.8103002,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10335,6 +10827,7 @@
       "country": "Germany",
       "lat": 48.0984846,
       "lng": 10.8724161,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10357,6 +10850,7 @@
       "country": "Germany",
       "lat": 47.8601056,
       "lng": 12.1838269,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10377,6 +10871,7 @@
       "country": "Germany",
       "lat": 47.9581621,
       "lng": 7.8949218,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10398,6 +10893,7 @@
       "country": "Germany",
       "lat": 48.4017399,
       "lng": 9.8013294,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10419,6 +10915,7 @@
       "country": "Germany",
       "lat": 50.42159179999999,
       "lng": 8.630666,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10439,6 +10936,7 @@
       "country": "Germany",
       "lat": 51.1300631,
       "lng": 14.7469579,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10459,6 +10957,7 @@
       "country": "Germany",
       "lat": 51.0979611,
       "lng": 12.3315301,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10479,6 +10978,7 @@
       "country": "Austria",
       "lat": 46.8054,
       "lng": 14.302808,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10501,6 +11001,7 @@
       "country": "Germany",
       "lat": 52.2949457,
       "lng": 8.0511193,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10523,6 +11024,7 @@
       "country": "Germany",
       "lat": 50.78027909999999,
       "lng": 6.2237174,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10545,6 +11047,7 @@
       "country": "Germany",
       "lat": 51.3743121,
       "lng": 8.066182099999999,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10566,6 +11069,7 @@
       "country": "Germany",
       "lat": 53.6507687,
       "lng": 11.0617171,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10587,6 +11091,7 @@
       "country": "Germany",
       "lat": 49.8624196,
       "lng": 8.7619712,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10609,6 +11114,7 @@
       "country": "Germany",
       "lat": 50.8142569,
       "lng": 6.9787209,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10631,6 +11137,7 @@
       "country": "Netherland",
       "lat": 52.2999681,
       "lng": 4.580927099999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10652,6 +11159,7 @@
       "country": "Germany",
       "lat": 51.4592319,
       "lng": 7.0381829,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -10672,6 +11180,7 @@
       "country": "Germany",
       "lat": 49.3464288,
       "lng": 9.8049843,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10692,6 +11201,7 @@
       "country": "Austria",
       "lat": 48.11570039999999,
       "lng": 16.3974778,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -10712,6 +11222,7 @@
       "country": "Germany",
       "lat": 51.1421119,
       "lng": 7.014782599999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10732,6 +11243,7 @@
       "country": "Austria",
       "lat": 48.075833,
       "lng": 16.1621472,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10753,6 +11265,7 @@
       "country": "Germany",
       "lat": 48.8035508,
       "lng": 8.3212584,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10773,6 +11286,7 @@
       "country": "Germany",
       "lat": 54.3171885,
       "lng": 10.0477345,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10794,6 +11308,7 @@
       "country": "Germany",
       "lat": 49.6506474,
       "lng": 8.5654893,
+      "ausbildung": "Hufschuhberater",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -10815,6 +11330,7 @@
       "country": "Germany",
       "lat": 50.64475909999999,
       "lng": 10.0089235,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10835,6 +11351,7 @@
       "country": "Germany",
       "lat": 52.1685907,
       "lng": 9.1207187,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10857,6 +11374,7 @@
       "country": "Austria",
       "lat": 46.8293641,
       "lng": 13.353288,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10878,6 +11396,7 @@
       "country": "Germany",
       "lat": 52.1449034,
       "lng": 10.6127222,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10898,6 +11417,7 @@
       "country": "Germany",
       "lat": 51.4970925,
       "lng": 9.3860472,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10918,6 +11438,7 @@
       "country": "Germany",
       "lat": 50.6495135,
       "lng": 12.8257791,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10938,6 +11459,7 @@
       "country": "Germany",
       "lat": 51.237716,
       "lng": 12.4831199,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -10960,6 +11482,7 @@
       "country": "Germany",
       "lat": 50.6495135,
       "lng": 12.8257791,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -10981,6 +11504,7 @@
       "country": "Germany",
       "lat": 52.2568353,
       "lng": 8.2153054,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11001,6 +11525,7 @@
       "country": "Germany",
       "lat": 50.2091998,
       "lng": 8.5520555,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11023,6 +11548,7 @@
       "country": "Germany",
       "lat": 53.5861712,
       "lng": 7.368786799999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11043,6 +11569,7 @@
       "country": "Germany",
       "lat": 48.6673149,
       "lng": 11.4074367,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11064,6 +11591,7 @@
       "country": "Germany",
       "lat": 49.1732759,
       "lng": 9.430312299999999,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11086,6 +11614,7 @@
       "country": "Germany",
       "lat": 52.7597197,
       "lng": 9.552831,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11107,6 +11636,7 @@
       "country": "Germany",
       "lat": 51.5433613,
       "lng": 6.8212626,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11129,6 +11659,7 @@
       "country": "Germany",
       "lat": 50.83593699999999,
       "lng": 12.9558164,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11151,6 +11682,7 @@
       "country": "Germany",
       "lat": 50.1392079,
       "lng": 11.2973433,
+      "ausbildung": "Hufschuhberater",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11173,6 +11705,7 @@
       "country": "Germany",
       "lat": 48.97284819999999,
       "lng": 8.4060268,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11195,6 +11728,7 @@
       "country": "Germany",
       "lat": 49.1677191,
       "lng": 8.8925255,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11217,6 +11751,7 @@
       "country": "Germany",
       "lat": 48.02530300000001,
       "lng": 10.8506608,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11238,6 +11773,7 @@
       "country": "Germany",
       "lat": 49.6294207,
       "lng": 8.8464077,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11259,6 +11795,7 @@
       "country": "Germany",
       "lat": 48.4515275,
       "lng": 9.0606289,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11280,6 +11817,7 @@
       "country": "Germany",
       "lat": 49.9828698,
       "lng": 11.8667208,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11300,6 +11838,7 @@
       "country": "Netherland",
       "lat": 50.8278426,
       "lng": 5.706173499999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11322,6 +11861,7 @@
       "country": "Germany",
       "lat": 53.0466804,
       "lng": 8.1523158,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11343,6 +11883,7 @@
       "country": "Germany",
       "lat": 49.0487963,
       "lng": 8.4095757,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11363,6 +11904,7 @@
       "country": "Germany",
       "lat": 53.2648107,
       "lng": 8.7422227,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11385,6 +11927,7 @@
       "country": "Germany",
       "lat": 49.6506474,
       "lng": 8.5654893,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11405,6 +11948,7 @@
       "country": "Germany",
       "lat": 48.4544359,
       "lng": 8.6481543,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -11425,6 +11969,7 @@
       "country": "Germany",
       "lat": 50.9773042,
       "lng": 14.6094085,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11447,6 +11992,7 @@
       "country": "Germany",
       "lat": 50.74020849999999,
       "lng": 12.5776638,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11468,6 +12014,7 @@
       "country": "Germany",
       "lat": 53.7068002,
       "lng": 9.378599999999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11489,6 +12036,7 @@
       "country": "Germany",
       "lat": 47.638716,
       "lng": 11.2293903,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11509,6 +12057,7 @@
       "country": "Germany",
       "lat": 47.7999471,
       "lng": 12.1841456,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11529,6 +12078,7 @@
       "country": "Germany",
       "lat": 53.2551971,
       "lng": 7.451357899999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11551,6 +12101,7 @@
       "country": "Germany",
       "lat": 53.2006565,
       "lng": 7.794635700000001,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11573,6 +12124,7 @@
       "country": "Germany",
       "lat": 51.399497,
       "lng": 7.2812919,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11593,6 +12145,7 @@
       "country": "Germany",
       "lat": 50.9917621,
       "lng": 8.1174394,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11615,6 +12168,7 @@
       "country": "Germany",
       "lat": 50.5033639,
       "lng": 10.6177162,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11637,6 +12191,7 @@
       "country": "Germany",
       "lat": 49.0248998,
       "lng": 11.9546514,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -11657,6 +12212,7 @@
       "country": "Germany",
       "lat": 51.1770783,
       "lng": 6.957192399999999,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11677,6 +12233,7 @@
       "country": "Germany",
       "lat": 51.2528626,
       "lng": 9.4044051,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11698,6 +12255,7 @@
       "country": "Germany",
       "lat": 50.7855605,
       "lng": 12.4028739,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11720,6 +12278,7 @@
       "country": "Germany",
       "lat": 50.6460743,
       "lng": 6.2002932,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11740,6 +12299,7 @@
       "country": "Germany",
       "lat": 51.1030829,
       "lng": 7.2240777,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11760,6 +12320,7 @@
       "country": "Germany",
       "lat": 47.8552232,
       "lng": 11.4871747,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11780,6 +12341,7 @@
       "country": "Austria",
       "lat": 46.7730332,
       "lng": 14.7818376,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11802,6 +12364,7 @@
       "country": "Germany",
       "lat": 53.4620389,
       "lng": 8.343188699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -11822,6 +12385,7 @@
       "country": "Austria",
       "lat": 46.9885256,
       "lng": 15.7667251,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11842,6 +12406,7 @@
       "country": "Germany",
       "lat": 48.7505672,
       "lng": 11.4578898,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11864,6 +12429,7 @@
       "country": "Germany",
       "lat": 51.4918437,
       "lng": 7.5319762,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11884,6 +12450,7 @@
       "country": "Germany",
       "lat": 50.7404503,
       "lng": 7.8658007,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -11904,6 +12471,7 @@
       "country": "Germany",
       "lat": 52.9119104,
       "lng": 9.3859841,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11924,6 +12492,7 @@
       "country": "Germany",
       "lat": 53.53164839999999,
       "lng": 9.9852574,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11945,6 +12514,7 @@
       "country": "Germany",
       "lat": 50.4831415,
       "lng": 8.9182902,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11966,6 +12536,7 @@
       "country": "Germany",
       "lat": 49.2459115,
       "lng": 7.0668598,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -11986,6 +12557,7 @@
       "country": "Germany",
       "lat": 48.6914602,
       "lng": 9.417933999999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12006,6 +12578,7 @@
       "country": "Austria",
       "lat": 47.9585015,
       "lng": 14.0137659,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12026,6 +12599,7 @@
       "country": "Germany",
       "lat": 50.385786,
       "lng": 7.581679,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12046,6 +12620,7 @@
       "country": "Germany",
       "lat": 49.9043456,
       "lng": 8.8212832,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12066,6 +12641,7 @@
       "country": "Germany",
       "lat": 54.2920931,
       "lng": 10.1857667,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12088,6 +12664,7 @@
       "country": "Germany",
       "lat": 49.3741052,
       "lng": 8.0461865,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12109,6 +12686,7 @@
       "country": "Germany",
       "lat": 49.85767810000001,
       "lng": 8.5501985,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12131,6 +12709,7 @@
       "country": "Germany",
       "lat": 50.2650995,
       "lng": 6.8826813,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12151,6 +12730,7 @@
       "country": "Austria",
       "lat": 48.3623525,
       "lng": 14.911869,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12171,6 +12751,7 @@
       "country": "Germany",
       "lat": 48.1634481,
       "lng": 8.646821,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12193,6 +12774,7 @@
       "country": "Germany",
       "lat": 48.1427211,
       "lng": 10.9872306,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12214,6 +12796,7 @@
       "country": "Germany",
       "lat": 52.34375350000001,
       "lng": 9.4806112,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12235,6 +12818,7 @@
       "country": "Germany",
       "lat": 49.3748517,
       "lng": 11.2291112,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12255,6 +12839,7 @@
       "country": "Denmark",
       "lat": 54.964593,
       "lng": 8.694464199999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12275,6 +12860,7 @@
       "country": "Germany",
       "lat": 51.42436619999999,
       "lng": 7.220564699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12297,6 +12883,7 @@
       "country": "Germany",
       "lat": 49.2352532,
       "lng": 8.458036,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12317,6 +12904,7 @@
       "country": "Germany",
       "lat": 53.5987643,
       "lng": 10.0417788,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12338,6 +12926,7 @@
       "country": "Germany",
       "lat": 50.696828,
       "lng": 7.8255111,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12358,6 +12947,7 @@
       "country": "Germany",
       "lat": 49.7569111,
       "lng": 8.519522799999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12380,6 +12970,7 @@
       "country": "Germany",
       "lat": 52.2426854,
       "lng": 13.6336052,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12400,6 +12991,7 @@
       "country": "Germany",
       "lat": 48.4056197,
       "lng": 11.5868461,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -12422,6 +13014,7 @@
       "country": "Germany",
       "lat": 49.6831164,
       "lng": 8.7796596,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12442,6 +13035,7 @@
       "country": "Germany",
       "lat": 51.0454321,
       "lng": 6.222254899999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -12463,6 +13057,7 @@
       "country": "Germany",
       "lat": 53.6887695,
       "lng": 10.4854112,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12484,6 +13079,7 @@
       "country": "Germany",
       "lat": 54.7235824,
       "lng": 9.952055699999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12504,6 +13100,7 @@
       "country": "Germany",
       "lat": 48.2673685,
       "lng": 11.5059577,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12524,6 +13121,7 @@
       "country": "Switzerland",
       "lat": 47.2255535,
       "lng": 8.6495094,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12544,6 +13142,7 @@
       "country": "Germany",
       "lat": 50.3097384,
       "lng": 6.7294484,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12565,6 +13164,7 @@
       "country": "Germany",
       "lat": 53.7827782,
       "lng": 10.0824142,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -12586,6 +13186,7 @@
       "country": "Germany",
       "lat": 53.9423028,
       "lng": 10.4988977,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12607,6 +13208,7 @@
       "country": "Germany",
       "lat": 53.6744402,
       "lng": 10.2353838,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12627,6 +13229,7 @@
       "country": "Germany",
       "lat": 53.1371972,
       "lng": 7.4335036,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -12647,6 +13250,7 @@
       "country": "Germany",
       "lat": 52.7957134,
       "lng": 8.840676199999999,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12667,6 +13271,7 @@
       "country": "Germany",
       "lat": 50.8158706,
       "lng": 8.1043471,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12687,6 +13292,7 @@
       "country": "Germany",
       "lat": 51.03577,
       "lng": 7.7804217,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12708,6 +13314,7 @@
       "country": "Germany",
       "lat": 51.3734917,
       "lng": 7.7669715,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12729,6 +13336,7 @@
       "country": "Germany",
       "lat": 47.359939,
       "lng": 10.2947451,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12750,6 +13358,7 @@
       "country": "Austria",
       "lat": 47.44556439999999,
       "lng": 16.0664641,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12770,6 +13379,7 @@
       "country": "Germany",
       "lat": 48.0262862,
       "lng": 10.7345072,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -12790,6 +13400,7 @@
       "country": "Germany",
       "lat": 50.1104152,
       "lng": 6.8444081,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12812,6 +13423,7 @@
       "country": "Germany",
       "lat": 54.2850224,
       "lng": 10.1501975,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12833,6 +13445,7 @@
       "country": "Austria",
       "lat": 48.3305787,
       "lng": 13.8574179,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12854,6 +13467,7 @@
       "country": "Austria",
       "lat": 47.9721308,
       "lng": 13.8984792,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12874,6 +13488,7 @@
       "country": "Germany",
       "lat": 48.0147205,
       "lng": 9.5002,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -12894,6 +13509,7 @@
       "country": "Germany",
       "lat": 52.70171329999999,
       "lng": 13.3018473,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -12916,6 +13532,7 @@
       "country": "Germany",
       "lat": 51.1490546,
       "lng": 6.245415299999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12938,6 +13555,7 @@
       "country": "Germany",
       "lat": 53.6217669,
       "lng": 9.8222167,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12958,6 +13576,7 @@
       "country": "Germany",
       "lat": 49.4191251,
       "lng": 8.4370038,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -12979,6 +13598,7 @@
       "country": "Germany",
       "lat": 51.6530133,
       "lng": 8.4651976,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13001,6 +13621,7 @@
       "country": "Germany",
       "lat": 52.1326307,
       "lng": 8.458715399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13022,6 +13643,7 @@
       "country": "Germany",
       "lat": 53.7562918,
       "lng": 9.3056321,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13043,6 +13665,7 @@
       "country": "Germany",
       "lat": 53.62337710000001,
       "lng": 9.2696949,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13063,6 +13686,7 @@
       "country": "Germany",
       "lat": 47.9598379,
       "lng": 8.267507499999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13083,6 +13707,7 @@
       "country": "Germany",
       "lat": 53.5308558,
       "lng": 9.4433365,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13104,6 +13729,7 @@
       "country": "Germany",
       "lat": 48.59008129999999,
       "lng": 11.3846589,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13125,6 +13751,7 @@
       "country": "Germany",
       "lat": 49.6823066,
       "lng": 7.7456954,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13145,6 +13772,7 @@
       "country": "Germany",
       "lat": 53.9683771,
       "lng": 9.619311699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13166,6 +13794,7 @@
       "country": "Germany",
       "lat": 51.3155848,
       "lng": 10.3196967,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -13187,6 +13816,7 @@
       "country": "Germany",
       "lat": 52.0790306,
       "lng": 7.016540399999999,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13207,6 +13837,7 @@
       "country": "Germany",
       "lat": 50.6674804,
       "lng": 7.4665568,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13229,6 +13860,7 @@
       "country": "Germany",
       "lat": 53.7562918,
       "lng": 9.3056321,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13250,6 +13882,7 @@
       "country": "Germany",
       "lat": 48.5335612,
       "lng": 12.948316,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13270,6 +13903,7 @@
       "country": "Germany",
       "lat": 50.7017384,
       "lng": 12.4951376,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13290,6 +13924,7 @@
       "country": "Germany",
       "lat": 52.8605881,
       "lng": 12.3164381,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13310,6 +13945,7 @@
       "country": "Belgium",
       "lat": 50.700835,
       "lng": 3.4599051,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13331,6 +13967,7 @@
       "country": "Austria",
       "lat": 48.3305787,
       "lng": 13.8574179,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13352,6 +13989,7 @@
       "country": "Germany",
       "lat": 51.03577,
       "lng": 7.7804217,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13373,6 +14011,7 @@
       "country": "Germany",
       "lat": 48.60252759999999,
       "lng": 10.7190853,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13395,6 +14034,7 @@
       "country": "Germany",
       "lat": 54.4285581,
       "lng": 9.808086,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13415,6 +14055,7 @@
       "country": "Austria",
       "lat": 47.5236278,
       "lng": 14.1466257,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13437,6 +14078,7 @@
       "country": "Germany",
       "lat": 48.2261037,
       "lng": 8.4786778,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13457,6 +14099,7 @@
       "country": "Germany",
       "lat": 49.07805399999999,
       "lng": 9.557513199999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13478,6 +14121,7 @@
       "country": "Germany",
       "lat": 53.6409848,
       "lng": 9.2375372,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13499,6 +14143,7 @@
       "country": "Germany",
       "lat": 50.4348085,
       "lng": 8.497105399999999,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13521,6 +14166,7 @@
       "country": "Germany",
       "lat": 50.94094699999999,
       "lng": 7.301358399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13542,6 +14188,7 @@
       "country": "Germany",
       "lat": 51.6374522,
       "lng": 12.1324348,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13562,6 +14209,7 @@
       "country": "Germany",
       "lat": 52.9655347,
       "lng": 10.4250341,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13582,6 +14230,7 @@
       "country": "Germany",
       "lat": 54.1864923,
       "lng": 10.9688254,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -13603,6 +14252,7 @@
       "country": "Germany",
       "lat": 49.6507477,
       "lng": 6.2337462,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13624,6 +14274,7 @@
       "country": "Germany",
       "lat": 52.4023929,
       "lng": 10.3147311,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13644,6 +14295,7 @@
       "country": "Germany",
       "lat": 50.655071,
       "lng": 12.1936306,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13666,6 +14318,7 @@
       "country": "Austria",
       "lat": 48.5259898,
       "lng": 16.3594228,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13687,6 +14340,7 @@
       "country": "Germany",
       "lat": 49.37832419999999,
       "lng": 12.7058119,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13708,6 +14362,7 @@
       "country": "Germany",
       "lat": 48.4102223,
       "lng": 10.7706589,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13729,6 +14384,7 @@
       "country": "Germany",
       "lat": 48.1620869,
       "lng": 12.179061,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13749,6 +14405,7 @@
       "country": "Germany",
       "lat": 53.94598509999999,
       "lng": 9.1373172,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13770,6 +14427,7 @@
       "country": "Germany",
       "lat": 50.1046288,
       "lng": 11.6042098,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13790,6 +14448,7 @@
       "country": "Germany",
       "lat": 52.87542879999999,
       "lng": 8.7339691,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13810,6 +14469,7 @@
       "country": "Germany",
       "lat": 47.5778743,
       "lng": 10.7382452,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13832,6 +14492,7 @@
       "country": "Germany",
       "lat": 49.9657509,
       "lng": 6.824233899999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13852,6 +14513,7 @@
       "country": "Netherland",
       "lat": 52.6349495,
       "lng": 6.2224727,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13874,6 +14536,7 @@
       "country": "Germany",
       "lat": 50.2736811,
       "lng": 7.8354727,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13894,6 +14557,7 @@
       "country": "Germany",
       "lat": 51.1690416,
       "lng": 6.6442567,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13915,6 +14579,7 @@
       "country": "Germany",
       "lat": 52.4699198,
       "lng": 12.9965755,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13935,6 +14600,7 @@
       "country": "Germany",
       "lat": 52.43787380000001,
       "lng": 8.8237021,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13955,6 +14621,7 @@
       "country": "Germany",
       "lat": 49.8058622,
       "lng": 8.6917536,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -13975,6 +14642,7 @@
       "country": "Germany",
       "lat": 50.8009829,
       "lng": 12.7132681,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -13996,6 +14664,7 @@
       "country": "Germany",
       "lat": 53.1077416,
       "lng": 11.2327761,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14016,6 +14685,7 @@
       "country": "Germany",
       "lat": 52.5031666,
       "lng": 10.5145813,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14037,6 +14707,7 @@
       "country": "Germany",
       "lat": 50.6690165,
       "lng": 7.6797315,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14058,6 +14729,7 @@
       "country": "Germany",
       "lat": 48.61452509999999,
       "lng": 9.5529025,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14078,6 +14750,7 @@
       "country": "Germany",
       "lat": 48.50620300000001,
       "lng": 11.2427037,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -14099,6 +14772,7 @@
       "country": "Germany",
       "lat": 50.9693854,
       "lng": 7.9923572,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14121,6 +14795,7 @@
       "country": "Germany",
       "lat": 52.44672749999999,
       "lng": 13.4019777,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14142,6 +14817,7 @@
       "country": "Germany",
       "lat": 53.61040999999999,
       "lng": 7.528588099999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14163,6 +14839,7 @@
       "country": "Germany",
       "lat": 53.44606779999999,
       "lng": 10.1569956,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14183,6 +14860,7 @@
       "country": "Germany",
       "lat": 49.1498727,
       "lng": 12.401332,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14205,6 +14883,7 @@
       "country": "Germany",
       "lat": 51.53752679999999,
       "lng": 7.602083399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14225,6 +14904,7 @@
       "country": "Germany",
       "lat": 52.8816415,
       "lng": 11.4860144,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14245,6 +14925,7 @@
       "country": "Germany",
       "lat": 48.9277695,
       "lng": 8.4725874,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14266,6 +14947,7 @@
       "country": "Germany",
       "lat": 49.3106346,
       "lng": 6.9405869,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14287,6 +14969,7 @@
       "country": "Germany",
       "lat": 48.0696838,
       "lng": 11.3784087,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14309,6 +14992,7 @@
       "country": "Germany",
       "lat": 48.2354993,
       "lng": 7.7078395,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14329,6 +15013,7 @@
       "country": "Austria",
       "lat": 47.5974332,
       "lng": 13.1676579,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14350,6 +15035,7 @@
       "country": "Germany",
       "lat": 50.439471,
       "lng": 6.4344607,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -14370,6 +15056,7 @@
       "country": "Germany",
       "lat": 48.3949283,
       "lng": 12.1292755,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14392,6 +15079,7 @@
       "country": "Spain",
       "lat": 42.0631102,
       "lng": -7.7259471,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14413,6 +15101,7 @@
       "country": "Germany",
       "lat": 50.5872608,
       "lng": 9.837764600000002,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14433,6 +15122,7 @@
       "country": "Germany",
       "lat": 53.90023009999999,
       "lng": 9.9903439,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14453,6 +15143,7 @@
       "country": "Germany",
       "lat": 52.0992311,
       "lng": 13.0713142,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14474,6 +15165,7 @@
       "country": "Germany",
       "lat": 48.7170667,
       "lng": 10.6175613,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14495,6 +15187,7 @@
       "country": "Germany",
       "lat": 51.3249474,
       "lng": 7.861748100000001,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14515,6 +15208,7 @@
       "country": "Germany",
       "lat": 48.4936788,
       "lng": 9.052605999999999,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14535,6 +15229,7 @@
       "country": "Germany",
       "lat": 50.3230827,
       "lng": 7.9427537,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14555,6 +15250,7 @@
       "country": "Germany",
       "lat": 52.40075479999999,
       "lng": 9.8005269,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14575,6 +15271,7 @@
       "country": "Germany",
       "lat": 49.48191809999999,
       "lng": 10.2583359,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -14596,6 +15293,7 @@
       "country": "Austria",
       "lat": 46.8243081,
       "lng": 12.8370301,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14616,6 +15314,7 @@
       "country": "Germany",
       "lat": 52.6874845,
       "lng": 13.5672765,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14636,6 +15335,7 @@
       "country": "Germany",
       "lat": 52.0327518,
       "lng": 7.0997524,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -14658,6 +15358,7 @@
       "country": "Austria",
       "lat": 48.0985109,
       "lng": 16.2814619,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14678,6 +15379,7 @@
       "country": "Germany",
       "lat": 49.6379059,
       "lng": 9.197413899999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14698,6 +15400,7 @@
       "country": "Germany",
       "lat": 50.0371009,
       "lng": 11.353082,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -14719,6 +15422,7 @@
       "country": "Germany",
       "lat": 49.3230503,
       "lng": 7.5485368,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14739,6 +15443,7 @@
       "country": "Germany",
       "lat": 52.6936518,
       "lng": 10.7961985,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14760,6 +15465,7 @@
       "country": "Germany",
       "lat": 54.5572738,
       "lng": 9.2679793,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14782,6 +15488,7 @@
       "country": "Germany",
       "lat": 53.63715939999999,
       "lng": 10.5256285,
+      "ausbildung": "Tierheilpraktiker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -14802,6 +15509,7 @@
       "country": "Germany",
       "lat": 52.27744380000001,
       "lng": 10.4502042,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14822,6 +15530,7 @@
       "country": "Germany",
       "lat": 51.7305339,
       "lng": 6.5916139,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14842,6 +15551,7 @@
       "country": "Germany",
       "lat": 50.8494827,
       "lng": 8.913689999999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14864,6 +15574,7 @@
       "country": "Germany",
       "lat": 50.2781521,
       "lng": 6.710325399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14885,6 +15596,7 @@
       "country": "Switzerland",
       "lat": 46.5909059,
       "lng": 6.5692517,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -14907,6 +15619,7 @@
       "country": "France",
       "lat": 45.6115009,
       "lng": 3.3514689,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -14927,6 +15640,7 @@
       "country": "Germany",
       "lat": 52.0181945,
       "lng": 11.2196086,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14948,6 +15662,7 @@
       "country": "Germany",
       "lat": 49.30130399999999,
       "lng": 6.736950600000001,
+      "ausbildung": "Hufschuhberater",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -14968,6 +15683,7 @@
       "country": "Germany",
       "lat": 54.30160559999999,
       "lng": 10.0689708,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -14989,6 +15705,7 @@
       "country": "Germany",
       "lat": 47.91020349999999,
       "lng": 12.5978173,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15009,6 +15726,7 @@
       "country": "Germany",
       "lat": 49.20671549999999,
       "lng": 9.520057200000002,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15030,6 +15748,7 @@
       "country": "Germany",
       "lat": 50.439471,
       "lng": 6.4344607,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15051,6 +15770,7 @@
       "country": "Austria",
       "lat": 46.93018,
       "lng": 15.66293,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15072,6 +15792,7 @@
       "country": "Germany",
       "lat": 47.6406959,
       "lng": 10.1257958,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15092,6 +15813,7 @@
       "country": "Germany",
       "lat": 53.7182099,
       "lng": 9.2326378,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15113,6 +15835,7 @@
       "country": "Austria",
       "lat": 48.0786009,
       "lng": 13.9572935,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15133,6 +15856,7 @@
       "country": "Germany",
       "lat": 47.809185,
       "lng": 9.6416187,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -15153,6 +15877,7 @@
       "country": "Germany",
       "lat": 48.4544359,
       "lng": 8.6481543,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15173,6 +15898,7 @@
       "country": "Germany",
       "lat": 50.85912889999999,
       "lng": 7.5981332,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15193,6 +15919,7 @@
       "country": "Germany",
       "lat": 50.4919605,
       "lng": 7.8953852,
+      "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15213,6 +15940,7 @@
       "country": "Germany",
       "lat": 50.3240694,
       "lng": 8.4011696,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15234,6 +15962,7 @@
       "country": "Germany",
       "lat": 48.5274509,
       "lng": 11.5124179,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15256,6 +15985,7 @@
       "country": "Germany",
       "lat": 51.6116713,
       "lng": 7.9982395,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15276,6 +16006,7 @@
       "country": "Germany",
       "lat": 53.1522347,
       "lng": 8.230832699999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15297,6 +16028,7 @@
       "country": "Austria",
       "lat": 48.6505153,
       "lng": 14.943468,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15319,6 +16051,7 @@
       "country": "Germany",
       "lat": 48.057861,
       "lng": 8.521389,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -15340,6 +16073,7 @@
       "country": "Germany",
       "lat": 52.50031449999999,
       "lng": 7.951930599999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15361,6 +16095,7 @@
       "country": "Germany",
       "lat": 47.6213594,
       "lng": 7.9826079,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15381,6 +16116,7 @@
       "country": "Austria",
       "lat": 48.40562389999999,
       "lng": 14.7377748,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -15401,6 +16137,7 @@
       "country": "Germany",
       "lat": 53.1371972,
       "lng": 7.4335036,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15421,6 +16158,7 @@
       "country": "Germany",
       "lat": 53.3420395,
       "lng": 8.4191609,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15441,6 +16179,7 @@
       "country": "Germany",
       "lat": 51.5317158,
       "lng": 9.9049169,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15461,6 +16200,7 @@
       "country": "Germany",
       "lat": 50.26496299999999,
       "lng": 8.356950399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15483,6 +16223,7 @@
       "country": "Germany",
       "lat": 51.92989619999999,
       "lng": 9.8876627,
+      "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -15503,6 +16244,7 @@
       "country": "Germany",
       "lat": 49.4218294,
       "lng": 7.9906187,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15525,6 +16267,7 @@
       "country": "Germany",
       "lat": 49.6717326,
       "lng": 10.0946502,
+      "ausbildung": "Osteopath",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15545,6 +16288,7 @@
       "country": "Switzerland",
       "lat": 47.0502862,
       "lng": 8.3675336,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15566,6 +16310,7 @@
       "country": "Germany",
       "lat": 53.00591069999999,
       "lng": 7.954321599999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": true,
         "klebebeschlag": true
@@ -15587,6 +16332,7 @@
       "country": "Germany",
       "lat": 50.607138,
       "lng": 6.953247,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15608,6 +16354,7 @@
       "country": "Germany",
       "lat": 48.862603,
       "lng": 8.1769679,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15629,6 +16376,7 @@
       "country": "Germany",
       "lat": 50.6826354,
       "lng": 7.4182818,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15649,6 +16397,7 @@
       "country": "Germany",
       "lat": 47.92335019999999,
       "lng": 8.488679399999999,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15669,6 +16418,7 @@
       "country": "Germany",
       "lat": 53.8424025,
       "lng": 10.0240645,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15690,6 +16440,7 @@
       "country": "Germany",
       "lat": 50.70257369999999,
       "lng": 6.3786897,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15710,6 +16461,7 @@
       "country": "Austria",
       "lat": 48.15414209999999,
       "lng": 15.7804771,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15730,6 +16482,7 @@
       "country": "Germany",
       "lat": 48.7110852,
       "lng": 11.3251158,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15751,6 +16504,7 @@
       "country": "Germany",
       "lat": 51.3734917,
       "lng": 7.7669715,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15771,6 +16525,7 @@
       "country": "Germany",
       "lat": 53.7524282,
       "lng": 9.0363913,
+      "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15792,6 +16547,7 @@
       "country": "Germany",
       "lat": 48.3426522,
       "lng": 12.4398425,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15813,6 +16569,7 @@
       "country": "Germany",
       "lat": 52.3832895,
       "lng": 8.9774411,
+      "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15835,6 +16592,7 @@
       "country": "Germany",
       "lat": 52.6559733,
       "lng": 9.388431599999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15855,6 +16613,7 @@
       "country": "Germany",
       "lat": 50.1620049,
       "lng": 9.2974301,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15875,6 +16634,7 @@
       "country": "Germany",
       "lat": 49.078045,
       "lng": 9.158169299999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15895,6 +16655,7 @@
       "country": "Germany",
       "lat": 52.6420277,
       "lng": 13.5367607,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15915,6 +16676,7 @@
       "country": "Germany",
       "lat": 50.61950119999999,
       "lng": 9.4375505,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15936,6 +16698,7 @@
       "country": "Germany",
       "lat": 51.0954089,
       "lng": 13.4641847,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15957,6 +16720,7 @@
       "country": "Germany",
       "lat": 53.7136128,
       "lng": 10.3223067,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15979,6 +16743,7 @@
       "country": "Germany",
       "lat": 53.3118884,
       "lng": 10.288329,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -15999,6 +16764,7 @@
       "country": "Germany",
       "lat": 51.2654601,
       "lng": 6.544265900000001,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16021,6 +16787,7 @@
       "country": "Germany",
       "lat": 49.49995,
       "lng": 7.798324099999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16042,6 +16809,7 @@
       "country": "Germany",
       "lat": 50.87331469999999,
       "lng": 13.6365623,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16064,6 +16832,7 @@
       "country": "Germany",
       "lat": 51.3070791,
       "lng": 9.8353114,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16084,6 +16853,7 @@
       "country": "Germany",
       "lat": 50.5174295,
       "lng": 8.585281799999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16104,6 +16874,7 @@
       "country": "Germany",
       "lat": 52.4400025,
       "lng": 10.9107095,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16125,6 +16896,7 @@
       "country": "Germany",
       "lat": 51.4695452,
       "lng": 9.980594400000001,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16146,6 +16918,7 @@
       "country": "Germany",
       "lat": 48.1589497,
       "lng": 10.8300526,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16167,6 +16940,7 @@
       "country": "Germany",
       "lat": 49.9412634,
       "lng": 11.7227422,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16187,6 +16961,7 @@
       "country": "Austria",
       "lat": 47.5361286,
       "lng": 15.5178811,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16209,6 +16984,7 @@
       "country": "Austria",
       "lat": 47.9974655,
       "lng": 16.474808,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16229,6 +17005,7 @@
       "country": "Germany",
       "lat": 51.7936497,
       "lng": 6.018026,
+      "ausbildung": "Hufschuhberater",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -16250,6 +17027,7 @@
       "country": "Germany",
       "lat": 53.8675365,
       "lng": 9.701551799999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16271,6 +17049,7 @@
       "country": "Germany",
       "lat": 54.5572738,
       "lng": 9.2679793,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16293,6 +17072,7 @@
       "country": "Austria",
       "lat": 48.00214,
       "lng": 16.23091,
+      "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16313,6 +17093,7 @@
       "country": "Germany",
       "lat": 48.0441324,
       "lng": 8.7037064,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16333,6 +17114,7 @@
       "country": "Germany",
       "lat": 51.2931501,
       "lng": 14.8311719,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16353,6 +17135,7 @@
       "country": "Germany",
       "lat": 51.26586589999999,
       "lng": 9.2421384,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16373,6 +17156,7 @@
       "country": "Germany",
       "lat": 50.547251,
       "lng": 9.0333457,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16395,6 +17179,7 @@
       "country": "Germany",
       "lat": 48.5617826,
       "lng": 9.623623600000002,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16417,6 +17202,7 @@
       "country": "Germany",
       "lat": 49.9350663,
       "lng": 5.9753928,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16438,6 +17224,7 @@
       "country": "Austria",
       "lat": 47.6251086,
       "lng": 16.1364794,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16459,6 +17246,7 @@
       "country": "Germany",
       "lat": 50.1462833,
       "lng": 11.064023,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16479,6 +17267,7 @@
       "country": "Germany",
       "lat": 49.57928889999999,
       "lng": 6.609037499999999,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16499,6 +17288,7 @@
       "country": "Germany",
       "lat": 51.2274391,
       "lng": 8.5000619,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16519,6 +17309,7 @@
       "country": "Germany",
       "lat": 49.7969818,
       "lng": 8.1705258,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16540,6 +17331,7 @@
       "country": "Germany",
       "lat": 51.6116713,
       "lng": 7.9982395,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16561,6 +17353,7 @@
       "country": "Germany",
       "lat": 53.3762523,
       "lng": 10.5496697,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16581,6 +17374,7 @@
       "country": "Germany",
       "lat": 51.399497,
       "lng": 7.2812919,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16601,6 +17395,7 @@
       "country": "Germany",
       "lat": 53.2539257,
       "lng": 9.980688299999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16622,6 +17417,7 @@
       "country": "Austria",
       "lat": 47.40993,
       "lng": 15.26861,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16642,6 +17438,7 @@
       "country": "Germany",
       "lat": 52.1406115,
       "lng": 8.041032999999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": true,
         "klebebeschlag": false
@@ -16662,6 +17459,7 @@
       "country": "Germany",
       "lat": 47.78632760000001,
       "lng": 11.0604693,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16682,6 +17480,7 @@
       "country": "Germany",
       "lat": 48.3030592,
       "lng": 11.3554346,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16702,6 +17501,7 @@
       "country": "Austria",
       "lat": 47.9965555,
       "lng": 13.3693242,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16722,6 +17522,7 @@
       "country": "Germany",
       "lat": 48.3143436,
       "lng": 11.9871237,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16742,6 +17543,7 @@
       "country": "Germany",
       "lat": 48.3143436,
       "lng": 11.9871237,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16762,6 +17564,7 @@
       "country": "Germany",
       "lat": 48.65705620000001,
       "lng": 10.2876948,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16782,6 +17585,7 @@
       "country": "Austria",
       "lat": 48.3167526,
       "lng": 13.6291102,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16802,6 +17606,7 @@
       "country": "Germany",
       "lat": 54.4053823,
       "lng": 10.0497546,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16823,6 +17628,7 @@
       "country": "Austria",
       "lat": 48.090727,
       "lng": 14.4158853,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16844,6 +17650,7 @@
       "country": "Germany",
       "lat": 52.0754837,
       "lng": 10.8981007,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16865,6 +17672,7 @@
       "country": "Germany",
       "lat": 48.1800923,
       "lng": 11.5497532,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16885,6 +17693,7 @@
       "country": "Germany",
       "lat": 49.2081822,
       "lng": 12.6742256,
+      "ausbildung": "Sonstiges",
       "services": {
         "hufschuh": false,
         "klebebeschlag": false
@@ -16905,6 +17714,7 @@
       "country": "Germany",
       "lat": 52.1082884,
       "lng": 9.341938899999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16927,6 +17737,7 @@
       "country": "Germany",
       "lat": 53.4853384,
       "lng": 9.152340599999999,
+      "ausbildung": "Hufbearbeiter",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
@@ -16949,6 +17760,7 @@
       "country": "Germany",
       "lat": 48.7682054,
       "lng": 11.9690494,
+      "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
         "klebebeschlag": true
