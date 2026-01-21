@@ -21,15 +21,9 @@ PUBLIC_GEOCACHE_PATH = "geocache.json"
 
 
 # -----------------------------
-# Activity classification config
+# Badge classification config
 # -----------------------------
-DAYS_12M = 365
-DAYS_6M = 180
-
-THRESH_REGULAR_6M = 3          # >= 3 orders in last 6 months => "Regelmäßig aktiv"
-THRESH_REGULAR_12M = 6         # OR >= 6 orders in last 12 months => "Regelmäßig aktiv"
-THRESH_HIGH_12M = 10           # >= 10 orders in last 12 months => "Sehr aktiv" (if recent)
-RECENT_DAYS = 60               # last order within 60 days
+DAYS_10M = 304  # ~10 months as days (simple + stable)
 
 
 # -----------------------------
@@ -150,8 +144,6 @@ def parse_iso_dt(s: Optional[str]) -> Optional[datetime.datetime]:
     if not s:
         return None
     try:
-        # Shopify liefert ISO 8601, i.d.R. mit Z
-        # Python: fromisoformat kann Z nicht direkt -> ersetzen
         ss = s.replace("Z", "+00:00")
         dt = datetime.datetime.fromisoformat(ss)
         if dt.tzinfo is None:
@@ -161,40 +153,33 @@ def parse_iso_dt(s: Optional[str]) -> Optional[datetime.datetime]:
         return None
 
 
-def days_since(dt: datetime.datetime, now: datetime.datetime) -> int:
-    delta = now - dt
-    return int(delta.total_seconds() // 86400)
-
-
-def classify_activity(orders_6m: int, orders_12m: int, last_order_days: Optional[int]) -> Optional[str]:
-    if orders_12m <= 0 and last_order_days is None:
-        return None
-
-    if orders_12m >= THRESH_HIGH_12M and last_order_days is not None and last_order_days <= RECENT_DAYS:
-        return "Sehr aktiv"
-
-    if orders_6m >= THRESH_REGULAR_6M or orders_12m >= THRESH_REGULAR_12M:
-        return "Regelmäßig aktiv"
-
-    if last_order_days is not None and last_order_days <= RECENT_DAYS:
-        return "Kürzlich aktiv"
-
-    if orders_12m > 0:
-        return "Aktiv"
-
-    return None
-
-
 def normalize_website(url: Optional[str]) -> Optional[str]:
     if not url:
         return None
     u = str(url).strip()
     if not u:
         return None
-    # wenn jemand nur domain eingibt -> https:// davor
     if not (u.startswith("http://") or u.startswith("https://")):
         u = "https://" + u
     return u
+
+
+def classify_badge(orders_total: int, orders_10m: int) -> Tuple[str, str]:
+    """
+    Returns (label, tooltip).
+    We avoid exposing counts/dates in the UI. Tooltip is descriptive only.
+    """
+    if orders_total <= 0:
+        return ("Neu dabei", "Neu gelistet – noch ohne Bestellungen über Goodsmith")
+
+    if orders_10m >= 5:
+        return ("Top Partner", "In letzter Zeit besonders aktiv bei Goodsmith")
+
+    if 1 <= orders_10m <= 4:
+        return ("Aktiver Partner", "Hat bereits Bestellungen über Goodsmith umgesetzt")
+
+    # orders_total > 0, but none in last ~10 months
+    return ("Gelegentlich aktiv", "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith")
 
 
 # -----------------------------
@@ -224,13 +209,13 @@ query CustomersForPartnerMap($cursor: String) {
         mf_preferred: metafield(namespace: "customer_fields", key: "bevorzugte_kontaktaufnahme_1") { value }
         mf_ausbildung: metafield(namespace: "customer_fields", key: "ausbildung") { value }
 
-        # Website (wir versuchen mehrere Keys, weil das Setup variieren kann)
+        # Website (try multiple keys)
         mf_website:  metafield(namespace: "customer_fields", key: "website") { value }
         mf_webseite: metafield(namespace: "customer_fields", key: "webseite") { value }
         mf_url:      metafield(namespace: "customer_fields", key: "url") { value }
         mf_homepage: metafield(namespace: "customer_fields", key: "homepage") { value }
 
-        # Orders für Aktivität (limit 250)
+        # Orders for badge classification (limit 250)
         orders(first: 250, sortKey: PROCESSED_AT, reverse: true) {
           edges {
             node { processedAt }
@@ -254,6 +239,7 @@ def main() -> None:
 
     cursor = None
     now = utc_now()
+    cutoff_10m = now - datetime.timedelta(days=DAYS_10M)
 
     while True:
         data = shopify_graphql(token, CUSTOMERS_QUERY, {"cursor": cursor})
@@ -281,7 +267,6 @@ def main() -> None:
             preferred = parse_list(get_metafield_value(node, "mf_preferred"))
             ausbildung = (get_metafield_value(node, "mf_ausbildung") or "").strip() or None
 
-            # Website / URL
             website_raw = (
                 (get_metafield_value(node, "mf_website") or "").strip()
                 or (get_metafield_value(node, "mf_webseite") or "").strip()
@@ -305,7 +290,7 @@ def main() -> None:
                 geocache[cache_key] = {"lat": lat, "lng": lng, "formatted": formatted}
                 time.sleep(0.02)
 
-            # Activity from orders
+            # Orders -> badge
             order_edges = (((node.get("orders") or {}).get("edges")) or [])
             processed_list: List[datetime.datetime] = []
             for e in order_edges:
@@ -314,19 +299,13 @@ def main() -> None:
                 if dt:
                     processed_list.append(dt)
 
-            processed_list.sort(reverse=True)
+            orders_total = len(processed_list)
+            orders_10m = sum(1 for dt in processed_list if dt >= cutoff_10m)
 
-            last_order_at = processed_list[0] if processed_list else None
-            last_order_days = days_since(last_order_at, now) if last_order_at else None
-
-            # Count orders in time windows
-            cutoff_12m = now - datetime.timedelta(days=DAYS_12M)
-            cutoff_6m = now - datetime.timedelta(days=DAYS_6M)
-
-            orders_12m = sum(1 for dt in processed_list if dt >= cutoff_12m)
-            orders_6m = sum(1 for dt in processed_list if dt >= cutoff_6m)
-
-            activity_label = classify_activity(orders_6m=orders_6m, orders_12m=orders_12m, last_order_days=last_order_days)
+            badge_label, badge_tooltip = classify_badge(
+                orders_total=orders_total,
+                orders_10m=orders_10m,
+            )
 
             partners.append({
                 "partner_id": node["id"],
@@ -347,12 +326,9 @@ def main() -> None:
                     "website": website,
                     "preferred": preferred,
                 },
-                "activity": {
-                    "label": activity_label,
-                    "orders_6m": orders_6m,
-                    "orders_12m": orders_12m,
-                    "last_order_at": last_order_at.replace(microsecond=0).isoformat() if last_order_at else None,
-                    "last_order_days": last_order_days,
+                "badge": {
+                    "label": badge_label,
+                    "tooltip": badge_tooltip,
                 },
             })
 
@@ -363,7 +339,7 @@ def main() -> None:
             break
 
     safe_json_write(PUBLIC_PARTNERS_PATH, {
-        "schema_version": 2,
+        "schema_version": 3,
         "generated_at": utc_now_iso(),
         "partners": partners,
     })
