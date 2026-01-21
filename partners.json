@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-01-20T10:41:01+00:00",
+  "generated_at": "2026-01-21T04:43:16+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -13,7 +13,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "inga.hebe22@gmail.com",
@@ -35,7 +35,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "leni_mueller2@web.de",
@@ -58,7 +58,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sberchtold94@gmail.com",
@@ -145,7 +145,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "karinrauscher@gmx.at",
@@ -167,7 +167,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "benedictus.arblaster@gmail.com",
@@ -189,7 +189,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jasmsare@hotmail.de",
@@ -211,7 +211,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "xavier.heuvelmans@hotmail.com",
@@ -233,7 +233,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@natuerlich-huf.de",
@@ -255,7 +255,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufortho.schrot@outlook.de",
@@ -277,7 +277,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "franzochsenbauer@gmail.com",
@@ -321,7 +321,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tina@kreartiv.com",
@@ -366,7 +366,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "yvonne.leinweber@gmx.de",
@@ -388,7 +388,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@huf-pfalz.de",
@@ -455,7 +455,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "brigitte.zuercher@gmx.de",
@@ -477,7 +477,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sascha.bicke@gmail.com",
@@ -499,7 +499,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "patricia.roensch@aol.de",
@@ -521,7 +521,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbearbeitung.ruhland@gmail.com",
@@ -544,7 +544,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tani.isele@googlemail.com",
@@ -566,7 +566,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "lisa.helbig93@gmail.com",
@@ -588,7 +588,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tatjana.kristan@inda.si",
@@ -610,7 +610,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bsp@hotmail.ch",
@@ -654,7 +654,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ruth.huemme@gmx.de",
@@ -676,7 +676,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "besserbarhuf@icloud.com",
@@ -698,7 +698,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "rabearentrop@gmx.de",
@@ -720,7 +720,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ichbinzuhause@gmail.com",
@@ -742,7 +742,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "iris.reifenrath@googlemail.com",
@@ -764,7 +764,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "appifan@web.de",
@@ -786,7 +786,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "thehappyleaf@yahoo.de",
@@ -808,7 +808,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbeschlag-mueller@t-online.de",
@@ -830,7 +830,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sauerland-hufpflege@web.de",
@@ -852,7 +852,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bbhuf1@gmail.com",
@@ -874,7 +874,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@care4.horse",
@@ -896,7 +896,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "e.h.horseshoeing@aon.at",
@@ -918,7 +918,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "herrmann_philipp@web.de",
@@ -940,7 +940,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "schmiede.schmidt@gmail.com",
@@ -962,7 +962,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ljaretzke@aol.com",
@@ -984,7 +984,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mataala@live.com",
@@ -1006,7 +1006,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "galaxine80@googlemail.com",
@@ -1050,7 +1050,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "fraenzimoos84@bluewin.ch",
@@ -1072,7 +1072,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufe@die-pferdetherapeuten.de",
@@ -1115,7 +1115,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "eilederzyto@gmail.com",
@@ -1137,7 +1137,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "eckbertthiede@gmail.com",
@@ -1159,7 +1159,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "eva.braschler@gmail.com",
@@ -1181,7 +1181,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "dennis.drefke80@gmail.com",
@@ -1203,7 +1203,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "peter.kreisl@aon.at",
@@ -1247,7 +1247,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "naturhufundpfote@web.de",
@@ -1269,7 +1269,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "huftrimmingo@gmail.com",
@@ -1291,7 +1291,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "t.conrads@bergische-bauernscheune.de",
@@ -1313,7 +1313,7 @@
       "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sp.hufpflege@gmail.com",
@@ -1335,7 +1335,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "m.schmidt.waldkappel@gmail.com",
@@ -1357,7 +1357,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "blasznigharald@gmx.at",
@@ -1401,7 +1401,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bettina.mayer@hufschmiedin.at",
@@ -1423,7 +1423,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "heemsoth@magenta.de",
@@ -1445,7 +1445,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hollemeyer135@gmail.com",
@@ -1467,7 +1467,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "katrinsamrock@gmx.at",
@@ -1489,7 +1489,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sa.ki.3005@hotmail.com",
@@ -1511,7 +1511,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "a.charly@live.at",
@@ -1533,7 +1533,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "christinajostes@gmx.de",
@@ -1555,7 +1555,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@barhuf-niederbayern.de",
@@ -1599,7 +1599,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "cornelia.mueller01@gmail.com",
@@ -1621,7 +1621,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "u.mike@gmx.de",
@@ -1643,7 +1643,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tsb90@gmx.de",
@@ -1665,7 +1665,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbeschlagnord@mail.de",
@@ -1687,7 +1687,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nadittrich@gmx.de",
@@ -1709,7 +1709,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "maivanessa@web.de",
@@ -1731,7 +1731,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "horseshoemaker@gmx.at",
@@ -1753,7 +1753,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ksh@bergische-weidegruende.de",
@@ -1775,7 +1775,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbeschlag-stephan@gmx.de",
@@ -1797,7 +1797,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "darinaw@web.de",
@@ -1819,7 +1819,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "berghauserhof@gmx.de",
@@ -1886,7 +1886,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sabe.s@web.de",
@@ -1908,7 +1908,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@pferde-trainer.com",
@@ -1930,7 +1930,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "burkhard.rau@icloud.com",
@@ -1974,7 +1974,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "milena@keil.or.at",
@@ -1996,7 +1996,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "janschreinerhufe@gmail.com",
@@ -2019,7 +2019,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "katrin.bedacht@t-online.de",
@@ -2062,7 +2062,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "christian.jochum@t-online.de",
@@ -2085,7 +2085,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufschmied-maletz@hotmail.de",
@@ -2107,7 +2107,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sophia-greiner@web.de",
@@ -2129,7 +2129,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "evelyn.exo@gmx.de",
@@ -2151,7 +2151,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "v.ceravolo@gmx.de",
@@ -2173,7 +2173,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@nativehorse.ch",
@@ -2195,7 +2195,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "fam.h.r.rettenmund@gmx.ch",
@@ -2217,7 +2217,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "matsgoettert@gmx.de",
@@ -2239,7 +2239,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "thomas.oeschger@wildhorsetrim.ch",
@@ -2261,7 +2261,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "huf.klein@gmail.com",
@@ -2283,7 +2283,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bianca.schiffner@t-online.de",
@@ -2305,7 +2305,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "grineisen.hartmut@gmail.com",
@@ -2327,7 +2327,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufprofi.ch",
@@ -2350,7 +2350,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "steffi.bretschneider73@gmx.de",
@@ -2372,7 +2372,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nathi_w@gmx.ch",
@@ -2394,7 +2394,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "verena_mueller@web.de",
@@ -2416,7 +2416,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "vanessaheberle@t-online.de",
@@ -2438,7 +2438,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@my-hufschmied.de",
@@ -2460,7 +2460,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "marie.schichel@web.de",
@@ -2482,7 +2482,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tschul86@gmx.at",
@@ -2504,7 +2504,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "joergbrunner@gmx.de",
@@ -2526,7 +2526,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "oberle@oberle.horse",
@@ -2548,7 +2548,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "akkohler@bluewin.ch",
@@ -2570,7 +2570,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@pferde-staerken.ch",
@@ -2593,7 +2593,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@meine-hufpflegerin.de",
@@ -2615,7 +2615,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tanjazamljen@gmx.de",
@@ -2637,7 +2637,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "pferdehof-hinterschindlau@gmx.at",
@@ -2659,7 +2659,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jessica.burger@outlook.com",
@@ -2681,7 +2681,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nautschi@aon.at",
@@ -2725,7 +2725,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "evelinfischer86@gmail.com",
@@ -2747,7 +2747,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "huftechnik.ts@gmail.com",
@@ -2769,7 +2769,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "rikigugg@hotmail.com",
@@ -2791,7 +2791,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "susanne.weiss1992@t-online.de",
@@ -2813,7 +2813,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@koopmann-hufbeschlag.de",
@@ -2857,7 +2857,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "iris_habermann@web.de",
@@ -2879,7 +2879,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "stefan.mandl@gmx.de",
@@ -2901,7 +2901,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@huf-e.de",
@@ -2923,7 +2923,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbeschlag.bosch@bluewin.ch",
@@ -2945,7 +2945,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "melanie.haab@gmx.ch",
@@ -2989,7 +2989,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "herbie@huforthopaedie-gross.ch",
@@ -3011,7 +3011,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "wildhorse.at@gmail.com",
@@ -3033,7 +3033,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mayrswen76@gmail.com",
@@ -3055,7 +3055,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nitsche.heidi@gmx.de",
@@ -3077,7 +3077,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "reto.studer@hufboy.ch",
@@ -3099,7 +3099,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "samira-jaci@gmx.de",
@@ -3121,7 +3121,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "xthooks@gmail.com",
@@ -3143,7 +3143,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@timberhoof.de",
@@ -3165,7 +3165,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "d_denniger@outlook.de",
@@ -3187,7 +3187,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mario.ge@gmx.de",
@@ -3209,7 +3209,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nina1082@web.de",
@@ -3232,7 +3232,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufpraxis-schiering@web.de",
@@ -3254,7 +3254,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@barhuf-west.de",
@@ -3276,7 +3276,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "efris@bluewin.ch",
@@ -3298,7 +3298,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "denise.kiessling@web.de",
@@ -3320,7 +3320,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "dennisczudzewitz@googlemail.com",
@@ -3342,7 +3342,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "aline.weissbach@web.de",
@@ -3363,7 +3363,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@rogers-hufschuhshop.ch",
@@ -3385,7 +3385,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "alexander.yvonne@web.de",
@@ -3407,7 +3407,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "pronshausen@aol.com",
@@ -3429,7 +3429,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "padtberg_jan-dirk@gmx.de",
@@ -3451,7 +3451,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "chapalexman@gmx.com",
@@ -3473,7 +3473,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "web@ulis-hufbeschlag.de",
@@ -3495,7 +3495,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "daniela-dohr@gmx.de",
@@ -3517,7 +3517,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "johannes.ruhmann@gmail.com",
@@ -3561,7 +3561,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "simone.keller2@gmx.ch",
@@ -3583,7 +3583,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nicoledurrer85@gmail.com",
@@ -3605,7 +3605,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "michaelrosenheim74@gmail.com",
@@ -3627,7 +3627,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@barhuf.ch",
@@ -3649,7 +3649,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "simonwieser@gmx.net",
@@ -3671,7 +3671,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "uschi@working-hooves.at",
@@ -3693,7 +3693,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "f.dommes@gmx.de",
@@ -3715,7 +3715,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbeschlagschmiede@t-online.de",
@@ -3759,7 +3759,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "a.mueller-huftechnik@gmx.de",
@@ -3781,7 +3781,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ibacherin1@yahoo.de",
@@ -3803,7 +3803,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "claudia.natter@gmail.com",
@@ -3847,7 +3847,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "katrin@barhuf-ist-besser.de",
@@ -3869,7 +3869,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@zanger-pferd.de",
@@ -3891,7 +3891,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "wortgewaender@aol.de",
@@ -3913,7 +3913,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufschmiednaber@yahoo.de",
@@ -3957,7 +3957,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "miriam.holst3105@gmail.com",
@@ -3979,7 +3979,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "solo321@gmx.de",
@@ -4001,7 +4001,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "susanne.albrecht@bluewin.ch",
@@ -4023,7 +4023,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "e-maxx-36@gmx.de",
@@ -4045,7 +4045,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "zoeksmonika93@gmail.com",
@@ -4067,7 +4067,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "midleton@bluewin.ch",
@@ -4089,7 +4089,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "maurice.kiefel@gmail.com",
@@ -4110,7 +4110,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "fabiennemartin85@yahoo.de",
@@ -4132,7 +4132,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "frank.gutte@web.de",
@@ -4154,7 +4154,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ludwig@digitale-manufaktur.de",
@@ -4176,7 +4176,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hannes-h@a1.net",
@@ -4198,7 +4198,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mail@ettlins-dienstleistungen.ch",
@@ -4220,7 +4220,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": null,
@@ -4242,7 +4242,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "spieler.silvia@icloud.com",
@@ -4264,7 +4264,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sabine.gropengiesser2@gmail.com",
@@ -4286,7 +4286,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "michael.maruhn@mail.de",
@@ -4309,7 +4309,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "horsewell-hoofcare-shoeing@web.de",
@@ -4331,7 +4331,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "franziska-kluth@gmx.de",
@@ -4353,7 +4353,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@equipodo.com",
@@ -4375,7 +4375,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "manuel.madlencnik@gmx.at",
@@ -4397,7 +4397,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "marius.pohl@gmx.net",
@@ -4419,7 +4419,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "philipp.petric@gmail.com",
@@ -4441,7 +4441,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "christoph_loos14@gmx.de",
@@ -4486,7 +4486,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "dora.visnjevski@gmx.at",
@@ -4508,7 +4508,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "michael.kocner@gmx.at",
@@ -4530,7 +4530,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufbearbeitung-ts.de",
@@ -4598,7 +4598,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "barhuf.haehnel@gmail.com",
@@ -4643,7 +4643,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufpflegekissner@yahoo.com",
@@ -4665,7 +4665,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ck273001@gmail.com",
@@ -4687,7 +4687,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "katja.galster@gmx.de",
@@ -4709,7 +4709,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "falkezupferd@aol.com",
@@ -4731,7 +4731,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sarah-h@web.de",
@@ -4753,7 +4753,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "thomaseichinger78@gmx.de",
@@ -4775,7 +4775,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tiagemmer@gmail.com",
@@ -4797,7 +4797,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "isisvisna@t-online.de",
@@ -4819,7 +4819,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "anmada2009@gmail.com",
@@ -4841,7 +4841,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nhcbyjoe@gmail.com",
@@ -4885,7 +4885,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufschmied-sascha-popp@web.de",
@@ -4907,7 +4907,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@baumeister-gratz.com",
@@ -4929,7 +4929,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "orionferes@web.de",
@@ -4951,7 +4951,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jschenk1@gmx.net",
@@ -4995,7 +4995,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mk.reich@gmx.de",
@@ -5017,7 +5017,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "rene@hufbeschlag-schuehlein.de",
@@ -5039,7 +5039,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sabrina2108@gmx.net",
@@ -5061,7 +5061,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "verena.heider@gmx.de",
@@ -5083,7 +5083,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@alexander-decker.de",
@@ -5105,7 +5105,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "elena.qs@gmx.de",
@@ -5169,7 +5169,7 @@
       "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "kontakt@pferdepraxis-reisinger.at",
@@ -5191,7 +5191,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufhilfe.com",
@@ -5213,7 +5213,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "petra.duepmeier@gmx.de",
@@ -5235,7 +5235,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@andreakeuchel.de",
@@ -5258,7 +5258,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tlrdiepadres@gmail.com",
@@ -5280,7 +5280,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "cthomsen386@gmail.com",
@@ -5302,7 +5302,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "doudley11@gmail.com",
@@ -5347,7 +5347,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "schinnerl-s@gmx.at",
@@ -5391,7 +5391,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "aleks@huffreude.at",
@@ -5413,7 +5413,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "marie.heer@web.de",
@@ -5435,7 +5435,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "camillwiener@gmail.com",
@@ -5457,7 +5457,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufheilpraxis-heussner@web.de",
@@ -5479,7 +5479,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "natascha.hilz@gmail.com",
@@ -5502,7 +5502,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "claudia.osswald@bluewin.ch",
@@ -5547,7 +5547,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufpflege.ramona.sauter@gmail.com",
@@ -5569,7 +5569,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sana.bestfarrier@web.de",
@@ -5591,7 +5591,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "strussione@huf24.com",
@@ -5613,7 +5613,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bachmann-hufe@gmx.de",
@@ -5635,7 +5635,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "witte-gabi@arcor.de",
@@ -5679,7 +5679,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "rhoennige@gmx.de",
@@ -5701,7 +5701,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "isabell_noe@web.de",
@@ -5723,7 +5723,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "k.heusel@gmx.net",
@@ -5745,7 +5745,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@heufresser.com",
@@ -5768,7 +5768,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hallo@pferdesinn.at",
@@ -5790,7 +5790,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "christina.klasen@rwth-aachen.de",
@@ -5812,7 +5812,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufpflege.juliawild@aol.com",
@@ -5834,7 +5834,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "barhufbearbeitungpia@gmx.at",
@@ -5856,7 +5856,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "alexandrawerner19@gmail.com",
@@ -5877,7 +5877,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "lisa.steinecker@gmail.com",
@@ -5899,7 +5899,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "julia.biedrowski@gmail.com",
@@ -5921,7 +5921,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "erwinkleinert@aol.com",
@@ -5943,7 +5943,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jennifer-pfarre@gmx.de",
@@ -5965,7 +5965,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "thomas@herter.info",
@@ -5987,7 +5987,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ganzheitliche.tierbalance@gmail.com",
@@ -6032,7 +6032,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hope.performancecenter@gmail.com",
@@ -6054,7 +6054,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufschmied.rampf@gmail.com",
@@ -6076,7 +6076,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufe.rosi@web.de",
@@ -6098,7 +6098,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jone.gerdvilaite@gmail.com",
@@ -6120,7 +6120,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "fokuspferd@icloud.com",
@@ -6142,7 +6142,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "manni-18@web.de",
@@ -6185,7 +6185,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "melli.ewerling@gmx.de",
@@ -6207,7 +6207,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "martina.plattner2404@gmail.com",
@@ -6230,7 +6230,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@meinreitunterricht.de",
@@ -6252,7 +6252,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "lottelaemke@gmail.com",
@@ -6274,7 +6274,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "irmgardneumair@aol.com",
@@ -6296,7 +6296,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "susanneewers@gmx.de",
@@ -6363,7 +6363,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sonja_schumacher@web.de",
@@ -6449,7 +6449,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tinaknur@gmail.com",
@@ -6560,7 +6560,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@harmonie-und-leichtigkeit.ch",
@@ -6647,7 +6647,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "j.krausen88@gmail.com",
@@ -6691,7 +6691,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufcarebysabrina@gmail.com",
@@ -6734,7 +6734,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufzauber@icloud.com",
@@ -6778,7 +6778,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "post@barhufmobil.de",
@@ -6801,7 +6801,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufpflegebehnke@gmail.com",
@@ -6865,7 +6865,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "irenekandlbinder@hotmail.com",
@@ -6910,7 +6910,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "ann-katrin.lange@gmx.de",
@@ -6931,7 +6931,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufpflege-bauer.de",
@@ -6974,7 +6974,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "procasco@outlook.de",
@@ -7019,7 +7019,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "luisa.winter@gmx.at",
@@ -7040,7 +7040,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "service@sartori-hufbearbeitung.de",
@@ -7084,7 +7084,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nicole@partner-huf.de",
@@ -7106,7 +7106,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "christian@hufbeschlag.tirol",
@@ -7129,7 +7129,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "pfannerhuf@gmx.at",
@@ -7151,7 +7151,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "office@hufbalance.at",
@@ -7195,7 +7195,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mariagscho09@gmail.com",
@@ -7217,7 +7217,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "marie@pferde-geh-fuehl.de",
@@ -7239,7 +7239,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "rosi-joost@web.de",
@@ -7261,7 +7261,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "thea.roesler@gmx.de",
@@ -7283,7 +7283,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bettina.raebsamen@gmail.com",
@@ -7305,7 +7305,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mel.schufaisl@outlook.com",
@@ -7327,7 +7327,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "shire-leibi@bluewin.ch",
@@ -7349,7 +7349,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "marika-vdstein@posteo.de",
@@ -7372,7 +7372,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tirolerhufbearbeitung@gmail.com",
@@ -7395,7 +7395,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "manuela_nagler@yahoo.de",
@@ -7416,7 +7416,7 @@
       "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hs@hsgroup.es",
@@ -7460,7 +7460,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "rotert.anja@freenet.de",
@@ -7503,7 +7503,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jennifer_moll@gmx.de",
@@ -7524,7 +7524,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufschmied@glatz.st",
@@ -7546,7 +7546,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@daniela-mai.eu",
@@ -7567,7 +7567,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "huforthopaedie-knoepfle@web.de",
@@ -7589,7 +7589,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jutta@pferde-therapie.fit",
@@ -7611,7 +7611,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufpflege-wafzig.com",
@@ -7654,7 +7654,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "audi-fischer@web.de",
@@ -7676,7 +7676,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sh-consulting@gmx.de",
@@ -7697,7 +7697,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufbearbeitung-rausch.de",
@@ -7740,7 +7740,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "boehmer.friedeich@gmail.com",
@@ -7762,7 +7762,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mkinza1977@gmail.com",
@@ -7806,7 +7806,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "simonsemlitsch@gmail.com",
@@ -7828,7 +7828,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufkompetenz@googlemail.com",
@@ -7850,7 +7850,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mona.angermann@gmx.de",
@@ -7916,7 +7916,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "prof.lanza_ems@yahoo.com",
@@ -7960,7 +7960,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "katja@schneider-hoofcare.de",
@@ -7982,7 +7982,7 @@
       "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "just@1punktzwei.de",
@@ -8005,7 +8005,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "kimjettner@googlemail.com",
@@ -8072,7 +8072,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "anettewestphal@gmx.de",
@@ -8115,7 +8115,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "tc.goebel@t-online.de",
@@ -8158,7 +8158,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bequemihuf@gmail.com",
@@ -8181,7 +8181,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@huftechniksimonschwert.com",
@@ -8203,7 +8203,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "bettina.micout@t-online.de",
@@ -8246,7 +8246,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "isabo@macbay.de",
@@ -8269,7 +8269,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "karinakoenig75@gmail.com",
@@ -8291,7 +8291,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "richi-wuermli@gmx.ch",
@@ -8335,7 +8335,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "pulslara7@gmail.com",
@@ -8356,7 +8356,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sandra.zauser@gmx.at",
@@ -8442,7 +8442,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "office@sdoebroessy.at",
@@ -8463,7 +8463,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sonja.gschaider@gmail.com",
@@ -8484,7 +8484,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "qhdunit@googlemail.com",
@@ -8550,7 +8550,7 @@
       "ausbildung": "Huftechniker",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "barhufpflege-nhc@gmx.de",
@@ -8595,7 +8595,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sveahoffmann90@web.de",
@@ -8616,7 +8616,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "barhufpflege@mail.ch",
@@ -8639,7 +8639,7 @@
       "ausbildung": "Huforthopäde",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "gruenwald_stefanie@web.de",
@@ -8662,7 +8662,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "eileen@nahamtier.ch",
@@ -8707,7 +8707,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbearbeitung-piele@web.de",
@@ -8730,7 +8730,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "alexandra@alexvolker.de",
@@ -8796,7 +8796,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info.pferdestaerken@gmail.com",
@@ -8841,7 +8841,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "nadinepicht@gmail.com",
@@ -8862,7 +8862,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "anjanessler@gmail.com",
@@ -8906,7 +8906,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "munichsophie@msn.com",
@@ -8927,7 +8927,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "kreuzer-laborn.matthias@gmx.de",
@@ -8950,7 +8950,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "julio@tough-hoof.de",
@@ -8971,7 +8971,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "krueger.heinz@gmx.de",
@@ -8992,7 +8992,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@hufwerk-juliajunge.de",
@@ -9014,7 +9014,7 @@
       "ausbildung": "Tierarzt",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "koehrnchen@icloud.com",
@@ -9035,7 +9035,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufpflege.oberoesterreich@gmail.com",
@@ -9058,7 +9058,7 @@
       "ausbildung": "Hufschmied",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufbalance@icloud.com",
@@ -9081,7 +9081,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "joerg.goegler@gmx.de",
@@ -9102,7 +9102,7 @@
       "ausbildung": "Hufpfleger",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jessicalueger@t-online.de",
@@ -10570,7 +10570,7 @@
       "ausbildung": "Händler",
       "services": {
         "hufschuh": false,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mehrvomleben88@gmail.com",
@@ -14023,6 +14023,27 @@
           "Whatsapp",
           "Mail",
           "Telefon"
+        ]
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/8105168896264",
+      "display_name": "Lydia Wolff",
+      "zip": "14929",
+      "city": "Treuenbrietzen",
+      "country": "Germany",
+      "lat": 52.0646102,
+      "lng": 12.8501425,
+      "ausbildung": "Hufbearbeiter",
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "llwolff@web.de",
+        "phone": "+491624759995",
+        "preferred": [
+          "Mail"
         ]
       }
     },
