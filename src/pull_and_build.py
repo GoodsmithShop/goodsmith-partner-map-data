@@ -66,6 +66,29 @@ def parse_list(val: Optional[str]) -> List[str]:
     return [s]
 
 
+def normalize_website(val: Optional[str]) -> Optional[str]:
+    """
+    Normalize partner website:
+    - None/empty -> None
+    - If missing scheme -> prepend https://
+    - Keep as-is if already http:// or https://
+    """
+    if not val:
+        return None
+    s = str(val).strip()
+    if not s:
+        return None
+
+    # common "junk" values
+    if s.lower() in ("-", "n/a", "na", "keine", "none"):
+        return None
+
+    if s.lower().startswith(("http://", "https://")):
+        return s
+
+    return "https://" + s
+
+
 def shopify_admin_graphql_url() -> str:
     return f"https://{SHOP}/admin/api/{API_VERSION}/graphql.json"
 
@@ -92,7 +115,7 @@ def shopify_graphql(token: str, query: str, variables: Dict[str, Any]) -> Dict[s
     for attempt in range(6):
         r = requests.post(shopify_admin_graphql_url(), headers=headers, json=body, timeout=60)
         if r.status_code in (429, 500, 502, 503, 504):
-            time.sleep(min(60, 2 ** attempt))
+            time.sleep(min(60, 2**attempt))
             continue
         r.raise_for_status()
         data = r.json()
@@ -115,7 +138,7 @@ def geocode_location(address: str) -> Optional[Tuple[float, float, str]]:
     for attempt in range(5):
         r = requests.get(url, params=params, timeout=30)
         if r.status_code in (429, 500, 502, 503, 504):
-            time.sleep(min(60, 2 ** attempt))
+            time.sleep(min(60, 2**attempt))
             continue
 
         r.raise_for_status()
@@ -156,6 +179,9 @@ query CustomersForPartnerMap($cursor: String) {
         mf_anzeigename: metafield(namespace: "customer_fields", key: "anzeigename") { value }
         mf_preferred: metafield(namespace: "customer_fields", key: "bevorzugte_kontaktaufnahme_1") { value }
         mf_ausbildung: metafield(namespace: "customer_fields", key: "ausbildung") { value }
+
+        # NEW: partner website
+        mf_webseite: metafield(namespace: "customer_fields", key: "deine_webseite_optional") { value }
       }
     }
   }
@@ -200,6 +226,9 @@ def main() -> None:
             preferred = parse_list(get_metafield_value(node, "mf_preferred"))
             ausbildung = (get_metafield_value(node, "mf_ausbildung") or "").strip() or None
 
+            # NEW: website
+            website = normalize_website(get_metafield_value(node, "mf_webseite"))
+
             cache_key = f"{zip_code}|{city}|{country}".lower()
             cached = geocache.get(cache_key)
 
@@ -213,25 +242,28 @@ def main() -> None:
                 geocache[cache_key] = {"lat": lat, "lng": lng, "formatted": formatted}
                 time.sleep(0.02)
 
-            partners.append({
-                "partner_id": node["id"],
-                "display_name": display_name,
-                "zip": zip_code,
-                "city": city,
-                "country": country,
-                "lat": lat,
-                "lng": lng,
-                "ausbildung": ausbildung,
-                "services": {
-                    "hufschuh": parse_bool(get_metafield_value(node, "mf_hufschuh")),
-                    "klebebeschlag": parse_bool(get_metafield_value(node, "mf_klebebeschlag")),
-                },
-                "contact": {
-                    "email": node.get("email"),
-                    "phone": node.get("phone"),
-                    "preferred": preferred,
-                },
-            })
+            partners.append(
+                {
+                    "partner_id": node["id"],
+                    "display_name": display_name,
+                    "zip": zip_code,
+                    "city": city,
+                    "country": country,
+                    "lat": lat,
+                    "lng": lng,
+                    "ausbildung": ausbildung,
+                    "website": website,  # NEW
+                    "services": {
+                        "hufschuh": parse_bool(get_metafield_value(node, "mf_hufschuh")),
+                        "klebebeschlag": parse_bool(get_metafield_value(node, "mf_klebebeschlag")),
+                    },
+                    "contact": {
+                        "email": node.get("email"),
+                        "phone": node.get("phone"),
+                        "preferred": preferred,
+                    },
+                }
+            )
 
         if customers["pageInfo"]["hasNextPage"]:
             cursor = customers["pageInfo"]["endCursor"]
@@ -239,11 +271,14 @@ def main() -> None:
         else:
             break
 
-    safe_json_write(PUBLIC_PARTNERS_PATH, {
-        "schema_version": 1,
-        "generated_at": utc_now_iso(),
-        "partners": partners,
-    })
+    safe_json_write(
+        PUBLIC_PARTNERS_PATH,
+        {
+            "schema_version": 1,
+            "generated_at": utc_now_iso(),
+            "partners": partners,
+        },
+    )
     safe_json_write(PUBLIC_GEOCACHE_PATH, geocache)
 
 
