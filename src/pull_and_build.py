@@ -178,7 +178,6 @@ def classify_badge(orders_total: int, orders_10m: int) -> Tuple[str, str]:
     if 1 <= orders_10m <= 4:
         return ("Aktiver Partner", "Hat bereits Bestellungen über Goodsmith umgesetzt")
 
-    # orders_total > 0, but none in last ~10 months
     return ("Gelegentlich aktiv", "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith")
 
 
@@ -198,6 +197,10 @@ query CustomersForPartnerMap($cursor: String) {
         phone
 
         mf_listung: metafield(namespace: "customer_fields", key: "listung") { value }
+
+        # MANUELLE SPERRE (Boolean)
+        mf_sperre: metafield(namespace: "customer_fields", key: "sperre") { value }
+
         mf_hufschuh: metafield(namespace: "customer_fields", key: "gs_hufschuh") { value }
         mf_klebebeschlag: metafield(namespace: "customer_fields", key: "gs_klebebeschlag") { value }
 
@@ -248,7 +251,13 @@ def main() -> None:
         for edge in customers["edges"]:
             node = edge["node"]
 
+            # Muss gelistet sein
             if not parse_bool(get_metafield_value(node, "mf_listung")):
+                continue
+
+            # NUR sperren, wenn mf_sperre === true
+            sperre_bool = parse_bool(get_metafield_value(node, "mf_sperre"))
+            if sperre_bool is True:
                 continue
 
             zip_code = (get_metafield_value(node, "mf_plz") or "").strip()
@@ -316,6 +325,12 @@ def main() -> None:
                 "lat": lat,
                 "lng": lng,
                 "ausbildung": ausbildung,
+
+                # Optional, aber hilfreich fürs Frontend/Debug:
+                "customer_fields": {
+                    "sperre": sperre_bool,
+                },
+
                 "services": {
                     "hufschuh": parse_bool(get_metafield_value(node, "mf_hufschuh")),
                     "klebebeschlag": parse_bool(get_metafield_value(node, "mf_klebebeschlag")),
@@ -339,7 +354,7 @@ def main() -> None:
             break
 
     safe_json_write(PUBLIC_PARTNERS_PATH, {
-        "schema_version": 3,
+        "schema_version": 4,
         "generated_at": utc_now_iso(),
         "partners": partners,
     })
