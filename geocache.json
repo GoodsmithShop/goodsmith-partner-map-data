@@ -1109,11 +1109,6 @@
     "lng": 11.9269999,
     "formatted": "06193 Nauendorf, Germany"
   },
-  "82234|weßling|deutschland": {
-    "lat": 48.0748176,
-    "lng": 11.2475528,
-    "formatted": "82234 Weßling, Germany"
-  },
   "9556|liebenfels|austria": {
     "lat": 46.73716750000001,
     "lng": 14.2876932,
@@ -1558,11 +1553,6 @@
     "lat": 47.281414,
     "lng": 11.1500296,
     "formatted": "6404 Polling in Tirol, Austria"
-  },
-  "6932|langen bei bregenz|austria": {
-    "lat": 47.5086191,
-    "lng": 9.828040699999999,
-    "formatted": "6932 Langen bei Bregenz, Austria"
   },
   "6114|kolsass|austria": {
     "lat": 47.3002244,
