@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-01-22T05:06:15+00:00",
+  "generated_at": "2026-01-23T05:01:53+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -660,8 +660,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -13219,7 +13219,7 @@
         "klebebeschlag": true
       },
       "contact": {
-        "email": "sikorabine@gmail.com",
+        "email": "gsundehuaf@gmail.com",
         "phone": "+436642804597",
         "website": null,
         "preferred": [
@@ -22261,7 +22261,7 @@
       "country": "Germany",
       "lat": 50.607138,
       "lng": 6.953247,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -22275,7 +22275,8 @@
         "website": null,
         "preferred": [
           "Telefon",
-          "Whatsapp"
+          "Whatsapp",
+          "Mail"
         ]
       },
       "badge": {
