@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-01-23T05:01:53+00:00",
+  "generated_at": "2026-01-24T04:53:37+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -6979,7 +6979,7 @@
       "country": "Germany",
       "lat": 47.9776295,
       "lng": 12.3899899,
-      "ausbildung": "Hufschuhberater",
+      "ausbildung": "Sonstiges",
       "customer_fields": {
         "sperre": false
       },
@@ -7418,8 +7418,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -10041,7 +10041,7 @@
       "country": "Spain",
       "lat": 37.39258179999999,
       "lng": -3.5199321,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -10815,7 +10815,7 @@
       "country": "Germany",
       "lat": 50.7533438,
       "lng": 6.1123901,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -12521,7 +12521,7 @@
       "country": "Germany",
       "lat": 49.6256573,
       "lng": 11.2721921,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -13198,8 +13198,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -14347,7 +14347,7 @@
       "country": "Spain",
       "lat": 39.5697165,
       "lng": 3.2095318,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -14852,7 +14852,7 @@
       "country": "Germany",
       "lat": 51.1300631,
       "lng": 14.7469579,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -15360,7 +15360,7 @@
       "country": "Germany",
       "lat": 49.6506474,
       "lng": 8.5654893,
-      "ausbildung": "Hufschuhberater",
+      "ausbildung": "Sonstiges",
       "customer_fields": {
         "sperre": false
       },
@@ -15870,7 +15870,7 @@
       "country": "Germany",
       "lat": 50.1392079,
       "lng": 11.2973433,
-      "ausbildung": "Hufschuhberater",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -19413,7 +19413,7 @@
       "country": "Germany",
       "lat": 49.6507477,
       "lng": 6.2337462,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -19908,35 +19908,6 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/8276190494984",
-      "display_name": "Tina Schäfer",
-      "zip": "64367",
-      "city": "Mühltal",
-      "country": "Germany",
-      "lat": 49.8058622,
-      "lng": 8.6917536,
-      "ausbildung": "Händler",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "tina.schaefer@procavallo.de",
-        "phone": "+4961513928352",
-        "website": null,
-        "preferred": [
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -20537,36 +20508,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/8446335156488",
-      "display_name": "javier quelle",
-      "zip": "32630",
-      "city": "XINZO DE LIMIA",
-      "country": "Spain",
-      "lat": 42.0631102,
-      "lng": -7.7259471,
-      "ausbildung": "Händler",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "canchateams@gmail.com",
-        "phone": "+34656992428",
-        "website": null,
-        "preferred": [
-          "Mail",
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/8469789311240",
       "display_name": "Christoph Barthelmes",
       "zip": "36145",
@@ -20978,36 +20919,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/8619605229832",
-      "display_name": "Simone Schmidt",
-      "zip": "95359",
-      "city": "Kasendorf",
-      "country": "Germany",
-      "lat": 50.0371009,
-      "lng": 11.353082,
-      "ausbildung": "Händler",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "info@das-huflaedchen.de",
-        "phone": "+491781451590",
-        "website": null,
-        "preferred": [
-          "Mail",
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/8620435603720",
       "display_name": "Ramon  Welter",
       "zip": "66919",
@@ -21068,18 +20979,18 @@
     },
     {
       "partner_id": "gid://shopify/Customer/8622918828296",
-      "display_name": "Annika  Adomeit",
+      "display_name": "Annika Adomeit",
       "zip": "25850",
       "city": "Bondelum",
       "country": "Germany",
       "lat": 54.5572738,
       "lng": 9.2679793,
-      "ausbildung": "Huforthopäde",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21343,7 +21254,7 @@
       "country": "Germany",
       "lat": 49.30130399999999,
       "lng": 6.736950600000001,
-      "ausbildung": "Hufschuhberater",
+      "ausbildung": "Sonstiges",
       "customer_fields": {
         "sperre": false
       },
@@ -21696,7 +21607,7 @@
       "country": "Germany",
       "lat": 50.4919605,
       "lng": 7.8953852,
-      "ausbildung": "Händler",
+      "ausbildung": "Hufschmied",
       "customer_fields": {
         "sperre": false
       },
@@ -23183,7 +23094,7 @@
       "country": "Germany",
       "lat": 51.7936497,
       "lng": 6.018026,
-      "ausbildung": "Hufschuhberater",
+      "ausbildung": "Sonstiges",
       "customer_fields": {
         "sperre": false
       },
@@ -23450,8 +23361,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 49.9350663,
-      "lng": 5.9753928,
+      "lat": 51.303938,
+      "lng": 7.530827899999999,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false

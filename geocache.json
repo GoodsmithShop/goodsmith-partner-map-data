@@ -3129,11 +3129,6 @@
     "lng": 8.8237021,
     "formatted": "31606 Warmsen-Sapelloh, Germany"
   },
-  "64367|mühltal|germany": {
-    "lat": 49.8058622,
-    "lng": 8.6917536,
-    "formatted": "64367 Mühltal, Germany"
-  },
   "09337|hohenstein-ernstthal|germany": {
     "lat": 50.8009829,
     "lng": 12.7132681,
@@ -3229,11 +3224,6 @@
     "lng": 12.1292755,
     "formatted": "84432 Hohenpolding, Germany"
   },
-  "32630|xinzo de limia|spain": {
-    "lat": 42.0631102,
-    "lng": -7.7259471,
-    "formatted": "Xinzo de Limia, 32630 Xinzo de Limia, Province of Ourense, Spain"
-  },
   "36145|hofbieber|germany": {
     "lat": 50.5872608,
     "lng": 9.837764600000002,
@@ -3298,11 +3288,6 @@
     "lat": 49.6379059,
     "lng": 9.197413899999999,
     "formatted": "63916 Amorbach, Germany"
-  },
-  "95359|kasendorf|germany": {
-    "lat": 50.0371009,
-    "lng": 11.353082,
-    "formatted": "95359 Kasendorf, Germany"
   },
   "66919|saalstadt|germany": {
     "lat": 49.3230503,
@@ -3655,9 +3640,9 @@
     "formatted": "73349 Wiesensteig, Germany"
   },
   "l-9644|dahl|germany": {
-    "lat": 49.9350663,
-    "lng": 5.9753928,
-    "formatted": "9644 Dahl Goesdorf, Luxembourg"
+    "lat": 51.303938,
+    "lng": 7.530827899999999,
+    "formatted": "58091 Hagen-Dahl, Germany"
   },
   "2840|warth|austria": {
     "lat": 47.6251086,
