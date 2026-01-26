@@ -2829,11 +2829,6 @@
     "lng": 6.7294484,
     "formatted": "54 Kerpen, Germany"
   },
-  "24558|wakendorf ii|germany": {
-    "lat": 53.7827782,
-    "lng": 10.0824142,
-    "formatted": "24558 Wakendorf II, Germany"
-  },
   "23820|pronstorf|germany": {
     "lat": 53.9423028,
     "lng": 10.4988977,
@@ -3758,5 +3753,10 @@
     "lat": 48.7682054,
     "lng": 11.9690494,
     "formatted": "93352 Rohr in Niederbayern, Germany"
+  },
+  "4813|uerkheim|switzerland": {
+    "lat": 47.3018915,
+    "lng": 8.007749600000002,
+    "formatted": "4813 Uerkheim, Switzerland"
   }
 }

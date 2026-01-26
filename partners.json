@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-01-25T05:08:58+00:00",
+  "generated_at": "2026-01-26T05:12:38+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -961,8 +961,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -9607,8 +9607,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -14246,8 +14246,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -15827,8 +15827,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -17886,36 +17886,6 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7917300154632",
-      "display_name": "Annabel Hoffmann",
-      "zip": "24558",
-      "city": "Wakendorf II",
-      "country": "Germany",
-      "lat": 53.7827782,
-      "lng": 10.0824142,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "altesager@gmail.com",
-        "phone": "+4915901141993",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -24144,6 +24114,35 @@
         "preferred": [
           "Mail",
           "Telefon"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/11566519582984",
+      "display_name": "Huforthopädie Corina Byland",
+      "zip": "4813",
+      "city": "Uerkheim",
+      "country": "Switzerland",
+      "lat": 47.3018915,
+      "lng": 8.007749600000002,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "corina_byland@hotmail.com",
+        "phone": "+41793634813",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
         ]
       },
       "badge": {
