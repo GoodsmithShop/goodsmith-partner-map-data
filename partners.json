@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-01-28T05:03:15+00:00",
+  "generated_at": "2026-01-29T05:38:20+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -178,8 +178,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
