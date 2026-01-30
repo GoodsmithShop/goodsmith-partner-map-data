@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-01-29T05:38:20+00:00",
+  "generated_at": "2026-01-30T05:42:14+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -10935,8 +10935,8 @@
       "zip": "24790",
       "city": "Schacht-Audorf",
       "country": "Germany",
-      "lat": 54.3143251,
-      "lng": 9.723433499999999,
+      "lat": 54.3141871,
+      "lng": 9.722721199999999,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -12133,8 +12133,8 @@
       "zip": "7318",
       "city": "Saalfeld",
       "country": "Germany",
-      "lat": 50.6492736,
-      "lng": 11.3661502,
+      "lat": 50.63519119999999,
+      "lng": 11.3594746,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -17618,8 +17618,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
