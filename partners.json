@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-01-30T05:42:14+00:00",
+  "generated_at": "2026-01-31T05:31:05+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -158,8 +158,8 @@
       "zip": "89340",
       "city": "Leipheim",
       "country": "Germany",
-      "lat": 48.4579893,
-      "lng": 10.1956764,
+      "lat": 48.4495038,
+      "lng": 10.2196324,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -368,8 +368,8 @@
       "zip": "94239",
       "city": "Zachenberg",
       "country": "Germany",
-      "lat": 48.9679004,
-      "lng": 13.0000655,
+      "lat": 48.96535979999999,
+      "lng": 13.0060133,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -4634,8 +4634,8 @@
       "zip": "34431",
       "city": "Marsberg",
       "country": "Germany",
-      "lat": 51.4551847,
-      "lng": 8.846507899999999,
+      "lat": 51.4575281,
+      "lng": 8.8474574,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -8390,8 +8390,8 @@
       "zip": "85104",
       "city": "Pförring",
       "country": "Germany",
-      "lat": 48.8086346,
-      "lng": 11.6877672,
+      "lat": 48.8086571,
+      "lng": 11.6877413,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -8930,8 +8930,8 @@
       "zip": "83109",
       "city": "Großkarolinenfeld",
       "country": "Germany",
-      "lat": 47.8927777,
-      "lng": 12.0657836,
+      "lat": 47.8907541,
+      "lng": 12.0809136,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -14315,8 +14315,8 @@
       "zip": "82380",
       "city": "Peißenberg",
       "country": "Germany",
-      "lat": 47.78632760000001,
-      "lng": 11.0604693,
+      "lat": 47.8143459,
+      "lng": 11.0663436,
       "ausbildung": "Huforthopäde",
       "customer_fields": {
         "sperre": false
@@ -14732,8 +14732,8 @@
       "zip": "83071",
       "city": "Stephanskirchen",
       "country": "Germany",
-      "lat": 47.8601056,
-      "lng": 12.1838269,
+      "lat": 47.8553335,
+      "lng": 12.1840788,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -15478,8 +15478,8 @@
       "zip": "38321",
       "city": "Denkte",
       "country": "Germany",
-      "lat": 52.1449034,
-      "lng": 10.6127222,
+      "lat": 52.1448891,
+      "lng": 10.6127176,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
@@ -18726,8 +18726,8 @@
       "zip": "37351",
       "city": "Dingelstädt",
       "country": "Germany",
-      "lat": 51.3155848,
-      "lng": 10.3196967,
+      "lat": 51.32505889999999,
+      "lng": 10.2999508,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
@@ -20244,8 +20244,8 @@
       "zip": "39619",
       "city": "Arendsee (Altmark)",
       "country": "Germany",
-      "lat": 52.8816415,
-      "lng": 11.4860144,
+      "lat": 52.85946200000001,
+      "lng": 11.44928,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -23684,8 +23684,8 @@
       "zip": "82380",
       "city": "Peißenberg",
       "country": "Germany",
-      "lat": 47.78632760000001,
-      "lng": 11.0604693,
+      "lat": 47.8143459,
+      "lng": 11.0663436,
       "ausbildung": "Sonstiges",
       "customer_fields": {
         "sperre": false

@@ -25,9 +25,9 @@
     "formatted": "86937 Scheuring, Germany"
   },
   "89340|leipheim|germany": {
-    "lat": 48.4579893,
-    "lng": 10.1956764,
-    "formatted": "89340 Leipheim-Riedheim, Germany"
+    "lat": 48.4495038,
+    "lng": 10.2196324,
+    "formatted": "89340 Leipheim, Germany"
   },
   "4400|st. ulrich bei steyr|austria": {
     "lat": 48.0173952,
@@ -42,7 +42,7 @@
   "25361|elskop|germany": {
     "lat": 53.8177595,
     "lng": 9.5124148,
-    "formatted": "25 Elskop, Germany"
+    "formatted": "25361 Elskop, Germany"
   },
   "53925|kall|germany": {
     "lat": 50.52679860000001,
@@ -60,9 +60,9 @@
     "formatted": "15 Rüdersdorf-Lichtenow, Germany"
   },
   "94239|zachenberg|germany": {
-    "lat": 48.9679004,
-    "lng": 13.0000655,
-    "formatted": "94239 Zachenberg, Germany"
+    "lat": 48.96535979999999,
+    "lng": 13.0060133,
+    "formatted": "94239 Gotteszell, Germany"
   },
   "86971|peiting|germany": {
     "lat": 47.7878785,
@@ -497,7 +497,7 @@
   "56357|niederbachheim|germany": {
     "lat": 50.248192,
     "lng": 7.764679699999999,
-    "formatted": "56357 Niederbachheim, Germany"
+    "formatted": "56 Niederbachheim, Germany"
   },
   "95466|weidenberg|germany": {
     "lat": 49.9412634,
@@ -740,8 +740,8 @@
     "formatted": "99831 Amt Creuzburg-Creuzburg, Germany"
   },
   "34431|marsberg|germany": {
-    "lat": 51.4551847,
-    "lng": 8.846507899999999,
+    "lat": 51.4575281,
+    "lng": 8.8474574,
     "formatted": "34431 Marsberg, Germany"
   },
   "44225|dortmund|germany": {
@@ -1345,8 +1345,8 @@
     "formatted": "61276 Weilrod, Germany"
   },
   "85104|pförring|germany": {
-    "lat": 48.8086346,
-    "lng": 11.6877672,
+    "lat": 48.8086571,
+    "lng": 11.6877413,
     "formatted": "85104 Pförring, Germany"
   },
   "6162|mutters|austria": {
@@ -1435,8 +1435,8 @@
     "formatted": "8580 Amriswil, Switzerland"
   },
   "83109|großkarolinenfeld|germany": {
-    "lat": 47.8927777,
-    "lng": 12.0657836,
+    "lat": 47.8907541,
+    "lng": 12.0809136,
     "formatted": "83109 Großkarolinenfeld, Germany"
   },
   "26446|wiesedermeer|germany": {
@@ -1962,7 +1962,7 @@
   "24635|daldorf|germany": {
     "lat": 54.0168647,
     "lng": 10.2485102,
-    "formatted": "24 Daldorf, Germany"
+    "formatted": "24635 Daldorf, Germany"
   },
   "4842|zell am pettenfirst|austria": {
     "lat": 48.0775549,
@@ -2270,8 +2270,8 @@
     "formatted": "6510 Gram, Denmark"
   },
   "82380|peißenberg|germany": {
-    "lat": 47.78632760000001,
-    "lng": 11.0604693,
+    "lat": 47.8143459,
+    "lng": 11.0663436,
     "formatted": "82380 Peißenberg, Germany"
   },
   "07680|manacor|spain": {
@@ -2330,8 +2330,8 @@
     "formatted": "86916 Kaufering, Germany"
   },
   "83071|stephanskirchen|germany": {
-    "lat": 47.8601056,
-    "lng": 12.1838269,
+    "lat": 47.8553335,
+    "lng": 12.1840788,
     "formatted": "83071 Stephanskirchen, Germany"
   },
   "79117|freiburg|germany": {
@@ -2445,8 +2445,8 @@
     "formatted": "9751 Sachsenburg, Austria"
   },
   "38321|denkte|germany": {
-    "lat": 52.1449034,
-    "lng": 10.6127222,
+    "lat": 52.1448891,
+    "lng": 10.6127176,
     "formatted": "38321 Denkte, Germany"
   },
   "34369|hofgeismar|germany": {
@@ -2955,9 +2955,9 @@
     "formatted": "25551 Hohenlockstedt, Germany"
   },
   "37351|dingelstädt|germany": {
-    "lat": 51.3155848,
-    "lng": 10.3196967,
-    "formatted": "37351 Dingelstädt, Germany"
+    "lat": 51.32505889999999,
+    "lng": 10.2999508,
+    "formatted": "37351 Dingelstädt-Kefferhausen, Germany"
   },
   "48683|ahaus|germany": {
     "lat": 52.0790306,
@@ -3157,7 +3157,7 @@
   "57224|kreuztal|germany": {
     "lat": 50.9693854,
     "lng": 7.9923572,
-    "formatted": "57223 Kreuztal, Germany"
+    "formatted": "57 Kreuztal, Germany"
   },
   "12109|berlin|germany": {
     "lat": 52.44672749999999,
@@ -3185,8 +3185,8 @@
     "formatted": "44319 Dortmund-Brackel, Germany"
   },
   "39619|arendsee (altmark)|germany": {
-    "lat": 52.8816415,
-    "lng": 11.4860144,
+    "lat": 52.85946200000001,
+    "lng": 11.44928,
     "formatted": "39619 Arendsee, Germany"
   },
   "76337|waldbronn|germany": {
