@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-01T06:13:27+00:00",
+  "generated_at": "2026-02-02T06:21:03+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -7690,8 +7690,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -23331,8 +23331,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 49.9350663,
-      "lng": 5.9753928,
+      "lat": 51.303938,
+      "lng": 7.530827899999999,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
