@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-05T06:17:01+00:00",
+  "generated_at": "2026-02-06T06:12:46+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -1840,8 +1840,8 @@
       "zip": "9560",
       "city": "Kl.St.Veit",
       "country": "Austria",
-      "lat": 46.7008859,
-      "lng": 14.1639282,
+      "lat": 46.6975619,
+      "lng": 14.1662137,
       "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
@@ -15438,8 +15438,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -17558,8 +17558,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
