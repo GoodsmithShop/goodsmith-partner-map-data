@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-06T06:12:46+00:00",
+  "generated_at": "2026-02-07T05:35:53+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -4059,36 +4059,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/3079037419592",
-      "display_name": "Herbert Gross",
-      "zip": "4665",
-      "city": "Oftringen",
-      "country": "Switzerland",
-      "lat": 47.31647460000001,
-      "lng": 7.939797599999999,
-      "ausbildung": "Huforthopäde",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "herbie@huforthopaedie-gross.ch",
-        "phone": "+41764048503",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/3079037681736",
       "display_name": "Sonja Appelt",
       "zip": "9241",
@@ -4566,36 +4536,6 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/3079039352904",
-      "display_name": "Roger Hunziker",
-      "zip": "4665",
-      "city": "Oftringen",
-      "country": "Switzerland",
-      "lat": 47.31647460000001,
-      "lng": 7.939797599999999,
-      "ausbildung": "Huforthopäde",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "info@rogers-hufschuhshop.ch",
-        "phone": "+41792626263",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
       }
     },
     {
@@ -21449,8 +21389,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
