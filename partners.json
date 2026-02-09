@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-08T06:11:50+00:00",
+  "generated_at": "2026-02-09T06:52:11+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -6978,7 +6978,7 @@
       "country": "Austria",
       "lat": 47.1801789,
       "lng": 13.5962739,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
@@ -23271,8 +23271,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 51.303938,
-      "lng": 7.530827899999999,
+      "lat": 49.9350663,
+      "lng": 5.9753928,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
