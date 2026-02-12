@@ -1074,11 +1074,6 @@
     "lng": 9.729432100000002,
     "formatted": "97922 Lauda-Königshofen, Germany"
   },
-  "72532|gomadingen|germany": {
-    "lat": 48.3992844,
-    "lng": 9.3911727,
-    "formatted": "72532 Gomadingen, Germany"
-  },
   "94542|haarbach|germany": {
     "lat": 48.5020853,
     "lng": 13.1486134,
@@ -1589,11 +1584,6 @@
     "lng": 8.3783604,
     "formatted": "5643 Sins, Switzerland"
   },
-  "48159|münster|germany": {
-    "lat": 52.0050893,
-    "lng": 7.593563899999999,
-    "formatted": "48159 Münster-Nord, Germany"
-  },
   "80993|münchen|germany": {
     "lat": 48.1863004,
     "lng": 11.5211002,
@@ -1653,11 +1643,6 @@
     "lat": 50.8281024,
     "lng": 7.4305514,
     "formatted": "53809 Ruppichteroth, Germany"
-  },
-  "88605|messkirch|germany": {
-    "lat": 47.9944211,
-    "lng": 9.1156399,
-    "formatted": "88605 Messkirch, Germany"
   },
   "95326|kulmbach|germany": {
     "lat": 50.1259779,
@@ -1894,11 +1879,6 @@
     "lng": 7.985169,
     "formatted": "77654 Offenburg, Germany"
   },
-  "72138|kirchentellinsfurt|germany": {
-    "lat": 48.5423324,
-    "lng": 9.1382919,
-    "formatted": "72138 Kirchentellinsfurt-Sickenhausen, Germany"
-  },
   "2161|poysbrunn|austria": {
     "lat": 48.7185201,
     "lng": 16.6296,
@@ -1933,11 +1913,6 @@
     "lat": 48.7110852,
     "lng": 11.3251158,
     "formatted": "86706 Weichering, Germany"
-  },
-  "93089|aufhausen|germany": {
-    "lat": 48.8718853,
-    "lng": 12.2815118,
-    "formatted": "93089 Aufhausen, Germany"
   },
   "7318|saalfeld|germany": {
     "lat": 50.63519119999999,
@@ -2043,11 +2018,6 @@
     "lat": 48.4511844,
     "lng": 11.7691599,
     "formatted": "85406 Zolling, Germany"
-  },
-  "76829|landau|germany": {
-    "lat": 49.193521,
-    "lng": 8.0948586,
-    "formatted": "76829 Ranschbach, Germany"
   },
   "82166|gräfelfing|germany": {
     "lat": 48.1227429,
@@ -2389,11 +2359,6 @@
     "lng": 6.9787209,
     "formatted": "50389 Wesseling, Germany"
   },
-  "2182 xh|hillegom|netherland": {
-    "lat": 52.2999681,
-    "lng": 4.580927099999999,
-    "formatted": "2182 XH Hillegom, Netherlands"
-  },
   "45139|essen|germany": {
     "lat": 51.4592319,
     "lng": 7.0381829,
@@ -2453,11 +2418,6 @@
     "lat": 50.6495135,
     "lng": 12.8257791,
     "formatted": "08297 Zwönitz, Germany"
-  },
-  "04463|großpösna|germany": {
-    "lat": 51.237716,
-    "lng": 12.4831199,
-    "formatted": "04463 Großpösna-Störmthal, Germany"
   },
   "49143|bissendorf|germany": {
     "lat": 52.2568353,
@@ -2779,11 +2739,6 @@
     "lng": 7.8255111,
     "formatted": "57629 Atzelgift, Germany"
   },
-  "15741|bestensee|germany": {
-    "lat": 52.2426854,
-    "lng": 13.6336052,
-    "formatted": "15741 Bestensee, Germany"
-  },
   "85391|leonhardsbuch|germany": {
     "lat": 48.4056197,
     "lng": 11.5868461,
@@ -2818,11 +2773,6 @@
     "lat": 47.2255535,
     "lng": 8.6495094,
     "formatted": "8820 Wädenswil, Switzerland"
-  },
-  "54578|kerpen|germany": {
-    "lat": 50.3097384,
-    "lng": 6.7294484,
-    "formatted": "54 Kerpen, Germany"
   },
   "23820|pronstorf|germany": {
     "lat": 53.9423028,
@@ -2868,11 +2818,6 @@
     "lat": 54.2850224,
     "lng": 10.1501975,
     "formatted": "24145 Kiel, Germany"
-  },
-  "4730|waizenkirchen|austria": {
-    "lat": 48.3305787,
-    "lng": 13.8574179,
-    "formatted": "Waizenkirchen, Austria"
   },
   "4656|kirchham bei vorchdorf|austria": {
     "lat": 47.9721308,
@@ -3089,11 +3034,6 @@
     "lng": 10.7382452,
     "formatted": "87645 Schwangau, Germany"
   },
-  "54518|bergweiler|germany": {
-    "lat": 49.9657509,
-    "lng": 6.824233899999999,
-    "formatted": "54 Bergweiler, Germany"
-  },
   "7951xl|staphorst|netherland": {
     "lat": 52.6349495,
     "lng": 6.2224727,
@@ -3203,11 +3143,6 @@
     "lat": 48.2354993,
     "lng": 7.7078395,
     "formatted": "79365 Rheinhausen, Germany"
-  },
-  "5440|golling|austria": {
-    "lat": 47.5974332,
-    "lng": 13.1676579,
-    "formatted": "5440 Golling an der Salzach, Austria"
   },
   "84432|hohenpolding|germany": {
     "lat": 48.3949283,
@@ -3518,11 +3453,6 @@
     "lat": 49.078045,
     "lng": 9.158169299999999,
     "formatted": "74348 Lauffen am Neckar, Germany"
-  },
-  "16341|panketal|germany": {
-    "lat": 52.6420277,
-    "lng": 13.5367607,
-    "formatted": "16341 Panketal, Germany"
   },
   "36367|wartenberg|germany": {
     "lat": 50.61950119999999,
