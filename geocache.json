@@ -509,11 +509,6 @@
     "lng": 7.602615600000001,
     "formatted": "57614 Niederwambach-Lahrbach, Germany"
   },
-  "36393|lammhult|sweden": {
-    "lat": 57.1784903,
-    "lng": 14.508583,
-    "formatted": "363 93 Lammhult, Sweden"
-  },
   "89551|königsbronn|germany": {
     "lat": 48.7285526,
     "lng": 10.1112206,
@@ -2239,11 +2234,6 @@
     "lng": 11.0663436,
     "formatted": "82380 Peißenberg, Germany"
   },
-  "07680|manacor|spain": {
-    "lat": 39.5697165,
-    "lng": 3.2095318,
-    "formatted": "Manacor, Balearic Islands, Spain"
-  },
   "9532|rickenbach|switzerland": {
     "lat": 47.4486424,
     "lng": 9.046232999999999,
@@ -2258,11 +2248,6 @@
     "lat": 47.7147652,
     "lng": 7.662315800000001,
     "formatted": "79400 Kandern, Germany"
-  },
-  "66957|kröppen|germany": {
-    "lat": 49.14986,
-    "lng": 7.5257188,
-    "formatted": "66 Kröppen, Germany"
   },
   "2320|rauchenwarth|austria": {
     "lat": 48.0837223,
@@ -3079,11 +3064,6 @@
     "lng": 7.6797315,
     "formatted": "57610 Gieleroth, Germany"
   },
-  "73235|weilheim|germany": {
-    "lat": 48.61452509999999,
-    "lng": 9.5529025,
-    "formatted": "73235 Weilheim an der Teck, Germany"
-  },
   "86565|gachenbach|germany": {
     "lat": 48.50620300000001,
     "lng": 11.2427037,
@@ -3313,11 +3293,6 @@
     "lat": 50.85912889999999,
     "lng": 7.5981332,
     "formatted": "51545 Waldbröl, Germany"
-  },
-  "56414|meidt|germany": {
-    "lat": 50.4919605,
-    "lng": 7.8953852,
-    "formatted": "56414 Meudt, Germany"
   },
   "85276|pfaffenhofen|germany": {
     "lat": 48.5274509,
