@@ -1474,6 +1474,11 @@
     "lng": 9.9920811,
     "formatted": "29646 Bispingen, Germany"
   },
+  "2182|palterndorf|austria": {
+    "lat": 48.5808948,
+    "lng": 16.8130306,
+    "formatted": "2182, Austria"
+  },
   "86529|schrobenhausen|germany": {
     "lat": 48.5629444,
     "lng": 11.2322974,

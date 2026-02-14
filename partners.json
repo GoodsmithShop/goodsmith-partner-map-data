@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-13T06:19:27+00:00",
+  "generated_at": "2026-02-14T05:39:23+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -9133,6 +9133,36 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/5904229105878",
+      "display_name": "Magda Krema",
+      "zip": "2182",
+      "city": "Palterndorf",
+      "country": "Austria",
+      "lat": 48.5808948,
+      "lng": 16.8130306,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "m.k.hufpflege@gmx.at",
+        "phone": "+436641665334",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/5917001547990",
       "display_name": "Sandra Zeller",
       "zip": "86529",
@@ -13437,8 +13467,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
