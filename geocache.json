@@ -1434,6 +1434,11 @@
     "lng": 7.637348299999998,
     "formatted": "48369 Saerbeck, Germany"
   },
+  "46414|rhede|germany": {
+    "lat": 51.8416015,
+    "lng": 6.699007099999999,
+    "formatted": "46414 Rhede, Germany"
+  },
   "52152|simmerath|germany": {
     "lat": 50.6120728,
     "lng": 6.3194228,
@@ -3643,6 +3648,11 @@
     "lat": 49.2081822,
     "lng": 12.6742256,
     "formatted": "93413 Cham-Janahof, Germany"
+  },
+  "25746|heide|germany": {
+    "lat": 54.19517639999999,
+    "lng": 9.1019015,
+    "formatted": "25746 Heide, Germany"
   },
   "31787|hameln|germany": {
     "lat": 52.1082884,

@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-15T06:13:57+00:00",
+  "generated_at": "2026-02-16T06:48:58+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -8894,6 +8894,35 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/5629815226531",
+      "display_name": "Lina Rademacher",
+      "zip": "46414",
+      "city": "Rhede",
+      "country": "Germany",
+      "lat": 51.8416015,
+      "lng": 6.699007099999999,
+      "ausbildung": "Hufpfleger",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "lina.rademacher@web.de",
+        "phone": "+491702182555",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/5631135318179",
       "display_name": "Jennifer Krausen",
       "zip": "52152",
@@ -16247,8 +16276,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -23339,6 +23368,35 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/11163650785544",
+      "display_name": "Stephan Peters",
+      "zip": "25746",
+      "city": "Heide",
+      "country": "Germany",
+      "lat": 54.19517639999999,
+      "lng": 9.1019015,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "equitec@web.de",
+        "phone": "+491627992803",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
