@@ -37,7 +37,7 @@
   "50259|pulheim|germany": {
     "lat": 50.9930323,
     "lng": 6.786287799999999,
-    "formatted": "50259 Pulheim-Stommeln, Germany"
+    "formatted": "50259 Pulheim, Germany"
   },
   "25361|elskop|germany": {
     "lat": 53.8177595,
@@ -3673,5 +3673,10 @@
     "lat": 47.3018915,
     "lng": 8.007749600000002,
     "formatted": "4813 Uerkheim, Switzerland"
+  },
+  "7552|vulpera|switzerland": {
+    "lat": 46.7874053,
+    "lng": 10.2826041,
+    "formatted": "Vulpera, 7552 Scuol, Switzerland"
   }
 }
