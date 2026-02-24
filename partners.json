@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-23T05:05:25+00:00",
+  "generated_at": "2026-02-24T04:59:10+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -2507,7 +2507,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16869,35 +16869,6 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7826272878856",
-      "display_name": "Oliver Jeschke",
-      "zip": "54552",
-      "city": "Beinhausen",
-      "country": "Germany",
-      "lat": 50.2650995,
-      "lng": 6.8826813,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "kontakt@hufpfleger-oliver.de",
-        "phone": "+491718314921",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {

@@ -1402,7 +1402,7 @@
   "67433|neustadt|germany": {
     "lat": 49.358965,
     "lng": 8.1361817,
-    "formatted": "67433 Neustadt, Germany"
+    "formatted": "67433 Neustadt an der Weinstraße, Germany"
   },
   "85072|eichstätt|germany": {
     "lat": 48.89103050000001,
@@ -2678,11 +2678,6 @@
     "lat": 49.85767810000001,
     "lng": 8.5501985,
     "formatted": "64347 Griesheim-Siedlung Tann, Germany"
-  },
-  "54552|beinhausen|germany": {
-    "lat": 50.2650995,
-    "lng": 6.8826813,
-    "formatted": "Beinhausen, Germany"
   },
   "4372|pabneukirchen|austria": {
     "lat": 48.3623525,
