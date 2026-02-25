@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-24T04:59:10+00:00",
+  "generated_at": "2026-02-25T05:00:07+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -23515,6 +23515,37 @@
           "Telefon",
           "Mail",
           "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/11762900959496",
+      "display_name": "Huftechnik - Jeschke",
+      "zip": "54552",
+      "city": "Beinhausen",
+      "country": "Germany",
+      "lat": 50.2650995,
+      "lng": 6.8826813,
+      "ausbildung": "Huftechniker",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "oliver@huftechnik-jeschke.de",
+        "phone": "+491718314921",
+        "website": null,
+        "preferred": [
+          "Whatsapp",
+          "Telefon",
+          "Mail"
         ]
       },
       "badge": {
