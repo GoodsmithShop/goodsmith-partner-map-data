@@ -3504,6 +3504,11 @@
     "lng": 6.018026,
     "formatted": "47559 Kranenburg-Mehr, Germany"
   },
+  "69168|wiesloch|germany": {
+    "lat": 49.2929847,
+    "lng": 8.6893085,
+    "formatted": "69168 Wiesloch, Germany"
+  },
   "25364|osterhorn|germany": {
     "lat": 53.8675365,
     "lng": 9.701551799999999,
@@ -3540,9 +3545,9 @@
     "formatted": "73349 Wiesensteig, Germany"
   },
   "l-9644|dahl|germany": {
-    "lat": 51.303938,
-    "lng": 7.530827899999999,
-    "formatted": "58091 Hagen-Dahl, Germany"
+    "lat": 49.9350663,
+    "lng": 5.9753928,
+    "formatted": "9644 Dahl Goesdorf, Luxembourg"
   },
   "2840|warth|austria": {
     "lat": 47.6251086,

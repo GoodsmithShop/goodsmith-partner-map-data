@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-02-25T05:00:07+00:00",
+  "generated_at": "2026-02-26T04:57:58+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -11578,8 +11578,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -17757,8 +17757,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -22399,6 +22399,36 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/10323081691400",
+      "display_name": "Dino Franzisky",
+      "zip": "69168",
+      "city": "Wiesloch",
+      "country": "Germany",
+      "lat": 49.2929847,
+      "lng": 8.6893085,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "dinofr@gmx.de",
+        "phone": "+491773682077",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/10369050378504",
       "display_name": "Julia Sebestyen",
       "zip": "25364",
@@ -22643,8 +22673,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 51.303938,
-      "lng": 7.530827899999999,
+      "lat": 49.9350663,
+      "lng": 5.9753928,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
