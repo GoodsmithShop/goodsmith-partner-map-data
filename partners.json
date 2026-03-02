@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-01T05:01:31+00:00",
+  "generated_at": "2026-03-02T04:54:51+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -21060,6 +21060,36 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/9454149140744",
+      "display_name": "Melina Thurau-Mater",
+      "zip": "48740",
+      "city": "Haselünne",
+      "country": "Germany",
+      "lat": 52.6763414,
+      "lng": 7.4809826,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "melinathurau@googlemail.com",
+        "phone": "+491713268158",
+        "website": null,
+        "preferred": [
+          "Whatsapp",
+          "Mail"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/9471753060616",
       "display_name": "Klaus Kranz",
       "zip": "3922",
@@ -21915,8 +21945,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -23367,8 +23397,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
