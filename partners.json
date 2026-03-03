@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-02T04:54:51+00:00",
+  "generated_at": "2026-03-03T04:54:07+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -1710,8 +1710,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -9258,7 +9258,7 @@
       "country": "Germany",
       "lat": 48.0905136,
       "lng": 11.4029843,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -9271,8 +9271,8 @@
         "phone": "+4917662557461",
         "website": null,
         "preferred": [
-          "Mail",
-          "Whatsapp"
+          "Whatsapp",
+          "Telefon"
         ]
       },
       "badge": {
@@ -10982,8 +10982,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -16163,19 +16163,19 @@
     },
     {
       "partner_id": "gid://shopify/Customer/7602962399496",
-      "display_name": "Johanna Duscher Duscher",
+      "display_name": "Johanna Duscher",
       "zip": "93152",
       "city": "Nittendorf",
       "country": "Germany",
       "lat": 49.0248998,
       "lng": 11.9546514,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
       "services": {
         "hufschuh": true,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "johanna.duscher93@yahoo.com",
@@ -17757,8 +17757,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -21263,8 +21263,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -22128,37 +22128,6 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/10178649784584",
-      "display_name": "Michael Braun",
-      "zip": "01744",
-      "city": "Dippoldiswalde",
-      "country": "Germany",
-      "lat": 50.87331469999999,
-      "lng": 13.6365623,
-      "ausbildung": "Sonstiges",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "m.braun64@mail.de",
-        "phone": "+4917620633838",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
       }
     },
     {
