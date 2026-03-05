@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-04T04:47:30+00:00",
+  "generated_at": "2026-03-05T04:52:33+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -1083,6 +1083,37 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/2838676242504",
+      "display_name": "Martin Vortmann",
+      "zip": "49661",
+      "city": "Cloppenburg",
+      "country": "Germany",
+      "lat": 52.8452899,
+      "lng": 8.0472991,
+      "ausbildung": "Hufschmied",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "martin.vortmann@t-online.de",
+        "phone": "+49447186242",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -12905,8 +12936,8 @@
       "zip": "49770",
       "city": "Herzlake",
       "country": "Germany",
-      "lat": 52.682,
-      "lng": 7.602527699999999,
+      "lat": 52.6819914,
+      "lng": 7.602529,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -19515,8 +19546,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {

@@ -179,6 +179,11 @@
     "lng": 9.9298234,
     "formatted": "24631 Langwedel, Germany"
   },
+  "49661|cloppenburg|germany": {
+    "lat": 52.8452899,
+    "lng": 8.0472991,
+    "formatted": "49661 Cloppenburg, Germany"
+  },
   "63599|biebergemünd|germany": {
     "lat": 50.1620049,
     "lng": 9.2974301,
@@ -1232,7 +1237,7 @@
   "6386|osternienburger land|germany": {
     "lat": 51.77197169999999,
     "lng": 12.073529,
-    "formatted": "06386 Meilendorf, Germany"
+    "formatted": "06386 Reupzig, Germany"
   },
   "46499|hamminkeln|germany": {
     "lat": 51.7305339,
@@ -2075,9 +2080,9 @@
     "formatted": "53902 Bad Münstereifel, Germany"
   },
   "49770|herzlake|germany": {
-    "lat": 52.682,
-    "lng": 7.602527699999999,
-    "formatted": "49770 Dohren, Germany"
+    "lat": 52.6819914,
+    "lng": 7.602529,
+    "formatted": "49770 Herzlake, Germany"
   },
   "9721|lansach|austria": {
     "lat": 46.6882281,
