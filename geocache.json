@@ -1927,7 +1927,7 @@
   "7318|saalfeld|germany": {
     "lat": 50.63519119999999,
     "lng": 11.3594746,
-    "formatted": "07318 Wittgendorf, Germany"
+    "formatted": "07318 Saalfeld-Wittgendorf, Germany"
   },
   "84478|waldkraiburg|germany": {
     "lat": 48.2086516,
@@ -2080,9 +2080,9 @@
     "formatted": "53902 Bad Münstereifel, Germany"
   },
   "49770|herzlake|germany": {
-    "lat": 52.6819914,
-    "lng": 7.602529,
-    "formatted": "49770 Herzlake, Germany"
+    "lat": 52.682,
+    "lng": 7.602527699999999,
+    "formatted": "49770 Dohren, Germany"
   },
   "9721|lansach|austria": {
     "lat": 46.6882281,
