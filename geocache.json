@@ -1,9 +1,4 @@
 {
-  "22359|hamburg|germany": {
-    "lat": 53.6476751,
-    "lng": 10.1645331,
-    "formatted": "22359 Hamburg-Wandsbek, Germany"
-  },
   "94315|straubing|germany": {
     "lat": 48.8777333,
     "lng": 12.5801538,
@@ -537,7 +532,7 @@
   "53567|asbach|germany": {
     "lat": 50.6826354,
     "lng": 7.4182818,
-    "formatted": "53567 Buchholz, Germany"
+    "formatted": "53567 Asbach, Germany"
   },
   "2822|bad erlach|austria": {
     "lat": 47.7272183,
@@ -1237,7 +1232,7 @@
   "6386|osternienburger land|germany": {
     "lat": 51.77197169999999,
     "lng": 12.073529,
-    "formatted": "06386 Reupzig, Germany"
+    "formatted": "06386 Aken (Elbe), Germany"
   },
   "46499|hamminkeln|germany": {
     "lat": 51.7305339,
@@ -1747,7 +1742,7 @@
   "24790|schacht-audorf|germany": {
     "lat": 54.3141871,
     "lng": 9.722721199999999,
-    "formatted": "24790 Ostenfeld, Germany"
+    "formatted": "24790 Rade bei Rendsburg, Germany"
   },
   "4712|michaelnbach|austria": {
     "lat": 48.2874767,

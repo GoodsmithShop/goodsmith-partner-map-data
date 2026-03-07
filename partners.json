@@ -1,37 +1,7 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-06T04:49:07+00:00",
+  "generated_at": "2026-03-07T04:27:26+00:00",
   "partners": [
-    {
-      "partner_id": "gid://shopify/Customer/698854572144",
-      "display_name": "Inga Kohler",
-      "zip": "22359",
-      "city": "Hamburg",
-      "country": "Germany",
-      "lat": 53.6476751,
-      "lng": 10.1645331,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "inga.hebe22@gmail.com",
-        "phone": "+4915772702194",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
       "display_name": "Magdalena  Müller",
@@ -1051,8 +1021,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -1561,8 +1531,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -5014,8 +4984,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
