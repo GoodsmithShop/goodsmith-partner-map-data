@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-07T04:27:26+00:00",
+  "generated_at": "2026-03-08T04:49:43+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
@@ -12906,8 +12906,8 @@
       "zip": "49770",
       "city": "Herzlake",
       "country": "Germany",
-      "lat": 52.682,
-      "lng": 7.602527699999999,
+      "lat": 52.6819914,
+      "lng": 7.602529,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -22310,7 +22310,7 @@
     },
     {
       "partner_id": "gid://shopify/Customer/10290117574920",
-      "display_name": "Manuel Böhm",
+      "display_name": "Manuel Böhm (Austrian Cowboy)",
       "zip": "8662",
       "city": "Sankt Barbara im Mürztal",
       "country": "Austria",
@@ -22321,7 +22321,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
