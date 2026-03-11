@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-10T04:48:11+00:00",
+  "generated_at": "2026-03-11T04:49:44+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
@@ -8562,8 +8562,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -16013,11 +16013,11 @@
       "partner_id": "gid://shopify/Customer/7590035489032",
       "display_name": "Martin Boomgaarden",
       "zip": "26789",
-      "city": "Leer",
+      "city": "Hesel",
       "country": "Germany",
       "lat": 53.2551971,
       "lng": 7.451357899999999,
-      "ausbildung": "Huforthopäde",
+      "ausbildung": "Sonstiges",
       "customer_fields": {
         "sperre": false
       },
@@ -19158,8 +19158,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
