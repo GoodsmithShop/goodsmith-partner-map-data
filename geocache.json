@@ -924,11 +924,6 @@
     "lng": 12.1339323,
     "formatted": "95100 Selb, Germany"
   },
-  "37412|herzberg-pöhlde|germany": {
-    "lat": 51.6144782,
-    "lng": 10.3137425,
-    "formatted": "37412 Herzberg am Harz-Pöhlde, Germany"
-  },
   "72525|münsingen-rietheim|germany": {
     "lat": 48.4338998,
     "lng": 9.448907,
@@ -943,11 +938,6 @@
     "lat": 51.0697197,
     "lng": 6.9965788,
     "formatted": "51379 Leverkusen-Opladen, Germany"
-  },
-  "37412|herzberg am harz|germany": {
-    "lat": 51.6201495,
-    "lng": 10.3247943,
-    "formatted": "37412 Hörden am Harz, Germany"
   },
   "3910|zwettl|austria": {
     "lat": 48.6058353,
@@ -3359,11 +3349,6 @@
     "lng": 8.356950399999999,
     "formatted": "65529 Waldems, Germany"
   },
-  "31084|freden ( leine)|germany": {
-    "lat": 51.92989619999999,
-    "lng": 9.8876627,
-    "formatted": "31084 Freden, Germany"
-  },
   "67475|weidenthal|germany": {
     "lat": 49.4218294,
     "lng": 7.9906187,
@@ -3603,6 +3588,11 @@
     "lat": 48.3030592,
     "lng": 11.3554346,
     "formatted": "85247 Schwabhausen, Germany"
+  },
+  "4664|laakirchen|austria": {
+    "lat": 47.9569111,
+    "lng": 13.83531,
+    "formatted": "4664 Laakirchen, Austria"
   },
   "4891|pöndorf|austria": {
     "lat": 47.9965555,

@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-11T04:49:44+00:00",
+  "generated_at": "2026-03-12T04:53:52+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
@@ -5708,36 +5708,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/3079043645512",
-      "display_name": "Sabine Gropengießer",
-      "zip": "37412",
-      "city": "Herzberg-Pöhlde",
-      "country": "Germany",
-      "lat": 51.6144782,
-      "lng": 10.3137425,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "sabine.gropengiesser2@gmail.com",
-        "phone": "+491705377550",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/3079043809352",
       "display_name": "Michael Maruhn",
       "zip": "72525",
@@ -5826,36 +5796,6 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/3079044071496",
-      "display_name": "Annika Katholnig",
-      "zip": "37412",
-      "city": "Herzberg am Harz",
-      "country": "Germany",
-      "lat": 51.6201495,
-      "lng": 10.3247943,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "info@equipodo.com",
-        "phone": "+491702361080",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
       }
     },
     {
@@ -6847,8 +6787,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -17196,8 +17136,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -21358,35 +21298,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/9554440716552",
-      "display_name": "Jasmin Stuhlemmer",
-      "zip": "31084",
-      "city": "Freden ( Leine)",
-      "country": "Germany",
-      "lat": 51.92989619999999,
-      "lng": 9.8876627,
-      "ausbildung": "Huftechniker",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "zipfelzwergefreden@web.de",
-        "phone": "+4915150452700",
-        "website": null,
-        "preferred": [
-          "Telefon"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/9560697602312",
       "display_name": "Hufservice Sandra Frey",
       "zip": "67475",
@@ -23071,6 +22982,35 @@
         "website": null,
         "preferred": [
           "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/10808121917704",
+      "display_name": "Ralph Aufischer",
+      "zip": "4664",
+      "city": "Laakirchen",
+      "country": "Austria",
+      "lat": 47.9569111,
+      "lng": 13.83531,
+      "ausbildung": "Hufschmied",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": false
+      },
+      "contact": {
+        "email": "r.aufischer@icloud.com",
+        "phone": "+436645276834",
+        "website": null,
+        "preferred": [
+          "Telefon"
         ]
       },
       "badge": {
