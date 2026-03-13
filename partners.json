@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-12T04:53:52+00:00",
+  "generated_at": "2026-03-13T04:50:51+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
@@ -6005,8 +6005,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -11045,6 +11045,35 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/6557568303368",
+      "display_name": "Maria Sandbichler",
+      "zip": "83112",
+      "city": "Frasdorf",
+      "country": "Germany",
+      "lat": 47.8030529,
+      "lng": 12.2851318,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "mariasandbichler@gmail.com",
+        "phone": "+4915170169963",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
