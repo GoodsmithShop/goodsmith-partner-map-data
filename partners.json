@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-15T05:12:34+00:00",
+  "generated_at": "2026-03-16T05:23:51+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
@@ -9217,8 +9217,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -9918,7 +9918,7 @@
       "country": "Germany",
       "lat": 47.8393784,
       "lng": 12.0494534,
-      "ausbildung": "Huftechniker",
+      "ausbildung": "Hufschmied",
       "customer_fields": {
         "sperre": false
       },
@@ -15192,8 +15192,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -18595,6 +18595,36 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/8119592452360",
+      "display_name": "Barbara Lörcher",
+      "zip": "71665",
+      "city": "Vaihingen a.d. Enz",
+      "country": "Germany",
+      "lat": 48.9456327,
+      "lng": 8.9670738,
+      "ausbildung": "Huforthopäde",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "info@hufegut.de",
+        "phone": "+4915782864873",
+        "website": null,
+        "preferred": [
+          "Whatsapp",
+          "Mail"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/8123366048008",
       "display_name": "Stefanie Schwartze",
       "zip": "74535",
@@ -18650,8 +18680,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
