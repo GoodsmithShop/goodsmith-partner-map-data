@@ -2070,9 +2070,9 @@
     "formatted": "53902 Bad Münstereifel, Germany"
   },
   "49770|herzlake|germany": {
-    "lat": 52.6819914,
-    "lng": 7.602529,
-    "formatted": "49770 Herzlake, Germany"
+    "lat": 52.682,
+    "lng": 7.602527699999999,
+    "formatted": "49770 Dohren, Germany"
   },
   "9721|lansach|austria": {
     "lat": 46.6882281,
@@ -3540,9 +3540,9 @@
     "formatted": "73349 Wiesensteig, Germany"
   },
   "l-9644|dahl|germany": {
-    "lat": 51.6968443,
-    "lng": 8.8499007,
-    "formatted": "33100 Paderborn-Dahl, Germany"
+    "lat": 49.9350663,
+    "lng": 5.9753928,
+    "formatted": "9644 Dahl Goesdorf, Luxembourg"
   },
   "2840|warth|austria": {
     "lat": 47.6251086,

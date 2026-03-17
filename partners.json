@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-16T05:23:51+00:00",
+  "generated_at": "2026-03-17T04:58:54+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/2759023329352",
@@ -12875,8 +12875,8 @@
       "zip": "49770",
       "city": "Herzlake",
       "country": "Germany",
-      "lat": 52.6819914,
-      "lng": 7.602529,
+      "lat": 52.682,
+      "lng": 7.602527699999999,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -22643,8 +22643,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 51.6968443,
-      "lng": 8.8499007,
+      "lat": 49.9350663,
+      "lng": 5.9753928,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
@@ -22898,8 +22898,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
