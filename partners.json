@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-19T05:00:35+00:00",
+  "generated_at": "2026-03-20T04:53:19+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -23990,8 +23990,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 51.6968443,
-      "lng": 8.8499007,
+      "lat": 49.9350663,
+      "lng": 5.9753928,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
