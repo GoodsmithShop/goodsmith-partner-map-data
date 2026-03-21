@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-20T04:53:19+00:00",
+  "generated_at": "2026-03-21T04:43:47+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -17157,7 +17157,7 @@
       "country": "Germany",
       "lat": 51.3158524,
       "lng": 7.098790699999999,
-      "ausbildung": "Huforthopäde",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -23990,8 +23990,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 49.9350663,
-      "lng": 5.9753928,
+      "lat": 51.6968443,
+      "lng": 8.8499007,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
