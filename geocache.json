@@ -3888,5 +3888,10 @@
     "lat": 50.2650995,
     "lng": 6.8826813,
     "formatted": "Beinhausen, Germany"
+  },
+  "6500|vojens|denmark": {
+    "lat": 55.24931180000001,
+    "lng": 9.2846809,
+    "formatted": "6500 Haderslev Municipality, Denmark"
   }
 }

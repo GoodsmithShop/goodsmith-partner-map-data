@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-21T04:43:47+00:00",
+  "generated_at": "2026-03-22T04:59:46+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -17975,8 +17975,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -24927,6 +24927,36 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/11923189399816",
+      "display_name": "Mario Mandry",
+      "zip": "6500",
+      "city": "Vojens",
+      "country": "Denmark",
+      "lat": 55.24931180000001,
+      "lng": 9.2846809,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "marioriedel1@t-online.de",
+        "phone": "+4917620095251",
+        "website": null,
+        "preferred": [
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
       }
     }
   ]
