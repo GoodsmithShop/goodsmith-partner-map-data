@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-23T05:10:48+00:00",
+  "generated_at": "2026-03-24T05:00:38+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -11869,7 +11869,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
@@ -24627,6 +24627,36 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/10957941473544",
+      "display_name": "Judith Velasco Repiso",
+      "zip": "47359",
+      "city": "Valladolid",
+      "country": "Spain",
+      "lat": 41.6496051,
+      "lng": -4.3256918,
+      "ausbildung": "Huftechniker",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "hoofsavage@gmail.com",
+        "phone": "+34654280008",
+        "website": null,
+        "preferred": [
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
