@@ -3898,5 +3898,10 @@
     "lat": 55.24931180000001,
     "lng": 9.2846809,
     "formatted": "6500 Haderslev Municipality, Denmark"
+  },
+  "69483|wald-michelbach|germany": {
+    "lat": 49.5782854,
+    "lng": 8.8433733,
+    "formatted": "69483 Wald-Michelbach, Germany"
   }
 }
