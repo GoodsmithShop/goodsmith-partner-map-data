@@ -3908,5 +3908,10 @@
     "lat": 49.5782854,
     "lng": 8.8433733,
     "formatted": "69483 Wald-Michelbach, Germany"
+  },
+  "18055|rostock|germany": {
+    "lat": 54.0838949,
+    "lng": 12.1666436,
+    "formatted": "18055 Rostock, Germany"
   }
 }

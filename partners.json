@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-29T05:17:54+00:00",
+  "generated_at": "2026-03-30T05:32:19+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -15082,8 +15082,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -25075,6 +25075,35 @@
       "badge": {
         "label": "Neu dabei",
         "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/11964157427976",
+      "display_name": "Katharina Poetsch",
+      "zip": "18055",
+      "city": "Rostock",
+      "country": "Germany",
+      "lat": 54.0838949,
+      "lng": 12.1666436,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "k.poetsch@icloud.com",
+        "phone": "+4917679791961",
+        "website": null,
+        "preferred": [
+          "Mail"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     }
   ]
