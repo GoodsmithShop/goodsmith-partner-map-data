@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-03-30T05:32:19+00:00",
+  "generated_at": "2026-03-31T05:16:17+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -1841,8 +1841,8 @@
       "zip": "6481",
       "city": "St. Leonhard i. P.",
       "country": "Austria",
-      "lat": 47.0670854,
-      "lng": 10.8450691,
+      "lat": 47.0663339,
+      "lng": 10.8472905,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -2221,8 +2221,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -19645,6 +19645,35 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/8088977604872",
+      "display_name": "Katrin Haberbosch",
+      "zip": "72160",
+      "city": "Horb",
+      "country": "Germany",
+      "lat": 48.4544359,
+      "lng": 8.6481543,
+      "ausbildung": "Hufpfleger",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "katrin.haberbosch@web.de",
+        "phone": "+4917642611553",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/8100503224584",
       "display_name": "Andreas  Barabaß",
       "zip": "86647",
@@ -25070,6 +25099,35 @@
         "website": null,
         "preferred": [
           "Mail"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/11959284400392",
+      "display_name": "Céline  Franz",
+      "zip": "3264",
+      "city": "Diessbach b.B.",
+      "country": "Switzerland",
+      "lat": 47.10021589999999,
+      "lng": 7.358168999999999,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "info@hufpur.ch",
+        "phone": "+41787299807",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
         ]
       },
       "badge": {

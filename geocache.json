@@ -305,9 +305,9 @@
     "formatted": "18519 Sundhagen-Miltzow, Germany"
   },
   "6481|st. leonhard i. p.|austria": {
-    "lat": 47.0670854,
-    "lng": 10.8450691,
-    "formatted": "St. Leonhard im Pitztal, 6481, Austria"
+    "lat": 47.0663339,
+    "lng": 10.8472905,
+    "formatted": "6481 Sankt Leonhard im Pitztal, Austria"
   },
   "15377|märkische höhe|germany": {
     "lat": 52.6207928,
@@ -3099,6 +3099,11 @@
     "lng": 3.4599051,
     "formatted": "7760 Celles, Belgium"
   },
+  "72160|horb|germany": {
+    "lat": 48.4544359,
+    "lng": 8.6481543,
+    "formatted": "72160 Horb am Neckar, Germany"
+  },
   "86647|buttenwiesen|germany": {
     "lat": 48.60252759999999,
     "lng": 10.7190853,
@@ -3908,6 +3913,11 @@
     "lat": 49.5782854,
     "lng": 8.8433733,
     "formatted": "69483 Wald-Michelbach, Germany"
+  },
+  "3264|diessbach b.b.|switzerland": {
+    "lat": 47.10021589999999,
+    "lng": 7.358168999999999,
+    "formatted": "3264 Diessbach bei Büren, Switzerland"
   },
   "18055|rostock|germany": {
     "lat": 54.0838949,
