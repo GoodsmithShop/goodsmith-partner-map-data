@@ -3889,15 +3889,15 @@
     "lng": 8.007749600000002,
     "formatted": "4813 Uerkheim, Switzerland"
   },
-  "85229|markt indersdorf|germany": {
-    "lat": 48.3675998,
-    "lng": 11.3654839,
-    "formatted": "85229 Markt Indersdorf, Germany"
-  },
   "7552|vulpera|switzerland": {
     "lat": 46.7874053,
     "lng": 10.2826041,
     "formatted": "Vulpera, 7552 Scuol, Switzerland"
+  },
+  "32361|preußisch oldendorf|germany": {
+    "lat": 52.3000863,
+    "lng": 8.5103036,
+    "formatted": "32361 Preußisch Oldendorf, Germany"
   },
   "54552|beinhausen|germany": {
     "lat": 50.2650995,
@@ -3923,5 +3923,10 @@
     "lat": 54.0838949,
     "lng": 12.1666436,
     "formatted": "18055 Rostock, Germany"
+  },
+  "8755|st. peter ob judenburg|austria": {
+    "lat": 47.1874653,
+    "lng": 14.5907798,
+    "formatted": "8755 Sankt Peter ob Judenburg, Austria"
   }
 }
