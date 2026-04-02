@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-01T05:31:26+00:00",
+  "generated_at": "2026-04-02T05:09:37+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -8351,8 +8351,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -23504,6 +23504,36 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/10180438524168",
+      "display_name": "Joana Huth",
+      "zip": "47877",
+      "city": "Willich",
+      "country": "Germany",
+      "lat": 51.2654601,
+      "lng": 6.544265900000001,
+      "ausbildung": "Huforthopädin",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": false
+      },
+      "contact": {
+        "email": "joanahuth@gmx.de",
+        "phone": "+4915209440337",
+        "website": null,
+        "preferred": [
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
