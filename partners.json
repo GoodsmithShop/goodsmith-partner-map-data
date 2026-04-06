@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-05T05:19:22+00:00",
+  "generated_at": "2026-04-06T05:32:02+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -18546,36 +18546,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/7917300154632",
-      "display_name": "Annabel Hoffmann",
-      "zip": "24558",
-      "city": "Wakendorf II",
-      "country": "Germany",
-      "lat": 53.7827782,
-      "lng": 10.0824142,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "altesager@gmail.com",
-        "phone": "+4915901141993",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/7921262166280",
       "display_name": "Jana Gehrke",
       "zip": "23820",
@@ -21276,8 +21246,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
