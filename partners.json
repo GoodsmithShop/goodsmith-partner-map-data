@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-06T05:32:02+00:00",
+  "generated_at": "2026-04-07T05:16:51+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -17471,8 +17471,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -21225,7 +21225,7 @@
       "partner_id": "gid://shopify/Customer/8544001458440",
       "display_name": "Meike Hülle",
       "zip": "58802",
-      "city": "Balve",
+      "city": "Werdohl",
       "country": "Germany",
       "lat": 51.3249474,
       "lng": 7.861748100000001,
@@ -23543,7 +23543,7 @@
       "country": "Germany",
       "lat": 52.4400025,
       "lng": 10.9107095,
-      "ausbildung": "Hufbearbeiter",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
@@ -23552,7 +23552,7 @@
         "klebebeschlag": true
       },
       "contact": {
-        "email": "gb_hufbearbeitung@gmx.de",
+        "email": "gb_hufbschlag@gmx.de",
         "phone": "+491784904216",
         "website": null,
         "preferred": [
