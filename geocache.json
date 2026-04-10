@@ -1634,11 +1634,6 @@
     "lng": 7.1738079,
     "formatted": "45770 Marl, Germany"
   },
-  "41199|mönchengladbach|germany": {
-    "lat": 51.1329676,
-    "lng": 6.4449432,
-    "formatted": "41199 Moenchengladbach South, Germany"
-  },
   "8526|oberneunforn|switzerland": {
     "lat": 47.6064964,
     "lng": 8.767832799999999,
@@ -1948,6 +1943,11 @@
     "lat": 53.3176971,
     "lng": 9.8694845,
     "formatted": "21244 Buchholz in der Nordheide, Germany"
+  },
+  "26676|barßel|germany": {
+    "lat": 53.1465696,
+    "lng": 7.793562700000001,
+    "formatted": "26676 Barßel-Harkebrügge, Germany"
   },
   "21714|hammah|germany": {
     "lat": 53.6180987,

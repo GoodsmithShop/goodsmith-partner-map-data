@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-09T05:17:04+00:00",
+  "generated_at": "2026-04-10T05:32:34+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -10121,36 +10121,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/5962695475414",
-      "display_name": "Tanja Bosniak",
-      "zip": "41199",
-      "city": "Mönchengladbach",
-      "country": "Germany",
-      "lat": 51.1329676,
-      "lng": 6.4449432,
-      "ausbildung": "Huforthopäde",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "info@hufologisch.de",
-        "phone": "+491633240681",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/5967521153238",
       "display_name": "Carmen Bisang",
       "zip": "8526",
@@ -12157,6 +12127,35 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/6575360377096",
+      "display_name": "Tjaark Philipp Meyer",
+      "zip": "26676",
+      "city": "Barßel",
+      "country": "Germany",
+      "lat": 53.1465696,
+      "lng": 7.793562700000001,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "hufpflege@bewegungsstark-online.de",
+        "phone": "+4915253933946",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/6575553675528",
       "display_name": "Lara Puls",
       "zip": "21714",
@@ -12782,8 +12781,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -13435,8 +13434,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -13927,7 +13926,7 @@
       "country": "Germany",
       "lat": 52.682,
       "lng": 7.602527699999999,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Wähle eine Option..",
       "customer_fields": {
         "sperre": false
       },
