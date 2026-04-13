@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-12T05:30:49+00:00",
+  "generated_at": "2026-04-13T05:49:19+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -3904,8 +3904,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -18953,8 +18953,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -22461,8 +22461,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -24018,8 +24018,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 49.9350663,
-      "lng": 5.9753928,
+      "lat": 51.303938,
+      "lng": 7.530827899999999,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
@@ -24471,6 +24471,35 @@
       "contact": {
         "email": "gudrun.geister@gmx.at",
         "phone": "+436505237057",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/10817867776264",
+      "display_name": "Marius Stegmaier",
+      "zip": "74423",
+      "city": "Obersontheim",
+      "country": "Germany",
+      "lat": 49.05543429999999,
+      "lng": 9.861036,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "mariusstegmaier1@gmail.com",
+        "phone": "+4915754707787",
         "website": null,
         "preferred": [
           "Whatsapp"

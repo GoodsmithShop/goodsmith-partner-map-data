@@ -3745,9 +3745,9 @@
     "formatted": "73349 Wiesensteig, Germany"
   },
   "l-9644|dahl|germany": {
-    "lat": 49.9350663,
-    "lng": 5.9753928,
-    "formatted": "9644 Dahl Goesdorf, Luxembourg"
+    "lat": 51.303938,
+    "lng": 7.530827899999999,
+    "formatted": "58091 Hagen-Dahl, Germany"
   },
   "2840|warth|austria": {
     "lat": 47.6251086,
@@ -3813,6 +3813,11 @@
     "lat": 47.9965555,
     "lng": 13.3693242,
     "formatted": "4891 Pöndorf, Austria"
+  },
+  "74423|obersontheim|germany": {
+    "lat": 49.05543429999999,
+    "lng": 9.861036,
+    "formatted": "74423 Obersontheim, Germany"
   },
   "85461|bockhorn|germany": {
     "lat": 48.3143436,
