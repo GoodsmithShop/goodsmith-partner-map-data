@@ -3928,5 +3928,10 @@
     "lat": 47.1874653,
     "lng": 14.5907798,
     "formatted": "8755 Sankt Peter ob Judenburg, Austria"
+  },
+  "4271|st. oswald bei freistadt|austria": {
+    "lat": 48.5014607,
+    "lng": 14.5930805,
+    "formatted": "Sankt Oswald bei Freistadt, Austria"
   }
 }

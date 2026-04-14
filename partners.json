@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-13T05:49:19+00:00",
+  "generated_at": "2026-04-14T05:31:19+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -8201,8 +8201,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -25187,6 +25187,36 @@
         "preferred": [
           "Whatsapp",
           "Mail"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12042433724680",
+      "display_name": "Susanne Baumgartner",
+      "zip": "4271",
+      "city": "St. Oswald bei Freistadt",
+      "country": "Austria",
+      "lat": 48.5014607,
+      "lng": 14.5930805,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "info@pferdesprache.at",
+        "phone": "+436605778998",
+        "website": null,
+        "preferred": [
+          "Mail",
+          "Whatsapp"
         ]
       },
       "badge": {
