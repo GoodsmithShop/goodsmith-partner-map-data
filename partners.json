@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-14T05:31:19+00:00",
+  "generated_at": "2026-04-15T05:31:52+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -9612,35 +9612,6 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/5629815226531",
-      "display_name": "Lina Rademacher",
-      "zip": "46414",
-      "city": "Rhede",
-      "country": "Germany",
-      "lat": 51.8416015,
-      "lng": 6.699007099999999,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "lina.rademacher@web.de",
-        "phone": "+491702182555",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
