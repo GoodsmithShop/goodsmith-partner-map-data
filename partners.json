@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-20T05:48:40+00:00",
+  "generated_at": "2026-04-21T05:34:21+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -10309,7 +10309,7 @@
       "country": "Germany",
       "lat": 51.3214185,
       "lng": 12.9791264,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
@@ -20711,8 +20711,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -25014,8 +25014,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -25220,8 +25220,8 @@
         ]
       },
       "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     }
   ]
