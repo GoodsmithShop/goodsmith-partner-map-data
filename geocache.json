@@ -305,9 +305,9 @@
     "formatted": "18519 Sundhagen-Miltzow, Germany"
   },
   "6481|st. leonhard i. p.|austria": {
-    "lat": 47.0670854,
-    "lng": 10.8450691,
-    "formatted": "St. Leonhard im Pitztal, 6481, Austria"
+    "lat": 47.0663339,
+    "lng": 10.8472905,
+    "formatted": "6481 Sankt Leonhard im Pitztal, Austria"
   },
   "15377|märkische höhe|germany": {
     "lat": 52.6207928,
@@ -1549,6 +1549,11 @@
     "lng": 7.637348299999998,
     "formatted": "48369 Saerbeck, Germany"
   },
+  "46414|rhede|germany": {
+    "lat": 51.8416015,
+    "lng": 6.699007099999999,
+    "formatted": "46414 Rhede, Germany"
+  },
   "52152|simmerath|germany": {
     "lat": 50.6120728,
     "lng": 6.3194228,
@@ -1628,6 +1633,11 @@
     "lat": 51.6862883,
     "lng": 7.1738079,
     "formatted": "45770 Marl, Germany"
+  },
+  "41199|mönchengladbach|germany": {
+    "lat": 51.1329676,
+    "lng": 6.4449432,
+    "formatted": "41199 Moenchengladbach South, Germany"
   },
   "8526|oberneunforn|switzerland": {
     "lat": 47.6064964,
@@ -2934,6 +2944,11 @@
     "lng": 8.6495094,
     "formatted": "8820 Wädenswil, Switzerland"
   },
+  "24558|wakendorf ii|germany": {
+    "lat": 53.7827782,
+    "lng": 10.0824142,
+    "formatted": "24558 Wakendorf II, Germany"
+  },
   "23820|pronstorf|germany": {
     "lat": 53.9423028,
     "lng": 10.4988977,
@@ -3703,6 +3718,11 @@
     "lat": 49.2929847,
     "lng": 8.6893085,
     "formatted": "69168 Wiesloch, Germany"
+  },
+  "6871cw|renkum|netherland": {
+    "lat": 51.9743182,
+    "lng": 5.7268129,
+    "formatted": "6871 CW Renkum, Netherlands"
   },
   "25364|osterhorn|germany": {
     "lat": 53.8675365,
