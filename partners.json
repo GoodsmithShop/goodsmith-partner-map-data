@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-22T05:33:46+00:00",
+  "generated_at": "2026-04-23T05:37:52+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -4954,8 +4954,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -5805,8 +5805,8 @@
       "zip": "6330",
       "city": "Padborg",
       "country": "Denmark",
-      "lat": 54.8453289,
-      "lng": 9.331412,
+      "lat": 54.833123,
+      "lng": 9.356859,
       "ausbildung": "Huforthopäde",
       "customer_fields": {
         "sperre": false
@@ -9950,7 +9950,7 @@
       "country": "Germany",
       "lat": 48.5629444,
       "lng": 11.2322974,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Wähle eine Option..",
       "customer_fields": {
         "sperre": false
       },
@@ -18250,7 +18250,7 @@
     },
     {
       "partner_id": "gid://shopify/Customer/7849868755208",
-      "display_name": "N. Zirkelbach",
+      "display_name": "Nina Zirkelbach",
       "zip": "76661",
       "city": "Philippsburg",
       "country": "Germany",
@@ -18261,7 +18261,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25142,8 +25142,8 @@
       "zip": "6500",
       "city": "Vojens",
       "country": "Denmark",
-      "lat": 55.24931180000001,
-      "lng": 9.2846809,
+      "lat": 55.249489,
+      "lng": 9.3019649,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
@@ -25172,8 +25172,8 @@
       "zip": "6500",
       "city": "Vojens",
       "country": "Denmark",
-      "lat": 55.24931180000001,
-      "lng": 9.2846809,
+      "lat": 55.249489,
+      "lng": 9.3019649,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
