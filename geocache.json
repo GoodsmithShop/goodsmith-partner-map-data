@@ -937,7 +937,7 @@
   "6330|padborg|denmark": {
     "lat": 54.833123,
     "lng": 9.356859,
-    "formatted": "Padborg, Denmark"
+    "formatted": "6330 Padborg, Denmark"
   },
   "76571|gaggenau|germany": {
     "lat": 48.8035508,
@@ -2395,8 +2395,8 @@
     "formatted": "38108 Braunschweig, Germany"
   },
   "6510|gram|denmark": {
-    "lat": 55.27613909999999,
-    "lng": 9.0073293,
+    "lat": 55.2898343,
+    "lng": 9.049475,
     "formatted": "6510 Gram, Denmark"
   },
   "82380|peißenberg|germany": {
@@ -3922,7 +3922,7 @@
   "6500|vojens|denmark": {
     "lat": 55.249489,
     "lng": 9.3019649,
-    "formatted": "Vojens, Denmark"
+    "formatted": "6500 Vojens, Denmark"
   },
   "69483|wald-michelbach|germany": {
     "lat": 49.5782854,

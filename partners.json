@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-23T05:37:52+00:00",
+  "generated_at": "2026-04-24T05:42:43+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -58,8 +58,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -15091,8 +15091,8 @@
       "zip": "6510",
       "city": "Gram",
       "country": "Denmark",
-      "lat": 55.27613909999999,
-      "lng": 9.0073293,
+      "lat": 55.2898343,
+      "lng": 9.049475,
       "ausbildung": "Huforthopäde",
       "customer_fields": {
         "sperre": false
@@ -18273,8 +18273,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
