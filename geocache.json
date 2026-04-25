@@ -3948,5 +3948,10 @@
     "lat": 48.5014607,
     "lng": 14.5930805,
     "formatted": "Sankt Oswald bei Freistadt, Austria"
+  },
+  "84416|taufkirchen|germany": {
+    "lat": 48.3466069,
+    "lng": 12.1552688,
+    "formatted": "84416 Taufkirchen, Germany"
   }
 }
