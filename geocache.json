@@ -1549,11 +1549,6 @@
     "lng": 7.637348299999998,
     "formatted": "48369 Saerbeck, Germany"
   },
-  "46414|rhede|germany": {
-    "lat": 51.8416015,
-    "lng": 6.699007099999999,
-    "formatted": "46414 Rhede, Germany"
-  },
   "52152|simmerath|germany": {
     "lat": 50.6120728,
     "lng": 6.3194228,
@@ -3949,6 +3944,11 @@
     "lng": 14.5907798,
     "formatted": "8755 Sankt Peter ob Judenburg, Austria"
   },
+  "73492|rainau|germany": {
+    "lat": 48.9277112,
+    "lng": 10.1568649,
+    "formatted": "73492 Rainau, Germany"
+  },
   "4271|st. oswald bei freistadt|austria": {
     "lat": 48.5014607,
     "lng": 14.5930805,
@@ -3958,5 +3958,10 @@
     "lat": 48.3466069,
     "lng": 12.1552688,
     "formatted": "84416 Taufkirchen, Germany"
+  },
+  "37139|güntersen|germany": {
+    "lat": 51.538293,
+    "lng": 9.740357399999999,
+    "formatted": "37139 Adelebsen-Güntersen, Germany"
   }
 }
