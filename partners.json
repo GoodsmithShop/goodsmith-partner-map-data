@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-28T06:13:22+00:00",
+  "generated_at": "2026-04-29T06:00:29+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -5379,36 +5379,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/3079040794696",
-      "display_name": "Ursula Sündermann",
-      "zip": "7400",
-      "city": "Oberschützen",
-      "country": "Austria",
-      "lat": 47.2943645,
-      "lng": 16.1971424,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "uschi@working-hooves.at",
-        "phone": "+436645448354",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/3079040827464",
       "display_name": "Ferdinand Dommes",
       "zip": "51515",
@@ -8351,8 +8321,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -11823,8 +11793,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -15094,7 +15064,7 @@
       "country": "Germany",
       "lat": 47.8143459,
       "lng": 11.0663436,
-      "ausbildung": "Huforthopäde",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -17147,35 +17117,6 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7598311702792",
-      "display_name": "Katja Matzick",
-      "zip": "42553",
-      "city": "Velbert",
-      "country": "Germany",
-      "lat": 51.3158524,
-      "lng": 7.098790699999999,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "katja.matzick@web.de",
-        "phone": "+4917640551986",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -19615,6 +19556,37 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/8088238522632",
+      "display_name": "Rosi Bierl",
+      "zip": "85540",
+      "city": "München Haar",
+      "country": "Germany",
+      "lat": 48.1138009,
+      "lng": 11.7301734,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "info@barfuss-pferde.de",
+        "phone": "+4915256183634",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/8088588124424",
       "display_name": "Sonja Rose",
       "zip": "57489",
@@ -19729,8 +19701,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {

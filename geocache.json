@@ -864,11 +864,6 @@
     "lng": 13.0691741,
     "formatted": "94166 Stubenberg, Germany"
   },
-  "7400|oberschützen|austria": {
-    "lat": 47.2943645,
-    "lng": 16.1971424,
-    "formatted": "7400, Austria"
-  },
   "51515|kürten|germany": {
     "lat": 51.0489965,
     "lng": 7.249921199999999,
@@ -2714,11 +2709,6 @@
     "lng": 7.794635700000001,
     "formatted": "26689 Apen, Germany"
   },
-  "42553|velbert|germany": {
-    "lat": 51.3158524,
-    "lng": 7.098790699999999,
-    "formatted": "42553 Velbert, Germany"
-  },
   "58456|witten|germany": {
     "lat": 51.399497,
     "lng": 7.2812919,
@@ -3098,6 +3088,11 @@
     "lat": 50.700835,
     "lng": 3.4599051,
     "formatted": "7760 Celles, Belgium"
+  },
+  "85540|münchen haar|germany": {
+    "lat": 48.1138009,
+    "lng": 11.7301734,
+    "formatted": "85540 Haar, Germany"
   },
   "72160|horb|germany": {
     "lat": 48.4544359,
