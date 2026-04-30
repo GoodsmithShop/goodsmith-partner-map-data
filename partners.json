@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-29T06:00:29+00:00",
+  "generated_at": "2026-04-30T06:11:33+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -1841,8 +1841,8 @@
       "zip": "6481",
       "city": "St. Leonhard i. P.",
       "country": "Austria",
-      "lat": 47.0663339,
-      "lng": 10.8472905,
+      "lat": 47.0670854,
+      "lng": 10.8450691,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -3363,8 +3363,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -5434,8 +5434,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -22313,8 +22313,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
