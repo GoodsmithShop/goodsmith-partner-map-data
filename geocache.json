@@ -1544,6 +1544,11 @@
     "lng": 7.637348299999998,
     "formatted": "48369 Saerbeck, Germany"
   },
+  "46414|rhede|germany": {
+    "lat": 51.8416015,
+    "lng": 6.699007099999999,
+    "formatted": "46414 Rhede, Germany"
+  },
   "52152|simmerath|germany": {
     "lat": 50.6120728,
     "lng": 6.3194228,
@@ -2708,6 +2713,11 @@
     "lat": 53.2006565,
     "lng": 7.794635700000001,
     "formatted": "26689 Apen, Germany"
+  },
+  "42553|velbert|germany": {
+    "lat": 51.3158524,
+    "lng": 7.098790699999999,
+    "formatted": "42553 Velbert, Germany"
   },
   "58456|witten|germany": {
     "lat": 51.399497,

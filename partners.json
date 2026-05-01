@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-04-30T06:11:33+00:00",
+  "generated_at": "2026-05-01T06:21:42+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -6485,8 +6485,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -9582,6 +9582,35 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/5629815226531",
+      "display_name": "Lina Rademacher",
+      "zip": "46414",
+      "city": "Rhede",
+      "country": "Germany",
+      "lat": 51.8416015,
+      "lng": 6.699007099999999,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "lina.rademacher@web.de",
+        "phone": "+491702182555",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -17120,6 +17149,35 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/7598311702792",
+      "display_name": "Katja Matzick",
+      "zip": "42553",
+      "city": "Velbert",
+      "country": "Germany",
+      "lat": 51.3158524,
+      "lng": 7.098790699999999,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "katja.matzick@web.de",
+        "phone": "+4917640551986",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/7598320353544",
       "display_name": "Astrid Paschke",
       "zip": "58456",
@@ -17206,8 +17264,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -19568,7 +19626,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
@@ -19970,8 +20028,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
