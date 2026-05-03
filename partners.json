@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-02T05:43:53+00:00",
+  "generated_at": "2026-05-03T06:11:07+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -21105,7 +21105,7 @@
     },
     {
       "partner_id": "gid://shopify/Customer/8443094335752",
-      "display_name": "Epona Felicitas Gehrmann",
+      "display_name": "Epona Gehrmann",
       "zip": "53940",
       "city": "Hellenthal",
       "country": "Germany",
@@ -21570,8 +21570,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -24216,8 +24216,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
