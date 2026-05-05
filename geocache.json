@@ -1599,11 +1599,6 @@
     "lng": 16.8130306,
     "formatted": "2182, Austria"
   },
-  "86529|schrobenhausen|germany": {
-    "lat": 48.5629444,
-    "lng": 11.2322974,
-    "formatted": "86529 Schrobenhausen, Germany"
-  },
   "79423|heitersheim|germany": {
     "lat": 47.8732462,
     "lng": 7.657537299999999,
@@ -3948,11 +3943,6 @@
     "lat": 54.0838949,
     "lng": 12.1666436,
     "formatted": "18055 Rostock, Germany"
-  },
-  "8755|st. peter ob judenburg|austria": {
-    "lat": 47.1874653,
-    "lng": 14.5907798,
-    "formatted": "8755 Sankt Peter ob Judenburg, Austria"
   },
   "73492|rainau|germany": {
     "lat": 48.9277112,

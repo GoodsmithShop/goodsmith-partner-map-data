@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-04T06:19:51+00:00",
+  "generated_at": "2026-05-05T05:49:34+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -8512,12 +8512,12 @@
       "country": "Germany",
       "lat": 53.7562918,
       "lng": 9.3056321,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8526,7 +8526,7 @@
         "website": null,
         "preferred": [
           "Telefon",
-          "Mail"
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -9910,36 +9910,6 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/5917001547990",
-      "display_name": "Sandra Zeller",
-      "zip": "86529",
-      "city": "Schrobenhausen",
-      "country": "Germany",
-      "lat": 48.5629444,
-      "lng": 11.2322974,
-      "ausbildung": "Wähle eine Option..",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "hufpflege.zeller@gmail.com",
-        "phone": "+491605205759",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -13884,8 +13854,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -17412,8 +17382,8 @@
         ]
       },
       "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -25334,36 +25304,6 @@
         "phone": "+4917679791961",
         "website": null,
         "preferred": [
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/11974959530248",
-      "display_name": "Hanna Sorgmann",
-      "zip": "8755",
-      "city": "St. Peter ob Judenburg",
-      "country": "Austria",
-      "lat": 47.1874653,
-      "lng": 14.5907798,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "hanna.sorgmann@gmx.at",
-        "phone": "+4368181354001",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
           "Mail"
         ]
       },
