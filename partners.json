@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-05T05:49:34+00:00",
+  "generated_at": "2026-05-06T06:11:21+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -1841,8 +1841,8 @@
       "zip": "6481",
       "city": "St. Leonhard i. P.",
       "country": "Austria",
-      "lat": 47.0670854,
-      "lng": 10.8450691,
+      "lat": 47.0663339,
+      "lng": 10.8472905,
       "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
@@ -15503,7 +15503,7 @@
     },
     {
       "partner_id": "gid://shopify/Customer/7143815217416",
-      "display_name": "Carolin Gibcke",
+      "display_name": "Carolin Gibcke Hufbeschlag",
       "zip": "35510",
       "city": "Butzbach",
       "country": "Germany",
@@ -15518,16 +15518,17 @@
         "klebebeschlag": true
       },
       "contact": {
-        "email": "caro.gibcke@gmx.de",
+        "email": "info@cg-hufbeschlag.de",
         "phone": "+4916092665717",
         "website": null,
         "preferred": [
-          "Whatsapp"
+          "Whatsapp",
+          "Mail"
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -20891,8 +20892,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -22792,6 +22793,35 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/9633388134664",
+      "display_name": "Gunter Stamm",
+      "zip": "68526",
+      "city": "Ladenburg",
+      "country": "Germany",
+      "lat": 49.482519,
+      "lng": 8.6181249,
+      "ausbildung": "Hufschmied",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "angela.lotz@yahoo.de",
+        "phone": "+491629706065",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/9652646641928",
       "display_name": "Markus Kühter",
       "zip": "26219",
@@ -23578,7 +23608,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
