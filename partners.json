@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-06T06:11:21+00:00",
+  "generated_at": "2026-05-07T06:17:12+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -6851,36 +6851,6 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/3138039742536",
-      "display_name": "Melanie van der Kolk",
-      "zip": "93167",
-      "city": "Falkenstein",
-      "country": "Germany",
-      "lat": 49.0972167,
-      "lng": 12.4864772,
-      "ausbildung": "Huforthopäde",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "falkezupferd@aol.com",
-        "phone": "+4915123054199",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
       }
     },
     {
@@ -14093,8 +14063,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -21381,7 +21351,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22354,7 +22324,7 @@
       "country": "Germany",
       "lat": 53.1522347,
       "lng": 8.230832699999999,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Wähle eine Option..",
       "customer_fields": {
         "sperre": false
       },
@@ -22817,8 +22787,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -23603,7 +23573,7 @@
       "country": "Germany",
       "lat": 52.4400025,
       "lng": 10.9107095,
-      "ausbildung": "Huftechniker",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
