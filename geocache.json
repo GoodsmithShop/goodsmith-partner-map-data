@@ -2704,11 +2704,6 @@
     "lng": 7.794635700000001,
     "formatted": "26689 Apen, Germany"
   },
-  "42553|velbert|germany": {
-    "lat": 51.3158524,
-    "lng": 7.098790699999999,
-    "formatted": "42553 Velbert, Germany"
-  },
   "58456|witten|germany": {
     "lat": 51.399497,
     "lng": 7.2812919,
@@ -2848,6 +2843,11 @@
     "lat": 48.3623525,
     "lng": 14.911869,
     "formatted": "4372 Sankt Georgen am Walde, Austria"
+  },
+  "64760|beerfelden|germany": {
+    "lat": 49.5675816,
+    "lng": 8.973754399999999,
+    "formatted": "Beerfelden, 64760 Oberzent, Germany"
   },
   "78628|rottweil|germany": {
     "lat": 48.1634481,
@@ -3909,6 +3909,11 @@
     "lng": 10.2826041,
     "formatted": "Vulpera, 7552 Scuol, Switzerland"
   },
+  "23879|mölln|germany": {
+    "lat": 53.6116343,
+    "lng": 10.6990778,
+    "formatted": "23879 Mölln, Germany"
+  },
   "32361|preußisch oldendorf|germany": {
     "lat": 52.3000863,
     "lng": 8.5103036,
@@ -3963,5 +3968,10 @@
     "lat": 51.538293,
     "lng": 9.740357399999999,
     "formatted": "37139 Adelebsen-Güntersen, Germany"
+  },
+  "24539|neumünster|germany": {
+    "lat": 54.0462788,
+    "lng": 9.9930497,
+    "formatted": "24539 Neumünster-Padenstedt-Kamp, Germany"
   }
 }

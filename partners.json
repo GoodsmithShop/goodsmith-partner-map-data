@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-08T05:35:49+00:00",
+  "generated_at": "2026-05-09T05:54:39+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -538,8 +538,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -5434,8 +5434,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -10838,8 +10838,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -17090,35 +17090,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/7598311702792",
-      "display_name": "Katja Matzick",
-      "zip": "42553",
-      "city": "Velbert",
-      "country": "Germany",
-      "lat": 51.3158524,
-      "lng": 7.098790699999999,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "katja.matzick@web.de",
-        "phone": "+4917640551986",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/7598320353544",
       "display_name": "Astrid Paschke",
       "zip": "58456",
@@ -17977,6 +17948,35 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/7835496251656",
+      "display_name": "Ronny Jeske",
+      "zip": "64760",
+      "city": "Beerfelden",
+      "country": "Germany",
+      "lat": 49.5675816,
+      "lng": 8.973754399999999,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "diefarbfabrik@googlemail.com",
+        "phone": "+4917681245937",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -25076,6 +25076,36 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/11683764764936",
+      "display_name": "Pia Plötzer",
+      "zip": "23879",
+      "city": "Mölln",
+      "country": "Germany",
+      "lat": 53.6116343,
+      "lng": 10.6990778,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "piaploetzer@web.de",
+        "phone": "+491738443142",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/11716525752584",
       "display_name": "Ina Kranich",
       "zip": "32361",
@@ -25423,6 +25453,36 @@
         "phone": "+4915172670866",
         "website": null,
         "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12198868746504",
+      "display_name": "Katharina  Pracht",
+      "zip": "24539",
+      "city": "Neumünster",
+      "country": "Germany",
+      "lat": 54.0462788,
+      "lng": 9.9930497,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "katharinapracht8895@web.de",
+        "phone": "+491701844135",
+        "website": null,
+        "preferred": [
+          "Mail",
           "Whatsapp"
         ]
       },
