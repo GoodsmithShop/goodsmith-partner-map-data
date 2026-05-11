@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-10T06:18:08+00:00",
+  "generated_at": "2026-05-11T06:45:25+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -208,8 +208,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -15038,7 +15038,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16455,8 +16455,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -23573,7 +23573,7 @@
       "country": "Germany",
       "lat": 52.4400025,
       "lng": 10.9107095,
-      "ausbildung": "Huftechniker",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -25163,8 +25163,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -25457,8 +25457,8 @@
         ]
       },
       "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
