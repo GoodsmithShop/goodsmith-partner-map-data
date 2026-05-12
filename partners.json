@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-11T06:45:25+00:00",
+  "generated_at": "2026-05-12T06:21:02+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -5614,8 +5614,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -10533,37 +10533,6 @@
         "website": null,
         "preferred": [
           "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/6059654807766",
-      "display_name": "Christel Friederici",
-      "zip": "82229",
-      "city": "Seefeld",
-      "country": "Germany",
-      "lat": 48.03836099999999,
-      "lng": 11.2330897,
-      "ausbildung": "Sonstiges",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "christel.friederici@gmail.com",
-        "phone": "+4915161461237",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Whatsapp",
-          "Mail"
         ]
       },
       "badge": {
@@ -16034,8 +16003,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -17709,8 +17678,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -23573,7 +23542,7 @@
       "country": "Germany",
       "lat": 52.4400025,
       "lng": 10.9107095,
-      "ausbildung": "Hufbearbeiter",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
