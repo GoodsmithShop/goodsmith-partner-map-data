@@ -124,11 +124,6 @@
     "lng": 9.2807956,
     "formatted": "71686 Remseck, Germany"
   },
-  "37441|bad sachsa|germany": {
-    "lat": 51.5797202,
-    "lng": 10.538447,
-    "formatted": "37441 Bad Sachsa-Kolonie Tettenborn, Germany"
-  },
   "63666|nidda|germany": {
     "lat": 50.4127451,
     "lng": 9.007875799999999,
@@ -3968,5 +3963,10 @@
     "lat": 54.0462788,
     "lng": 9.9930497,
     "formatted": "24539 Neumünster-Padenstedt-Kamp, Germany"
+  },
+  "75181|pforzheim|germany": {
+    "lat": 48.8565558,
+    "lng": 8.7404424,
+    "formatted": "75181 Pforzheim, Germany"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-12T06:21:02+00:00",
+  "generated_at": "2026-05-13T06:31:58+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -178,8 +178,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -752,36 +752,6 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/2814241407048",
-      "display_name": "Sascha Bicke",
-      "zip": "37441",
-      "city": "Bad Sachsa",
-      "country": "Germany",
-      "lat": 51.5797202,
-      "lng": 10.538447,
-      "ausbildung": "Huftechniker",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "sascha.bicke@gmail.com",
-        "phone": "+4915114928830",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -13793,8 +13763,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -16767,7 +16737,7 @@
       "country": "Germany",
       "lat": 48.4544359,
       "lng": 8.6481543,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -16784,8 +16754,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -25453,6 +25423,66 @@
         "preferred": [
           "Mail",
           "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12201515811080",
+      "display_name": "Stephanie Stoppock",
+      "zip": "26489",
+      "city": "Ochtersum",
+      "country": "Germany",
+      "lat": 53.61040999999999,
+      "lng": 7.528588099999999,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "s.stoppock88@mail.de",
+        "phone": "+4917634201966",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12213366096136",
+      "display_name": "Vivian Seeger",
+      "zip": "75181",
+      "city": "Pforzheim",
+      "country": "Germany",
+      "lat": 48.8565558,
+      "lng": 8.7404424,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "huforthopaedie.vise@gmail.com",
+        "phone": "+4915755789395",
+        "website": null,
+        "preferred": [
+          "Mail",
+          "Whatsapp",
+          "Telefon"
         ]
       },
       "badge": {
