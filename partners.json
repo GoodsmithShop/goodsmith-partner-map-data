@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-14T06:30:38+00:00",
+  "generated_at": "2026-05-15T06:39:45+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -9996,8 +9996,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -13104,8 +13104,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -17975,8 +17975,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -19087,7 +19087,7 @@
       "country": "Germany",
       "lat": 53.62337710000001,
       "lng": 9.2696949,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -19100,7 +19100,8 @@
         "phone": "+491794959175",
         "website": null,
         "preferred": [
-          "Mail"
+          "Mail",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -22518,8 +22519,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -25486,8 +25487,8 @@
         ]
       },
       "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     }
   ]
