@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-15T06:39:45+00:00",
+  "generated_at": "2026-05-16T06:00:47+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -8232,8 +8232,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -9967,8 +9967,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -19741,12 +19741,12 @@
       "country": "Germany",
       "lat": 48.9456327,
       "lng": 8.9670738,
-      "ausbildung": "Huforthopäde",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19755,7 +19755,8 @@
         "website": null,
         "preferred": [
           "Whatsapp",
-          "Mail"
+          "Mail",
+          "Telefon"
         ]
       },
       "badge": {
@@ -24244,8 +24245,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -25393,6 +25394,36 @@
         "phone": "+4915172670866",
         "website": null,
         "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12192244662536",
+      "display_name": "Lukas Nolte",
+      "zip": "31638",
+      "city": "Stöckse",
+      "country": "Germany",
+      "lat": 52.63885029999999,
+      "lng": 9.337281299999999,
+      "ausbildung": "Huftechniker",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "nolte-lukas@gmx.de",
+        "phone": "+491736963793",
+        "website": null,
+        "preferred": [
+          "Telefon",
           "Whatsapp"
         ]
       },
