@@ -1614,11 +1614,6 @@
     "lng": 7.1738079,
     "formatted": "45770 Marl, Germany"
   },
-  "41199|mönchengladbach|germany": {
-    "lat": 51.1329676,
-    "lng": 6.4449432,
-    "formatted": "41199 Moenchengladbach South, Germany"
-  },
   "8526|oberneunforn|switzerland": {
     "lat": 47.6064964,
     "lng": 8.767832799999999,
@@ -2194,7 +2189,7 @@
     "lng": 7.9427537,
     "formatted": "56379 Steinsberg, Germany"
   },
-  "6122cj|buchten|netherland": {
+  "6122cj|buchten|netherlands": {
     "lat": 51.0440007,
     "lng": 5.8066982,
     "formatted": "6122 CJ Buchten, Netherlands"
@@ -3474,6 +3469,11 @@
     "lng": 9.6416187,
     "formatted": "88250 Weingarten, Germany"
   },
+  "63636|brachttal|germany": {
+    "lat": 50.3023081,
+    "lng": 9.297065199999999,
+    "formatted": "63636 Brachttal, Germany"
+  },
   "51545|waldbröl|germany": {
     "lat": 50.85912889999999,
     "lng": 7.5981332,
@@ -3973,5 +3973,10 @@
     "lat": 48.8565558,
     "lng": 8.7404424,
     "formatted": "75181 Pforzheim, Germany"
+  },
+  "27639|wurster nordseeküste|germany": {
+    "lat": 53.7543426,
+    "lng": 8.6037524,
+    "formatted": "27639 Wurster Nordseeküste, Germany"
   }
 }

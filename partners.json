@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-17T06:28:52+00:00",
+  "generated_at": "2026-05-18T07:02:58+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -10001,36 +10001,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/5962695475414",
-      "display_name": "Tanja Bosniak",
-      "zip": "41199",
-      "city": "Mönchengladbach",
-      "country": "Germany",
-      "lat": 51.1329676,
-      "lng": 6.4449432,
-      "ausbildung": "Huforthopäde",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "info@hufologisch.de",
-        "phone": "+491633240681",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/5967521153238",
       "display_name": "Carmen Bisang",
       "zip": "8526",
@@ -13710,10 +13680,10 @@
       "display_name": "Richard Vader",
       "zip": "6122CJ",
       "city": "Buchten",
-      "country": "Netherland",
+      "country": "Netherlands",
       "lat": 51.0440007,
       "lng": 5.8066982,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -18005,8 +17975,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -22109,6 +22079,37 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/9387327914248",
+      "display_name": "Juliana Kolass",
+      "zip": "63636",
+      "city": "Brachttal",
+      "country": "Germany",
+      "lat": 50.3023081,
+      "lng": 9.297065199999999,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "jana.kolass@outlook.de",
+        "phone": "+491799337185",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/9428702003464",
       "display_name": "Andre Bellingen",
       "zip": "51545",
@@ -25520,6 +25521,35 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12245427224840",
+      "display_name": "Katrin Rosenhagen (Huforthopäde)",
+      "zip": "27639",
+      "city": "Wurster Nordseeküste",
+      "country": "Germany",
+      "lat": 53.7543426,
+      "lng": 8.6037524,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "k.rosenhagen@gmx.de",
+        "phone": "+491724177807",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Neu dabei",
+        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
       }
     }
   ]
