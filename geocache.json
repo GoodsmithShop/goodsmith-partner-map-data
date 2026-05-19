@@ -1094,6 +1094,11 @@
     "lng": 9.3778475,
     "formatted": "88515 Langenenslingen, Germany"
   },
+  "93167|falkenstein|germany": {
+    "lat": 49.0972167,
+    "lng": 12.4864772,
+    "formatted": "93167 Falkenstein, Germany"
+  },
   "79771|klettgau-bühl|germany": {
     "lat": 47.616536,
     "lng": 8.465213,
@@ -1589,6 +1594,11 @@
     "lng": 16.8130306,
     "formatted": "2182, Austria"
   },
+  "86529|schrobenhausen|germany": {
+    "lat": 48.5629444,
+    "lng": 11.2322974,
+    "formatted": "86529 Schrobenhausen, Germany"
+  },
   "79423|heitersheim|germany": {
     "lat": 47.8732462,
     "lng": 7.657537299999999,
@@ -1613,6 +1623,11 @@
     "lat": 51.6862883,
     "lng": 7.1738079,
     "formatted": "45770 Marl, Germany"
+  },
+  "41199|mönchengladbach|germany": {
+    "lat": 51.1329676,
+    "lng": 6.4449432,
+    "formatted": "41199 Moenchengladbach South, Germany"
   },
   "8526|oberneunforn|switzerland": {
     "lat": 47.6064964,
@@ -1678,6 +1693,11 @@
     "lat": 48.8612691,
     "lng": 9.4685245,
     "formatted": "73663 Berglen, Germany"
+  },
+  "82229|seefeld|germany": {
+    "lat": 48.03836099999999,
+    "lng": 11.2330897,
+    "formatted": "82229 Seefeld, Germany"
   },
   "9468|sax|switzerland": {
     "lat": 47.2271607,
@@ -1758,6 +1778,11 @@
     "lat": 50.8281024,
     "lng": 7.4305514,
     "formatted": "53809 Ruppichteroth, Germany"
+  },
+  "88605|messkirch|germany": {
+    "lat": 47.9944211,
+    "lng": 9.1156399,
+    "formatted": "88605 Messkirch, Germany"
   },
   "95326|kulmbach|germany": {
     "lat": 50.1259779,
@@ -2044,6 +2069,11 @@
     "lng": 11.3251158,
     "formatted": "86706 Weichering, Germany"
   },
+  "93089|aufhausen|germany": {
+    "lat": 48.8718853,
+    "lng": 12.2815118,
+    "formatted": "93089 Aufhausen, Germany"
+  },
   "7318|saalfeld|germany": {
     "lat": 50.63519119999999,
     "lng": 11.3594746,
@@ -2153,6 +2183,11 @@
     "lat": 48.4511844,
     "lng": 11.7691599,
     "formatted": "85406 Zolling, Germany"
+  },
+  "76833|siebeldingen|germany": {
+    "lat": 49.2372083,
+    "lng": 8.0905998,
+    "formatted": "76833 Siebeldingen, Germany"
   },
   "82166|gräfelfing|germany": {
     "lat": 48.1227429,
@@ -2374,6 +2409,11 @@
     "lng": 11.0663436,
     "formatted": "82380 Peißenberg, Germany"
   },
+  "07680|manacor|spain": {
+    "lat": 39.5697165,
+    "lng": 3.2095318,
+    "formatted": "Manacor, Balearic Islands, Spain"
+  },
   "9532|rickenbach|switzerland": {
     "lat": 47.4486424,
     "lng": 9.046232999999999,
@@ -2388,6 +2428,11 @@
     "lat": 47.7147652,
     "lng": 7.662315800000001,
     "formatted": "79400 Kandern, Germany"
+  },
+  "66957|kröppen|germany": {
+    "lat": 49.14986,
+    "lng": 7.5257188,
+    "formatted": "66 Kröppen, Germany"
   },
   "2320|rauchenwarth|austria": {
     "lat": 48.0837223,
@@ -2484,10 +2529,10 @@
     "lng": 6.9787209,
     "formatted": "50389 Wesseling, Germany"
   },
-  "45139|essen|germany": {
-    "lat": 51.4592319,
-    "lng": 7.0381829,
-    "formatted": "45139 Essen-Stadtbezirke I, Germany"
+  "2182 xh|hillegom|netherland": {
+    "lat": 52.2999681,
+    "lng": 4.580927099999999,
+    "formatted": "2182 XH Hillegom, Netherlands"
   },
   "74673|mulfingen|germany": {
     "lat": 49.3464288,
@@ -2543,6 +2588,11 @@
     "lat": 50.6495135,
     "lng": 12.8257791,
     "formatted": "08297 Zwönitz, Germany"
+  },
+  "04463|großpösna|germany": {
+    "lat": 51.237716,
+    "lng": 12.4831199,
+    "formatted": "04463 Großpösna-Störmthal, Germany"
   },
   "49143|bissendorf|germany": {
     "lat": 52.2568353,
@@ -2688,6 +2738,11 @@
     "lat": 53.2006565,
     "lng": 7.794635700000001,
     "formatted": "26689 Apen, Germany"
+  },
+  "42553|velbert|germany": {
+    "lat": 51.3158524,
+    "lng": 7.098790699999999,
+    "formatted": "42553 Velbert, Germany"
   },
   "58456|witten|germany": {
     "lat": 51.399497,
@@ -2879,10 +2934,20 @@
     "lng": 7.8255111,
     "formatted": "57629 Atzelgift, Germany"
   },
+  "15741|bestensee|germany": {
+    "lat": 52.2426854,
+    "lng": 13.6336052,
+    "formatted": "15741 Bestensee, Germany"
+  },
   "85391|leonhardsbuch|germany": {
     "lat": 48.4056197,
     "lng": 11.5868461,
     "formatted": "85391 Allershausen-Leonhardsbuch, Germany"
+  },
+  "63546|hammersbach|germany": {
+    "lat": 50.2357823,
+    "lng": 8.9975746,
+    "formatted": "63546 Hammersbach, Germany"
   },
   "64678|lindenfels|germany": {
     "lat": 49.6831164,
@@ -2913,6 +2978,11 @@
     "lat": 47.2255535,
     "lng": 8.6495094,
     "formatted": "8820 Wädenswil, Switzerland"
+  },
+  "54578|kerpen|germany": {
+    "lat": 50.3097384,
+    "lng": 6.7294484,
+    "formatted": "54 Kerpen, Germany"
   },
   "24558|wakendorf ii|germany": {
     "lat": 53.7827782,
@@ -2963,6 +3033,11 @@
     "lat": 54.2850224,
     "lng": 10.1501975,
     "formatted": "24145 Kiel, Germany"
+  },
+  "4730|waizenkirchen|austria": {
+    "lat": 48.3305787,
+    "lng": 13.8574179,
+    "formatted": "Waizenkirchen, Austria"
   },
   "4656|kirchham bei vorchdorf|austria": {
     "lat": 47.9721308,
@@ -3199,6 +3274,11 @@
     "lng": 10.7382452,
     "formatted": "87645 Schwangau, Germany"
   },
+  "54518|bergweiler|germany": {
+    "lat": 49.9657509,
+    "lng": 6.824233899999999,
+    "formatted": "54 Bergweiler, Germany"
+  },
   "7951xl|staphorst|netherland": {
     "lat": 52.6349495,
     "lng": 6.2224727,
@@ -3243,6 +3323,11 @@
     "lat": 50.6690165,
     "lng": 7.6797315,
     "formatted": "57610 Gieleroth, Germany"
+  },
+  "73235|weilheim|germany": {
+    "lat": 48.61452509999999,
+    "lng": 9.5529025,
+    "formatted": "73235 Weilheim an der Teck, Germany"
   },
   "86565|gachenbach|germany": {
     "lat": 48.50620300000001,
@@ -3309,6 +3394,11 @@
     "lng": 7.7078395,
     "formatted": "79365 Rheinhausen, Germany"
   },
+  "5440|golling|austria": {
+    "lat": 47.5974332,
+    "lng": 13.1676579,
+    "formatted": "5440 Golling an der Salzach, Austria"
+  },
   "84432|hohenpolding|germany": {
     "lat": 48.3949283,
     "lng": 12.1292755,
@@ -3373,6 +3463,11 @@
     "lat": 48.0985109,
     "lng": 16.2814619,
     "formatted": "2344 Maria Enzersdorf, Austria"
+  },
+  "95359|kasendorf|germany": {
+    "lat": 50.0371009,
+    "lng": 11.353082,
+    "formatted": "95359 Kasendorf, Germany"
   },
   "66919|saalstadt|germany": {
     "lat": 49.3230503,
@@ -3454,6 +3549,11 @@
     "lng": 10.1257958,
     "formatted": "87480 Weitnau, Germany"
   },
+  "48691|vreden|germany": {
+    "lat": 52.0361066,
+    "lng": 6.820565299999999,
+    "formatted": "48691 Vreden-Doemern, Germany"
+  },
   "21756|osten|germany": {
     "lat": 53.7182099,
     "lng": 9.2326378,
@@ -3478,6 +3578,11 @@
     "lat": 50.85912889999999,
     "lng": 7.5981332,
     "formatted": "51545 Waldbröl, Germany"
+  },
+  "56414|meidt|germany": {
+    "lat": 50.4919605,
+    "lng": 7.8953852,
+    "formatted": "56414 Meudt, Germany"
   },
   "85276|pfaffenhofen|germany": {
     "lat": 48.5274509,
@@ -3628,6 +3733,11 @@
     "lat": 49.078045,
     "lng": 9.158169299999999,
     "formatted": "74348 Lauffen am Neckar, Germany"
+  },
+  "16341|panketal|germany": {
+    "lat": 52.6420277,
+    "lng": 13.5367607,
+    "formatted": "16341 Panketal, Germany"
   },
   "36367|wartenberg|germany": {
     "lat": 50.61950119999999,
@@ -3829,6 +3939,11 @@
     "lng": 11.9871237,
     "formatted": "85461 Bockhorn, Germany"
   },
+  "71111|waldenbuch|germany": {
+    "lat": 48.6408189,
+    "lng": 9.138027,
+    "formatted": "71111 Waldenbuch, Germany"
+  },
   "89428|syrgenstein|germany": {
     "lat": 48.65705620000001,
     "lng": 10.2876948,
@@ -3864,6 +3979,11 @@
     "lng": 11.5497532,
     "formatted": "80809 Munich-Milbertshofen-Am Hart, Germany"
   },
+  "2872|mönichkirchen|austria": {
+    "lat": 47.511512,
+    "lng": 16.043147,
+    "formatted": "Mönichkirchen, Austria"
+  },
   "93413|cham|germany": {
     "lat": 49.2081822,
     "lng": 12.6742256,
@@ -3894,6 +4014,11 @@
     "lng": 8.007749600000002,
     "formatted": "4813 Uerkheim, Switzerland"
   },
+  "85229|markt indersdorf|germany": {
+    "lat": 48.3675998,
+    "lng": 11.3654839,
+    "formatted": "85229 Markt Indersdorf, Germany"
+  },
   "7552|vulpera|switzerland": {
     "lat": 46.7874053,
     "lng": 10.2826041,
@@ -3914,6 +4039,11 @@
     "lng": 6.8826813,
     "formatted": "Beinhausen, Germany"
   },
+  "83334|inzell|germany": {
+    "lat": 47.7740484,
+    "lng": 12.7829992,
+    "formatted": "83334 Inzell, Germany"
+  },
   "96486|lautertal|germany": {
     "lat": 50.3431161,
     "lng": 10.9687005,
@@ -3929,6 +4059,11 @@
     "lng": 8.8433733,
     "formatted": "69483 Wald-Michelbach, Germany"
   },
+  "9313|st.georgen a längsee|austria": {
+    "lat": 46.7896453,
+    "lng": 14.4254427,
+    "formatted": "Längsee, 9313, Austria"
+  },
   "3264|diessbach b.b.|switzerland": {
     "lat": 47.10021589999999,
     "lng": 7.358168999999999,
@@ -3939,6 +4074,11 @@
     "lng": 12.1666436,
     "formatted": "18055 Rostock, Germany"
   },
+  "8755|st. peter ob judenburg|austria": {
+    "lat": 47.1874653,
+    "lng": 14.5907798,
+    "formatted": "8755 Sankt Peter ob Judenburg, Austria"
+  },
   "73492|rainau|germany": {
     "lat": 48.9277112,
     "lng": 10.1568649,
@@ -3948,6 +4088,11 @@
     "lat": 48.5014607,
     "lng": 14.5930805,
     "formatted": "Sankt Oswald bei Freistadt, Austria"
+  },
+  "09243|niederfrohna|germany": {
+    "lat": 50.8835205,
+    "lng": 12.7378334,
+    "formatted": "09243 Niederfrohna, Germany"
   },
   "84416|taufkirchen|germany": {
     "lat": 48.3466069,
