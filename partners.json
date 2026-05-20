@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-19T06:54:41+00:00",
+  "generated_at": "2026-05-20T06:54:54+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -19261,36 +19261,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/7957945975048",
-      "display_name": "Stefanie Gerhart",
-      "zip": "4730",
-      "city": "Waizenkirchen",
-      "country": "Austria",
-      "lat": 48.3305787,
-      "lng": 13.8574179,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "gerhart.stefanie@gmail.com",
-        "phone": "+4367761349128",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/7961611534600",
       "display_name": "Cornelia Füreder",
       "zip": "4656",
@@ -24796,8 +24766,8 @@
       "zip": "L-9644",
       "city": "Dahl",
       "country": "Germany",
-      "lat": 51.303938,
-      "lng": 7.530827899999999,
+      "lat": 51.6968443,
+      "lng": 8.8499007,
       "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
@@ -25958,7 +25928,7 @@
         "klebebeschlag": true
       },
       "contact": {
-        "email": "musikinak@web.de",
+        "email": "hufpflege-in-balance@web.de",
         "phone": "+4915121553314",
         "website": null,
         "preferred": [
@@ -26564,6 +26534,64 @@
       "badge": {
         "label": "Neu dabei",
         "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12257071333640",
+      "display_name": "Yana Maßer",
+      "zip": "5660",
+      "city": "Taxenbach",
+      "country": "Austria",
+      "lat": 47.2916578,
+      "lng": 12.9636136,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "info@xn--2hnde-4hufe-m8a.info",
+        "phone": "+436767051479",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/12258469445896",
+      "display_name": "Lucia Bauer",
+      "zip": "93191",
+      "city": "RETTENBACH",
+      "country": "Germany",
+      "lat": 49.0692843,
+      "lng": 12.4557741,
+      "ausbildung": "Huftechniker",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": false
+      },
+      "contact": {
+        "email": "kingfritz77@web.de",
+        "phone": "+491629329370",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     }
   ]

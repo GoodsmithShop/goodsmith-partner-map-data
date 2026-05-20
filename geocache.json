@@ -3034,11 +3034,6 @@
     "lng": 10.1501975,
     "formatted": "24145 Kiel, Germany"
   },
-  "4730|waizenkirchen|austria": {
-    "lat": 48.3305787,
-    "lng": 13.8574179,
-    "formatted": "Waizenkirchen, Austria"
-  },
   "4656|kirchham bei vorchdorf|austria": {
     "lat": 47.9721308,
     "lng": 13.8984792,
@@ -3148,6 +3143,11 @@
     "lat": 50.700835,
     "lng": 3.4599051,
     "formatted": "7760 Celles, Belgium"
+  },
+  "4730|waizenkirchen|austria": {
+    "lat": 48.3305787,
+    "lng": 13.8574179,
+    "formatted": "Waizenkirchen, Austria"
   },
   "85540|münchen haar|germany": {
     "lat": 48.1138009,
@@ -3855,9 +3855,9 @@
     "formatted": "73349 Wiesensteig, Germany"
   },
   "l-9644|dahl|germany": {
-    "lat": 51.303938,
-    "lng": 7.530827899999999,
-    "formatted": "58091 Hagen-Dahl, Germany"
+    "lat": 51.6968443,
+    "lng": 8.8499007,
+    "formatted": "33100 Paderborn-Dahl, Germany"
   },
   "2840|warth|austria": {
     "lat": 47.6251086,
@@ -4123,5 +4123,15 @@
     "lat": 53.7543426,
     "lng": 8.6037524,
     "formatted": "27639 Wurster Nordseeküste, Germany"
+  },
+  "5660|taxenbach|austria": {
+    "lat": 47.2916578,
+    "lng": 12.9636136,
+    "formatted": "5660 Taxenbach, Austria"
+  },
+  "93191|rettenbach|germany": {
+    "lat": 49.0692843,
+    "lng": 12.4557741,
+    "formatted": "93191 Rettenbach, Germany"
   }
 }
