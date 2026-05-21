@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-20T06:54:54+00:00",
+  "generated_at": "2026-05-21T06:59:11+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -701,7 +701,7 @@
       "country": "Germany",
       "lat": 53.581361,
       "lng": 8.5915275,
-      "ausbildung": "Huforthopäde",
+      "ausbildung": "Wähle eine Option..",
       "customer_fields": {
         "sperre": false
       },
@@ -710,12 +710,10 @@
         "klebebeschlag": true
       },
       "contact": {
-        "email": "tjeda.freese@t-online.de",
+        "email": "tjeda.freese@gmail.com",
         "phone": "+4917647084883",
         "website": null,
         "preferred": [
-          "Telefon",
-          "Mail",
           "Whatsapp"
         ]
       },
@@ -23879,7 +23877,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -26579,7 +26577,7 @@
       },
       "services": {
         "hufschuh": true,
-        "klebebeschlag": false
+        "klebebeschlag": true
       },
       "contact": {
         "email": "kingfritz77@web.de",
