@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-21T06:59:11+00:00",
+  "generated_at": "2026-05-22T06:56:20+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -15,7 +15,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -45,7 +45,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -106,7 +106,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -135,7 +135,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -225,7 +225,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -255,7 +255,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -285,7 +285,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -315,7 +315,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -345,7 +345,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -375,7 +375,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -435,7 +435,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -465,7 +465,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -555,7 +555,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -616,7 +616,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -646,7 +646,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -735,7 +735,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -765,7 +765,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -795,7 +795,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -826,7 +826,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -856,7 +856,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -886,7 +886,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -916,7 +916,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -976,7 +976,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1036,7 +1036,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1096,7 +1096,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1126,7 +1126,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1156,7 +1156,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1186,7 +1186,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1216,7 +1216,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1246,7 +1246,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1276,7 +1276,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1337,7 +1337,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1397,7 +1397,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1427,7 +1427,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1457,7 +1457,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1487,7 +1487,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1517,7 +1517,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1547,7 +1547,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1577,7 +1577,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1607,7 +1607,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1667,7 +1667,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1697,7 +1697,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1756,7 +1756,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1786,7 +1786,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1816,7 +1816,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1846,7 +1846,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1876,7 +1876,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1936,7 +1936,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -1966,7 +1966,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2026,7 +2026,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2056,7 +2056,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2116,7 +2116,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2146,7 +2146,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2176,7 +2176,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2236,7 +2236,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2266,7 +2266,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2296,7 +2296,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2326,7 +2326,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2356,7 +2356,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2416,7 +2416,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2446,7 +2446,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2476,7 +2476,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2536,7 +2536,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2566,7 +2566,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2596,7 +2596,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2626,7 +2626,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2656,7 +2656,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2686,7 +2686,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2716,7 +2716,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2807,7 +2807,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2837,7 +2837,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2867,7 +2867,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2897,7 +2897,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2927,7 +2927,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2957,7 +2957,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -2988,7 +2988,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3018,7 +3018,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3077,7 +3077,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3108,7 +3108,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3138,7 +3138,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3198,7 +3198,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3228,7 +3228,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3258,7 +3258,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3288,7 +3288,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3318,7 +3318,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3348,7 +3348,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3378,7 +3378,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3408,7 +3408,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3438,7 +3438,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3468,7 +3468,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3498,7 +3498,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3528,7 +3528,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3558,7 +3558,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3588,7 +3588,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3618,7 +3618,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3648,7 +3648,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3678,7 +3678,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3708,7 +3708,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3768,7 +3768,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3799,7 +3799,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3829,7 +3829,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3859,7 +3859,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3889,7 +3889,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3919,7 +3919,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -3979,7 +3979,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4009,7 +4009,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4039,7 +4039,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4069,7 +4069,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4099,7 +4099,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4129,7 +4129,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4189,7 +4189,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4219,7 +4219,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4249,7 +4249,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4279,7 +4279,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4309,7 +4309,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4369,7 +4369,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4399,7 +4399,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4429,7 +4429,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4459,7 +4459,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4489,7 +4489,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4549,7 +4549,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4579,7 +4579,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4609,7 +4609,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4639,7 +4639,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4669,7 +4669,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4699,7 +4699,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4729,7 +4729,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4760,7 +4760,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4790,7 +4790,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4820,7 +4820,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4850,7 +4850,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4880,7 +4880,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4910,7 +4910,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4939,7 +4939,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4969,7 +4969,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -4999,7 +4999,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5029,7 +5029,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5059,7 +5059,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5089,7 +5089,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5119,7 +5119,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5149,7 +5149,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5209,7 +5209,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5269,7 +5269,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5329,7 +5329,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5359,7 +5359,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5389,7 +5389,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5449,7 +5449,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5479,7 +5479,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5509,7 +5509,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5539,7 +5539,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5569,7 +5569,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5599,7 +5599,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5629,7 +5629,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5659,7 +5659,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5750,7 +5750,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5780,7 +5780,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5810,7 +5810,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5840,7 +5840,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5900,7 +5900,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5959,7 +5959,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -5989,7 +5989,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6019,7 +6019,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6049,7 +6049,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6079,7 +6079,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6139,7 +6139,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6229,7 +6229,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6290,7 +6290,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6320,7 +6320,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6380,7 +6380,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6410,7 +6410,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6440,7 +6440,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6470,7 +6470,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6500,7 +6500,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6531,7 +6531,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6561,7 +6561,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6591,7 +6591,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6683,7 +6683,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6744,7 +6744,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6774,7 +6774,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6804,7 +6804,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6864,7 +6864,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6894,7 +6894,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -6984,7 +6984,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7014,7 +7014,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7044,7 +7044,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7104,7 +7104,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7134,7 +7134,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7164,7 +7164,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7194,7 +7194,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7224,7 +7224,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7254,7 +7254,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7284,7 +7284,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7314,7 +7314,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7344,7 +7344,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7432,7 +7432,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7492,7 +7492,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7522,7 +7522,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7553,7 +7553,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7583,7 +7583,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7613,7 +7613,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7674,7 +7674,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7704,7 +7704,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7734,7 +7734,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7764,7 +7764,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7794,7 +7794,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7824,7 +7824,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7854,7 +7854,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7885,7 +7885,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7915,7 +7915,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -7976,7 +7976,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8006,7 +8006,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8036,7 +8036,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8066,7 +8066,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8096,7 +8096,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8156,7 +8156,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8186,7 +8186,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8216,7 +8216,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8246,7 +8246,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8277,7 +8277,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8306,7 +8306,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8336,7 +8336,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8366,7 +8366,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8396,7 +8396,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8426,7 +8426,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8455,7 +8455,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8545,7 +8545,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8605,7 +8605,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8635,7 +8635,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8696,7 +8696,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8726,7 +8726,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8756,7 +8756,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8786,7 +8786,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8816,7 +8816,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8846,7 +8846,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8876,7 +8876,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8905,7 +8905,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8935,7 +8935,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8966,7 +8966,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -8996,7 +8996,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9026,7 +9026,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9056,7 +9056,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9146,7 +9146,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9177,7 +9177,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9295,7 +9295,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9324,7 +9324,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9355,7 +9355,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9594,7 +9594,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9624,7 +9624,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9684,7 +9684,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9714,7 +9714,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9743,7 +9743,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9803,7 +9803,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9834,7 +9834,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9952,7 +9952,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -9982,7 +9982,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10013,7 +10013,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10042,7 +10042,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10101,7 +10101,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10192,7 +10192,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10222,7 +10222,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10281,7 +10281,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10311,7 +10311,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10372,7 +10372,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10403,7 +10403,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10432,7 +10432,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10462,7 +10462,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10492,7 +10492,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10522,7 +10522,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10612,7 +10612,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10642,7 +10642,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10672,7 +10672,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10702,7 +10702,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10733,7 +10733,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10762,7 +10762,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10791,7 +10791,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10853,7 +10853,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10883,7 +10883,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10912,7 +10912,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10941,7 +10941,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -10971,7 +10971,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11030,7 +11030,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11108,35 +11108,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/6168604410070",
-      "display_name": "Petra Güttinger",
-      "zip": "88605",
-      "city": "Messkirch",
-      "country": "Germany",
-      "lat": 47.9944211,
-      "lng": 9.1156399,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "petrakoschick@web.de",
-        "phone": "+491732136353",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/6172126511318",
       "display_name": "Wolfgang  Fischer",
       "zip": "95326",
@@ -11149,7 +11120,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11179,7 +11150,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11208,7 +11179,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11237,7 +11208,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11297,7 +11268,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11326,7 +11297,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11357,7 +11328,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11416,7 +11387,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11476,7 +11447,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11566,7 +11537,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11596,7 +11567,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11626,7 +11597,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11657,7 +11628,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11717,8 +11688,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@visio-dienstleistung.de",
@@ -11748,7 +11719,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11807,7 +11778,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11866,7 +11837,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11927,7 +11898,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -11986,7 +11957,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12017,7 +11988,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12047,7 +12018,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12076,7 +12047,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12165,7 +12136,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12194,7 +12165,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12223,7 +12194,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12253,7 +12224,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12312,7 +12283,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12341,7 +12312,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12370,7 +12341,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12412,8 +12383,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -12490,7 +12461,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12521,7 +12492,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12550,7 +12521,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12581,7 +12552,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12612,7 +12583,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12631,36 +12602,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/6658350153992",
-      "display_name": "Simone Lübbers",
-      "zip": "46499",
-      "city": "Hamminkeln",
-      "country": "Germany",
-      "lat": 51.7305339,
-      "lng": 6.5916139,
-      "ausbildung": "Tierheilpraktiker",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "salvador-welsh2@web.de",
-        "phone": "+491639883731",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Telefon"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/6661166072072",
       "display_name": "Marie Piele",
       "zip": "77654",
@@ -12673,7 +12614,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12735,7 +12676,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12764,7 +12705,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12825,7 +12766,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12854,7 +12795,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12885,7 +12826,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12914,7 +12855,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -12931,37 +12872,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/6700007194888",
-      "display_name": "Matthias Kreuzer-laborn - Hoof Care & Protect",
-      "zip": "93089",
-      "city": "Aufhausen",
-      "country": "Germany",
-      "lat": 48.8718853,
-      "lng": 12.2815118,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "kreuzer-laborn.matthias@gmx.de",
-        "phone": "+4915201733690",
-        "website": null,
-        "preferred": [
-          "Mail",
-          "Telefon",
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/6701351207176",
       "display_name": "Julio Meier",
       "zip": "7318",
@@ -12974,7 +12884,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13003,7 +12913,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13062,7 +12972,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13091,7 +13001,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13122,7 +13032,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13182,7 +13092,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13213,7 +13123,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13271,7 +13181,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13359,7 +13269,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13390,7 +13300,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13509,7 +13419,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13568,7 +13478,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13629,7 +13539,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13648,36 +13558,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/6860911870216",
-      "display_name": "Katharina Bingemann",
-      "zip": "76833",
-      "city": "Siebeldingen",
-      "country": "Germany",
-      "lat": 49.2372083,
-      "lng": 8.0905998,
-      "ausbildung": "Huftechniker",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "hufpflege-bingemann@web.de",
-        "phone": "+4915901565583",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Telefon"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/6871565762824",
       "display_name": "Marina Magerl",
       "zip": "82166",
@@ -13690,7 +13570,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13749,7 +13629,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13808,7 +13688,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13867,7 +13747,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13896,7 +13776,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13958,7 +13838,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -13989,7 +13869,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14049,7 +13929,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14079,7 +13959,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14138,7 +14018,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14168,7 +14048,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14258,7 +14138,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14317,7 +14197,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14378,7 +14258,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14409,7 +14289,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14439,7 +14319,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14529,7 +14409,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14573,8 +14453,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -14620,7 +14500,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14651,7 +14531,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14681,7 +14561,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14710,7 +14590,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14769,7 +14649,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14829,7 +14709,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -14916,7 +14796,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15006,7 +14886,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15035,7 +14915,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15066,7 +14946,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15127,7 +15007,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15156,7 +15036,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15246,7 +15126,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15276,7 +15156,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15335,7 +15215,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15352,36 +15232,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/7090732597512",
-      "display_name": "Florian Becker",
-      "zip": "66957",
-      "city": "Kröppen",
-      "country": "Germany",
-      "lat": 49.14986,
-      "lng": 7.5257188,
-      "ausbildung": "Hufschmied",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "hufbeschlag-becker@web.de",
-        "phone": "+491744004385",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/7092309426440",
       "display_name": "Ralf Hikade",
       "zip": "2320",
@@ -15394,7 +15244,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15454,7 +15304,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15483,7 +15333,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15513,7 +15363,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15543,7 +15393,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15572,7 +15422,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15603,7 +15453,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15632,7 +15482,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15662,7 +15512,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15722,7 +15572,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15751,7 +15601,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15780,7 +15630,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15811,7 +15661,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15873,7 +15723,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15964,7 +15814,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -15980,36 +15830,6 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7181162545416",
-      "display_name": "Linda Fuchs",
-      "zip": "2182 XH",
-      "city": "Hillegom",
-      "country": "Netherland",
-      "lat": 52.2999681,
-      "lng": 4.580927099999999,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "linda@equi-balance-training.nl",
-        "phone": "+31613574442",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -16231,7 +16051,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16260,7 +16080,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16291,7 +16111,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16379,7 +16199,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16388,67 +16208,6 @@
         "website": null,
         "preferred": [
           "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7221463875848",
-      "display_name": "Sabine Otto",
-      "zip": "04463",
-      "city": "Großpösna",
-      "country": "Germany",
-      "lat": 51.237716,
-      "lng": 12.4831199,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "steffenotto76@web.de",
-        "phone": "+491607332462",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Mail",
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7223912923400",
-      "display_name": "Annika Pech",
-      "zip": "08297",
-      "city": "Zwönitz",
-      "country": "Germany",
-      "lat": 50.6495135,
-      "lng": 12.8257791,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "hufbearbeitung.a.pech@web.de",
-        "phone": "+4915205498661",
-        "website": null,
-        "preferred": [
-          "Mail",
-          "Whatsapp"
         ]
       },
       "badge": {
@@ -16469,7 +16228,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16529,7 +16288,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16619,7 +16378,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16649,7 +16408,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16680,7 +16439,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16804,7 +16563,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16954,7 +16713,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -16984,7 +16743,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17013,7 +16772,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17102,7 +16861,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17162,7 +16921,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17281,7 +17040,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17310,7 +17069,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17401,7 +17160,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17430,7 +17189,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17521,7 +17280,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17533,8 +17292,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -17669,7 +17428,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17698,7 +17457,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17847,7 +17606,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17876,7 +17635,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17935,7 +17694,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17966,7 +17725,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -17996,7 +17755,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18025,7 +17784,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18054,7 +17813,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18112,7 +17871,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18141,7 +17900,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18233,7 +17992,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18322,7 +18081,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18352,7 +18111,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18382,7 +18141,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18411,7 +18170,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18500,7 +18259,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18530,7 +18289,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18578,35 +18337,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/7872903938312",
-      "display_name": "Karin Ludwig",
-      "zip": "15741",
-      "city": "Bestensee",
-      "country": "Germany",
-      "lat": 52.2426854,
-      "lng": 13.6336052,
-      "ausbildung": "Tierarzt",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "ta.karinludwig@web.de",
-        "phone": "+491638798724",
-        "website": null,
-        "preferred": [
-          "Mail"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/7879630127368",
       "display_name": "florian riemer",
       "zip": "85391",
@@ -18650,7 +18380,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18680,7 +18410,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18739,7 +18469,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18769,7 +18499,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18798,7 +18528,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18827,7 +18557,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18841,36 +18571,6 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/7915533598984",
-      "display_name": "Anne Schüller",
-      "zip": "54578",
-      "city": "Kerpen",
-      "country": "Germany",
-      "lat": 50.3097384,
-      "lng": 6.7294484,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "schueller.anne@web.de",
-        "phone": "+4915153009414",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Telefon"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -18916,7 +18616,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -18946,7 +18646,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19004,7 +18704,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19033,7 +18733,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19062,7 +18762,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19092,7 +18792,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19152,7 +18852,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19181,7 +18881,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19241,7 +18941,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19271,7 +18971,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19360,7 +19060,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19391,7 +19091,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19420,7 +19120,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19450,7 +19150,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19481,7 +19181,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19511,7 +19211,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19541,7 +19241,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19571,7 +19271,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19630,7 +19330,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19660,7 +19360,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19689,7 +19389,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19749,7 +19449,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19778,7 +19478,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19809,7 +19509,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19868,7 +19568,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19897,7 +19597,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19926,7 +19626,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -19944,36 +19644,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/8079507095816",
-      "display_name": "Daniel Hartl",
-      "zip": "4730",
-      "city": "Waizenkirchen",
-      "country": "Austria",
-      "lat": 48.3305787,
-      "lng": 13.8574179,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "hartldaniel@gmx.at",
-        "phone": "+436605590085",
-        "website": null,
-        "preferred": [
-          "Whatsapp",
-          "Telefon"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/8088238522632",
       "display_name": "Rosi Bierl",
       "zip": "85540",
@@ -19986,7 +19656,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20047,8 +19717,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "katrin.haberbosch@web.de",
@@ -20076,7 +19746,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20107,7 +19777,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20136,7 +19806,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20165,7 +19835,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20196,7 +19866,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20256,7 +19926,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20286,7 +19956,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20316,7 +19986,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20347,7 +20017,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20406,7 +20076,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20465,7 +20135,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20495,7 +20165,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20584,7 +20254,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20614,7 +20284,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20644,7 +20314,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20674,7 +20344,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20703,7 +20373,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20733,7 +20403,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20762,7 +20432,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20791,7 +20461,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20810,35 +20480,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/8246130868488",
-      "display_name": "Melanie Eltges",
-      "zip": "54518",
-      "city": "Bergweiler",
-      "country": "Germany",
-      "lat": 49.9657509,
-      "lng": 6.824233899999999,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "blickwinkel-huf@web.de",
-        "phone": "+4915129065386",
-        "website": null,
-        "preferred": [
-          "Telefon"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/8252656320776",
       "display_name": "Bram de Langen",
       "zip": "7951XL",
@@ -20851,7 +20492,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20882,7 +20523,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20911,7 +20552,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20941,7 +20582,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20970,7 +20611,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -20999,7 +20640,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21029,7 +20670,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21058,7 +20699,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21088,7 +20729,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21098,35 +20739,6 @@
         "preferred": [
           "Mail",
           "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/8303222522120",
-      "display_name": "Sibylle Köhler",
-      "zip": "73235",
-      "city": "Weilheim",
-      "country": "Germany",
-      "lat": 48.61452509999999,
-      "lng": 9.5529025,
-      "ausbildung": "Tierheilpraktiker",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "sibylle_koehler@icloud.com",
-        "phone": "+491747454074",
-        "website": null,
-        "preferred": [
-          "Mail"
         ]
       },
       "badge": {
@@ -21177,7 +20789,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21237,7 +20849,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21267,7 +20879,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21297,7 +20909,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21309,8 +20921,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -21326,7 +20938,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21357,7 +20969,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21386,7 +20998,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21415,7 +21027,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21445,7 +21057,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21475,7 +21087,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21506,7 +21118,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21514,36 +21126,6 @@
         "phone": "+4916096445588",
         "website": null,
         "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/8419000221960",
-      "display_name": "Wilhelm BÜCHNER",
-      "zip": "5440",
-      "city": "Golling",
-      "country": "Austria",
-      "lat": 47.5974332,
-      "lng": 13.1676579,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "buechnerwilhelm@aol.com",
-        "phone": "+436604801059",
-        "website": null,
-        "preferred": [
-          "Mail",
           "Whatsapp"
         ]
       },
@@ -21594,7 +21176,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21625,7 +21207,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21654,7 +21236,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21683,7 +21265,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21713,7 +21295,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21743,7 +21325,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21772,7 +21354,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21801,7 +21383,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21830,7 +21412,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21889,7 +21471,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21918,7 +21500,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -21978,7 +21560,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22036,8 +21618,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "info@das-huflaedchen.de",
@@ -22066,7 +21648,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22095,7 +21677,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22156,7 +21738,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22214,7 +21796,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22243,7 +21825,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22274,7 +21856,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22304,7 +21886,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22364,7 +21946,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22423,7 +22005,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22453,7 +22035,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22482,7 +22064,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22542,7 +22124,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22601,7 +22183,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22631,7 +22213,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22661,7 +22243,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22719,7 +22301,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22748,7 +22330,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22796,35 +22378,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/9439546278152",
-      "display_name": "Juergen Gotthardt",
-      "zip": "56414",
-      "city": "Meidt",
-      "country": "Germany",
-      "lat": 50.4919605,
-      "lng": 7.8953852,
-      "ausbildung": "Hufschmied",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "info@juergen-gotthardt.de",
-        "phone": "+491722590675",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Neu dabei",
-        "tooltip": "Neu gelistet – noch ohne Bestellungen über Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/9440291586312",
       "display_name": "Hufschmied Schnelle",
       "zip": "61276",
@@ -22837,7 +22390,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22867,7 +22420,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22898,7 +22451,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22927,7 +22480,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -22957,7 +22510,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23078,7 +22631,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23108,7 +22661,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23137,7 +22690,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23166,7 +22719,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23195,7 +22748,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23224,7 +22777,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23253,7 +22806,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23284,7 +22837,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23313,7 +22866,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23344,7 +22897,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23373,7 +22926,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23403,7 +22956,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23462,7 +23015,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23523,7 +23076,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23552,7 +23105,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23581,7 +23134,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23640,7 +23193,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23728,7 +23281,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23758,7 +23311,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23788,7 +23341,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23819,7 +23372,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23848,7 +23401,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23894,35 +23447,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/10000351756552",
-      "display_name": "Philipp Trottner",
-      "zip": "16341",
-      "city": "Panketal",
-      "country": "Germany",
-      "lat": 52.6420277,
-      "lng": 13.5367607,
-      "ausbildung": "Hufschmied",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
-      },
-      "contact": {
-        "email": "gangwerk@pt-hufbeschlag.de",
-        "phone": "+4915206661163",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/10075719926024",
       "display_name": "Claudia Heise",
       "zip": "36367",
@@ -23935,7 +23459,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23965,7 +23489,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -23995,7 +23519,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24026,7 +23550,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24055,7 +23579,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24086,7 +23610,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24116,7 +23640,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24147,7 +23671,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24206,7 +23730,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24265,7 +23789,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24295,7 +23819,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24325,7 +23849,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24385,8 +23909,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "jessica-grilletta@t-online.de",
@@ -24414,7 +23938,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24473,7 +23997,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24532,7 +24056,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24562,7 +24086,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24593,7 +24117,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24622,7 +24146,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24651,7 +24175,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24680,7 +24204,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24709,7 +24233,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24740,7 +24264,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24771,7 +24295,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24801,7 +24325,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24831,7 +24355,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24860,7 +24384,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24889,7 +24413,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -24948,7 +24472,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25007,7 +24531,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25066,7 +24590,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25096,7 +24620,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25154,7 +24678,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25183,7 +24707,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25241,7 +24765,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25328,7 +24852,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25357,8 +24881,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "mariella97@live.de",
@@ -25388,7 +24912,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25417,7 +24941,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25446,7 +24970,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25476,7 +25000,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25566,7 +25090,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25595,8 +25119,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "sfreiler0@gmail.com",
@@ -25624,7 +25148,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25653,7 +25177,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25682,7 +25206,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25713,7 +25237,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25744,7 +25268,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25774,7 +25298,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -25803,8 +25327,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "wimmerthomas@yahoo.de",
@@ -25863,8 +25387,8 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
-        "klebebeschlag": false
+        "hufschuh": true,
+        "klebebeschlag": true
       },
       "contact": {
         "email": "hufortho-esser@gmx.de",
@@ -26013,7 +25537,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -26042,7 +25566,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
@@ -26161,7 +25685,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": false,
+        "hufschuh": true,
         "klebebeschlag": true
       },
       "contact": {
