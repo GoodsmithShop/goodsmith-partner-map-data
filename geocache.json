@@ -44,6 +44,11 @@
     "lng": 6.786287799999999,
     "formatted": "50259 Pulheim, Germany"
   },
+  "82152|planegg|germany": {
+    "lat": 48.1073175,
+    "lng": 11.3983182,
+    "formatted": "82152 Planegg, Germany"
+  },
   "25361|elskop|germany": {
     "lat": 53.8177595,
     "lng": 9.5124148,
@@ -1693,11 +1698,6 @@
     "lat": 48.8612691,
     "lng": 9.4685245,
     "formatted": "73663 Berglen, Germany"
-  },
-  "82229|seefeld|germany": {
-    "lat": 48.03836099999999,
-    "lng": 11.2330897,
-    "formatted": "82229 Seefeld, Germany"
   },
   "9468|sax|switzerland": {
     "lat": 47.2271607,

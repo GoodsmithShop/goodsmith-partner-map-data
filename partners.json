@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-22T06:56:20+00:00",
+  "generated_at": "2026-05-23T06:18:07+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -270,6 +270,35 @@
       "badge": {
         "label": "Gelegentlich aktiv",
         "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/2796984401992",
+      "display_name": "Simon Salowsky",
+      "zip": "82152",
+      "city": "Planegg",
+      "country": "Germany",
+      "lat": 48.1073175,
+      "lng": 11.3983182,
+      "ausbildung": "Huftechniker",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": false
+      },
+      "contact": {
+        "email": "simon.salowsky@good-smith.com",
+        "phone": "+495111681250",
+        "website": null,
+        "preferred": [
+          "Telefon"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -8949,8 +8978,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -10561,37 +10590,6 @@
         "website": null,
         "preferred": [
           "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
-      }
-    },
-    {
-      "partner_id": "gid://shopify/Customer/6059654807766",
-      "display_name": "Christel Friederici",
-      "zip": "82229",
-      "city": "Seefeld",
-      "country": "Germany",
-      "lat": 48.03836099999999,
-      "lng": 11.2330897,
-      "ausbildung": "Sonstiges",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "christel.friederici@gmail.com",
-        "phone": "+4915161461237",
-        "website": null,
-        "preferred": [
-          "Telefon",
-          "Whatsapp",
-          "Mail"
         ]
       },
       "badge": {
@@ -13730,8 +13728,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -13912,8 +13910,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -18124,8 +18122,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -21988,8 +21986,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
