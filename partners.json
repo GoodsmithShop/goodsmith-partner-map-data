@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-05-24T06:42:48+00:00",
+  "generated_at": "2026-05-25T07:21:57+00:00",
   "partners": [
     {
       "partner_id": "gid://shopify/Customer/698854572144",
@@ -173,8 +173,8 @@
         "phone": "+491751902751",
         "website": null,
         "preferred": [
-          "Whatsapp",
-          "Mail"
+          "Mail",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -208,8 +208,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -3582,7 +3582,7 @@
       "country": "Germany",
       "lat": 48.48212849999999,
       "lng": 8.8828582,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
@@ -3595,8 +3595,8 @@
         "phone": "+491778737731",
         "website": null,
         "preferred": [
-          "Telefon",
-          "Mail"
+          "Mail",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -4051,8 +4051,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -4087,7 +4087,7 @@
     },
     {
       "partner_id": "gid://shopify/Customer/3079036141640",
-      "display_name": "Erika Guggisberger",
+      "display_name": "Erika Guggisberg",
       "zip": "3086",
       "city": "Englisberg",
       "country": "Switzerland",
@@ -4103,7 +4103,7 @@
       },
       "contact": {
         "email": "rikigugg@hotmail.com",
-        "phone": "+41318190292",
+        "phone": "+41792480576",
         "website": null,
         "preferred": [
           "Telefon",
@@ -9415,12 +9415,12 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
         "email": "melanie.n1989@web.de",
-        "phone": "+491726870504",
+        "phone": "+49726870504",
         "website": null,
         "preferred": [
           "Whatsapp"
@@ -9760,6 +9760,35 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/5664914473123",
+      "display_name": "Dominique Maier",
+      "zip": "76199",
+      "city": "Karlstuhe",
+      "country": "Germany",
+      "lat": 48.97284819999999,
+      "lng": 8.4060268,
+      "ausbildung": "Hufschmied",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "maier-dundh@email.de",
+        "phone": "+495901755620",
+        "website": null,
+        "preferred": [
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/5695209799843",
       "display_name": "Thomas Frank",
       "zip": "83671",
@@ -9947,7 +9976,7 @@
       "country": "Germany",
       "lat": 47.8732462,
       "lng": 7.657537299999999,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
@@ -9957,7 +9986,7 @@
       },
       "contact": {
         "email": "miriamschlegel78@gmx.de",
-        "phone": "+491772106653",
+        "phone": "+49772106653",
         "website": null,
         "preferred": [
           "Whatsapp"
@@ -11206,12 +11235,12 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
         "email": "miriam.grimm21@gmail.com",
-        "phone": "+4917656700010",
+        "phone": "+497656700010",
         "website": null,
         "preferred": [
           "Mail",
@@ -11578,8 +11607,8 @@
         ]
       },
       "badge": {
-        "label": "Gelegentlich aktiv",
-        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -11805,7 +11834,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
@@ -13073,8 +13102,8 @@
         ]
       },
       "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+        "label": "Gelegentlich aktiv",
+        "tooltip": "War früher aktiv – in letzter Zeit weniger Anfragen über Goodsmith"
       }
     },
     {
@@ -13145,7 +13174,7 @@
       "country": "Germany",
       "lat": 51.20579910000001,
       "lng": 7.0042465,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Hufbearbeiter",
       "customer_fields": {
         "sperre": false
       },
@@ -13158,7 +13187,8 @@
         "phone": "+491796178068",
         "website": null,
         "preferred": [
-          "Telefon"
+          "Telefon",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -13556,35 +13586,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/6871565762824",
-      "display_name": "Marina Magerl",
-      "zip": "82166",
-      "city": "Gräfelfing",
-      "country": "Germany",
-      "lat": 48.1227429,
-      "lng": 11.4340549,
-      "ausbildung": "Hufpfleger",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "marina-magerl@gmx.de",
-        "phone": "+4915730117823",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/6872897945864",
       "display_name": "Michaela Pieper-Schmickaly",
       "zip": "38375",
@@ -13836,7 +13837,7 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
@@ -13844,9 +13845,9 @@
         "phone": "+491796663745",
         "website": null,
         "preferred": [
-          "Whatsapp",
           "Telefon",
-          "Mail"
+          "Mail",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -14041,7 +14042,7 @@
       "country": "Germany",
       "lat": 51.10792679999999,
       "lng": 7.059227,
-      "ausbildung": "Hufpfleger",
+      "ausbildung": "Huftechniker",
       "customer_fields": {
         "sperre": false
       },
@@ -14051,10 +14052,10 @@
       },
       "contact": {
         "email": "mendel.muhr@gmx.de",
-        "phone": "+4915736436067",
+        "phone": "+495736436067",
         "website": null,
         "preferred": [
-          "Whatsapp"
+          "Telefon"
         ]
       },
       "badge": {
@@ -15168,6 +15169,36 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/7060831633672",
+      "display_name": "Natascha Moore",
+      "zip": "63860",
+      "city": "Rothenbuch",
+      "country": "Germany",
+      "lat": 49.9660791,
+      "lng": 9.3986681,
+      "ausbildung": "Hufpfleger",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "nleamoore@gmail.com",
+        "phone": "+4917682381878",
+        "website": null,
+        "preferred": [
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -17117,35 +17148,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/7598311702792",
-      "display_name": "Katja Matzick",
-      "zip": "42553",
-      "city": "Velbert",
-      "country": "Germany",
-      "lat": 51.3158524,
-      "lng": 7.098790699999999,
-      "ausbildung": "Hufbearbeiter",
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "katja.matzick@web.de",
-        "phone": "+4917640551986",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/7598320353544",
       "display_name": "Astrid Paschke",
       "zip": "58456",
@@ -18361,8 +18363,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -18614,16 +18616,16 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
         "email": "passion.huf@icloud.com",
-        "phone": "+491704942005",
+        "phone": "+49704942005",
         "website": null,
         "preferred": [
-          "Whatsapp",
-          "Telefon"
+          "Telefon",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -18954,6 +18956,36 @@
       "badge": {
         "label": "Aktiver Partner",
         "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/7957945975048",
+      "display_name": "Stefanie Gerhart",
+      "zip": "4730",
+      "city": "Waizenkirchen",
+      "country": "Austria",
+      "lat": 48.3305787,
+      "lng": 13.8574179,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": true,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "gerhart.stefanie@gmail.com",
+        "phone": "+4367761349128",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Top Partner",
+        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
       }
     },
     {
@@ -19642,6 +19674,36 @@
       }
     },
     {
+      "partner_id": "gid://shopify/Customer/8079507095816",
+      "display_name": "Hufschnitzerei Stefanie&Daniel",
+      "zip": "4730",
+      "city": "Waizenkirchen",
+      "country": "Austria",
+      "lat": 48.3305787,
+      "lng": 13.8574179,
+      "ausbildung": "Hufbearbeiter",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "hartldaniel@gmx.at",
+        "phone": "+49605590085",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
+      }
+    },
+    {
       "partner_id": "gid://shopify/Customer/8088238522632",
       "display_name": "Rosi Bierl",
       "zip": "85540",
@@ -19703,35 +19765,6 @@
       }
     },
     {
-      "partner_id": "gid://shopify/Customer/8088977604872",
-      "display_name": "Katrin Haberbosch",
-      "zip": "72160",
-      "city": "Horb",
-      "country": "Germany",
-      "lat": 48.4544359,
-      "lng": 8.6481543,
-      "ausbildung": null,
-      "customer_fields": {
-        "sperre": false
-      },
-      "services": {
-        "hufschuh": true,
-        "klebebeschlag": true
-      },
-      "contact": {
-        "email": "katrin.haberbosch@web.de",
-        "phone": "+4917642611553",
-        "website": null,
-        "preferred": [
-          "Whatsapp"
-        ]
-      },
-      "badge": {
-        "label": "Aktiver Partner",
-        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
-      }
-    },
-    {
       "partner_id": "gid://shopify/Customer/8100503224584",
       "display_name": "Andreas  Barabaß",
       "zip": "86647",
@@ -19775,12 +19808,12 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
         "email": "llwolff@web.de",
-        "phone": "+491624759995",
+        "phone": "+49624759995",
         "website": null,
         "preferred": [
           "Mail"
@@ -20415,6 +20448,37 @@
       "badge": {
         "label": "Top Partner",
         "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+      }
+    },
+    {
+      "partner_id": "gid://shopify/Customer/8208310960392",
+      "display_name": "Kevin Piel",
+      "zip": "56332",
+      "city": "Hatzenport",
+      "country": "Germany",
+      "lat": 50.2268615,
+      "lng": 7.4121058,
+      "ausbildung": "Hufpfleger",
+      "customer_fields": {
+        "sperre": false
+      },
+      "services": {
+        "hufschuh": false,
+        "klebebeschlag": true
+      },
+      "contact": {
+        "email": "kepiel.kp@gmail.com",
+        "phone": "+495167805411",
+        "website": null,
+        "preferred": [
+          "Telefon",
+          "Mail",
+          "Whatsapp"
+        ]
+      },
+      "badge": {
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -21570,8 +21634,8 @@
         ]
       },
       "badge": {
-        "label": "Top Partner",
-        "tooltip": "In letzter Zeit besonders aktiv bei Goodsmith"
+        "label": "Aktiver Partner",
+        "tooltip": "Hat bereits Bestellungen über Goodsmith umgesetzt"
       }
     },
     {
@@ -23757,16 +23821,16 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
         "email": "gb_hufbeschlag@gmx.de",
-        "phone": "+491784904216",
+        "phone": "+49784904216",
         "website": null,
         "preferred": [
-          "Whatsapp",
-          "Telefon"
+          "Telefon",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -23782,12 +23846,12 @@
       "country": "Germany",
       "lat": 51.4695452,
       "lng": 9.980594400000001,
-      "ausbildung": "Hufbearbeiter",
+      "ausbildung": "Hufpfleger",
       "customer_fields": {
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
@@ -23795,8 +23859,9 @@
         "phone": "+491628690786",
         "website": null,
         "preferred": [
-          "Whatsapp",
-          "Mail"
+          "Telefon",
+          "Mail",
+          "Whatsapp"
         ]
       },
       "badge": {
@@ -24017,7 +24082,7 @@
       "display_name": "Hilke Bos",
       "zip": "6871cw",
       "city": "Renkum",
-      "country": "Netherland",
+      "country": "Netherlands",
       "lat": 51.9743182,
       "lng": 5.7268129,
       "ausbildung": "Huftechniker",
@@ -24642,17 +24707,17 @@
       "country": "Germany",
       "lat": 52.1406115,
       "lng": 8.041032999999999,
-      "ausbildung": "Hufbearbeiter",
+      "ausbildung": "Huforthopäde",
       "customer_fields": {
         "sperre": false
       },
       "services": {
         "hufschuh": true,
-        "klebebeschlag": true
+        "klebebeschlag": false
       },
       "contact": {
         "email": "kraatz.franziska@web.de",
-        "phone": "+491632576354",
+        "phone": "+49632576354",
         "website": null,
         "preferred": [
           "Whatsapp"
@@ -25771,17 +25836,17 @@
         "sperre": false
       },
       "services": {
-        "hufschuh": true,
+        "hufschuh": false,
         "klebebeschlag": true
       },
       "contact": {
         "email": "hufpflege.liana.unseld@gmail.com",
-        "phone": "+4915126056490",
+        "phone": "+495126056490",
         "website": null,
         "preferred": [
-          "Whatsapp",
+          "Telefon",
           "Mail",
-          "Telefon"
+          "Whatsapp"
         ]
       },
       "badge": {
